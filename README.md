@@ -1,5 +1,4 @@
 # ASPPIBRA-DAO
-Decentralized Autonomous Organization
 
 <div>
 Hello, We are (ASPPIBRA-DAO) the first Decentralized Autonomous Organization in Brazil.
