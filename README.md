@@ -1,4 +1,4 @@
-# [ASPPIBRA-DAO] (https://www.asppibra.com.br/)
+# [ASPPIBRA-DAO] (https://www/)
 
 <div>
 Hello, We are (ASPPIBRA-DAO) the first Decentralized Autonomous Organization in Brazil.
