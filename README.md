@@ -1,7 +1,7 @@
 # ASPPIBRA-DAO
 
 <div>
-> Hello, We are **ASPPIBRA-DAO** the first Decentralized Autonomous Organization in Brazil.
+Hello, We are ASPPIBRA-DAO the first Decentralized Autonomous Organization in Brazil.
 </div> 
 <div style="display: inline_block"><br>
 
