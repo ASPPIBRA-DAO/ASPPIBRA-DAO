@@ -1,4 +1,4 @@
-Quando foi fundada a ASPPIBRA? E qual e seu objetivo?
+#Quando foi fundada a ASPPIBRA? E qual e seu objetivo?
 
 Associação dos Proprietários e Posseiros de Imóveis no Brasil, foi fundada em Setembro de 2016 no município de Maricá no Rio de Janeiro, tendo como principal missão trazer solução ao problema decrépito na de regularização fundiária rural brasileira. E promover a aceleração dos cadastros imobiliários formais juntos aos órgãos de registro para a população alcançar a legalização de seus imóveis, e poder obter incentivos financeiros ao agronegócio que antes na informalidade não tinha acesso.
 
