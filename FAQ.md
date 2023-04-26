@@ -2,16 +2,16 @@
 
 Associação dos Proprietários e Posseiros de Imóveis no Brasil, foi fundada em Setembro de 2016 no município de Maricá no Rio de Janeiro, tendo como principal missão trazer solução ao problema decrépito na de regularização fundiária rural brasileira. E promover a aceleração dos cadastros imobiliários formais juntos aos órgãos de registro para a população alcançar a legalização de seus imóveis, e poder obter incentivos financeiros ao agronegócio que antes na informalidade não tinha acesso.
 
-Quando o projeto MGW começou?
+- Quando o projeto MGW começou?
 
 O projeto MGW começou a partir do incentivo do Governo brasileiro na concessão de propriedades destinadas à exploração mineral, tendo nesse nicho grandes corporações que se instalarão em alguns estados brasileiro e se perpetuaram no seguimento mais mesmo com todos os recursos é quase impossível realizarem estudos de viabilidade e explorações em todo território nacional, devido a gigantesca proporção territorial do nosso Pais, podendo comparar a proporções continentais.
 Vendo essa grande oportunidade de imersão nesse seguimento e tendo total conhecimento dos requisitos jurídicos e informações relevantes de pontos estratégicos de exploração mineral no Pais decidimos lançar o projeto MGW.
 
-O contrato Foi auditado?
+- O contrato Foi auditado?
 
 Não, pois o contrato do token “ASPP” tem funções Básicas de transferência e armazenamento em carteira.
 
-Como será realizada a votação?
+- Como será realizada a votação?
 
 A votação ocorrerá na plataforma e do ecossistema MGW pelos integrantes do ecossistema que concordarem com as condições de exercer seu direito de voto, garantida pela forma de staking dos tokens “ASPP” ou participem da pools de liquidez do projeto.
 
