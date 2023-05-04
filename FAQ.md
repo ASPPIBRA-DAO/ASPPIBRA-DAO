@@ -44,9 +44,10 @@ Disponibilizaremos uma plataforma segura financeira para alavancar e incentivas 
 (3°) Exploração Mineral; O Brasil tem uma reserva mineral estratégica de forma impactar os preços na produção de commodities de minério, uma reserva abundante em diversos estados, através de autorização o governo concede o direito de estudo e exploração desde que preencha os requisitos necessários para tal. Com essa oportunidade e tendo informação privilegiada entraremos com nossa participação nesse mercado garantindo uma rentabilidade para todos associados e introduzindo a Stablecoins nativa do projeto lastreada em uma cesta de metais preciosos
 Do sistema de cofre dando maior liquidez as negociações do token “ASPPBR”.
 
-Quaias requesitos para ocupar cargos Executivos? E sua Vantagens?
+**Quaias requesitos para ocupar cargos Executivos? E sua Vantagens?**
 
-São 60 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto para representarem a comunidade e os associados nas suas demandas votadas no ecossistema como requisito para ocupar os cargos e necessário que o interessado preencha o cadastro inicial e sinalize seu interesse em ocupar o cargo disponível no momento, apos a confirmação dos dados preenchido e ter efetuado a compra dos tokens ele receberá um e-mail de confirmação de sua inscrição no projeto com instruções para ocupar o cargo assinalado.
+Para concorrer aos cargos executivos do projeto, os interessados devem se cadastrar, especificar o cargo de seu interesse e observar o estatuto e o regimento interno. Após completarem o processo de registo e confirmarem os seus dados, receberão um e-mail com instruções sobre como ocupar o cargo designado. Os cargos disponíveis incluem **presidência, secretaria, tesouraria, conselho fiscal, embaixador,** entre outros. Ao ocupar esses cargos, os indivíduos podem representar a comunidade e os associados, opinar sobre as demandas votadas no ecossistema e potencialmente se beneficiar dos ganhos financeiros do projeto.
+São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto.
 
 - Presidência (2) vagas:
 - suplentes (4) vagas:
