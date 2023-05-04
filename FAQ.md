@@ -1,11 +1,12 @@
--**Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?**
+**Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?**
 
 A Associação de Proprietários e Possuidores de Imóveis do Brasil (ASPPIBRA) foi fundada em setembro de 2016 no município de Maricá, Rio de Janeiro. O principal objetivo da ASPPIBRA é resolver o problema antigo da posse irregular de terras no Brasil, tanto em áreas urbanas quanto rurais. Por meio da integração dos cadastros imobiliários com a tecnologia blockchain, a ASPPIBRA visa possibilitar a regularização de imóveis para a população, reduzindo a informalidade a zero e garantindo maior transparência nas informações. Em última análise, a ASPPIBRA busca promover o crescimento do setor, fornecendo uma solução abrangente para o problema da regularização fundiária no Brasil.
 
-- Quando o projeto MGW começou?
+**Quando o projeto MUNDO DIGITAL começou?**
 
-O projeto MGW começou a partir do incentivo do Governo brasileiro na concessão de propriedades destinadas à exploração mineral, tendo nesse nicho grandes corporações que se instalarão em alguns estados brasileiro e se perpetuaram no seguimento mais mesmo com todos os recursos é quase impossível realizarem estudos de viabilidade e explorações em todo território nacional, devido a gigantesca proporção territorial do nosso Pais, podendo comparar a proporções continentais.
-Vendo essa grande oportunidade de imersão nesse seguimento e tendo total conhecimento dos requisitos jurídicos e informações relevantes de pontos estratégicos de exploração mineral no Pais decidimos lançar o projeto MGW.
+O projeto MUNDO DIGITAL surgiu a partir do incentivo do governo brasileiro ao desenvolvimento de soluções tecnológicas para as áreas de exploração mineral, agronegócio e geração sustentável de energia. Esses setores são dominados por grandes corporações, que devem estabelecer presença em vários estados brasileiros e operar nesses setores em uma base de longo prazo. No entanto, dada a vastidão do país, a realização de estudos de viabilidade em todas as regiões é um grande desafio.
+
+Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo conhecimento abrangente dos requisitos legais relevantes e localizações estratégicas em todo o país, foi tomada a decisão de lançar o projeto MUNDO DIGITAL. Por meio desse projeto, pretendemos fornecer uma plataforma que integre todas as informações e recursos necessários, facilitando às empresas a realização de estudos de viabilidade e uma forte presença nesses setores em todo o Brasil.
 
 - O contrato Foi auditado?
 
