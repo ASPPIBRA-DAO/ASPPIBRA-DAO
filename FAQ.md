@@ -8,9 +8,9 @@ O projeto MUNDO DIGITAL surgiu a partir do incentivo do governo brasileiro ao de
 
 Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo conhecimento abrangente dos requisitos legais relevantes e localizações estratégicas em todo o país, foi tomada a decisão de lançar o projeto MUNDO DIGITAL. Por meio desse projeto, pretendemos fornecer uma plataforma que integre todas as informações e recursos necessários, facilitando às empresas a realização de estudos de viabilidade e uma forte presença nesses setores em todo o Brasil.
 
-- O contrato Foi auditado?
+**O contrato do Token foi auditado?**
 
-Não, pois o contrato do token “ASPPBR” tem funções Básicas de transferência e armazenamento em carteira.
+Não, o contrato de token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, que visa facilitar a transferência e o armazenamento de tokens. No entanto, é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
 
 - Como será realizada a votação?
 
