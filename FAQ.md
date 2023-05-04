@@ -12,9 +12,9 @@ Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo co
 
 Não, o contrato de token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, que visa facilitar a transferência e o armazenamento de tokens. No entanto, é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
 
-- Como será realizada a votação?
+**Como será feita a votação?**
 
-A votação ocorrerá na plataforma do ecossistema MUNDO DIGITAL pelos integrantes do ecossistema que concordarem com as condições de exercer seu direito de voto, garantida pela forma de staking dos tokens “ASPPBR” ou participem da pools de liquidez do projeto.
+Para exercer o direito de voto, os membros do ecossistema MUNDO DIGITAL devem concordar com as condições descritas na plataforma e possuir tokens "ASPPBR". A votação ocorrerá na plataforma MUNDO DIGITAL, que proporcionará um processo seguro e transparente para que os associados participem das tomadas de decisão. A plataforma permitirá que os membros votem eletronicamente e acompanhem os resultados em tempo real, garantindo que o processo de votação seja justo e preciso. Ao alavancar a transparência e a segurança da tecnologia blockchain, a plataforma MUNDO DIGITAL visa criar um ecossistema democrático e inclusivo onde todos os membros tenham voz na definição de sua direção futura.
 
 Quem poderar concorrer aos cargos executivos?
 
