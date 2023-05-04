@@ -135,3 +135,15 @@ Um contrato inteligente, também conhecido como contrato autoexecutável, é um 
 **O que e Stablecoins?**
 
 Stablecoins, também conhecidas como stablecoins, são um tipo de criptomoeda projetada para manter um valor estável ao ser atrelada a um ativo estável ou a uma cesta de ativos. O principal objetivo das stablecoins é controlar a volatilidade das criptomoedas, conhecidas por suas flutuações de preço. As stablecoins podem ser atreladas a uma variedade de ativos, incluindo criptomoedas, moedas fiduciárias, metais preciosos como ouro e prata ou commodities como petróleo. Ao fornecer uma reserva estável de valor, as stablecoins oferecem aos usuários um meio mais confiável e previsível de transações com criptomoedas, tornando-as mais adequadas para o uso diário.
+
+**O que é um pool de liquidez?**
+
+Um pool de liquidez é um pool de fundos bloqueados em um contrato inteligente em uma bolsa descentralizada (DEX). Esses fundos são usados para facilitar a negociação de criptomoedas na plataforma. Os pools de liquidez são criados por provedores de liquidez que depositam seus criptoativos no pool e são recompensados com taxas de negociações que ocorrem no DEX.
+
+**Como funciona um pool de liquidez?**
+
+Os pools de liquidez funcionam criando um mercado para negociação de criptomoedas em uma DEX. Quando um usuário deseja trocar uma criptomoeda por outra, a transação é facilitada pelo pool de liquidez. O pool mantém reservas de diferentes criptomoedas e a taxa de câmbio entre elas é determinada pela proporção dos ativos no pool. Quando ocorre uma negociação, o provedor de liquidez ganha uma parte das taxas cobradas pela DEX.
+
+**Quais são os benefícios dos pools de liquidez?**
+
+Os pools de liquidez oferecem benefícios tanto para traders quanto para provedores de liquidez. Os comerciantes se beneficiam da capacidade de negociar criptomoedas sem depender de trocas centralizadas, que podem ter taxas altas ou estar sujeitas a hacks ou outras violações de segurança. Os provedores de liquidez ganham taxas de negociações e ajudam a garantir que a DEX tenha liquidez suficiente para facilitar as negociações, o que pode levar ao aumento do volume de negociações e à estabilidade de preços.
