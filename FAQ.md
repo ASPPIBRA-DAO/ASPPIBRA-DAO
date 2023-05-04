@@ -48,19 +48,15 @@ Quaias requesitos para ocupar cargos Executivos? E sua Vantagens?
 
 São 60 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto para representarem a comunidade e os associados nas suas demandas votadas no ecossistema como requisito para ocupar os cargos e necessário que o interessado preencha o cadastro inicial e sinalize seu interesse em ocupar o cargo disponível no momento, apos a confirmação dos dados preenchido e ter efetuado a compra dos tokens ele receberá um e-mail de confirmação de sua inscrição no projeto com instruções para ocupar o cargo assinalado.
 
-Presidencia (2) vagas:
-suplentes (4) vagas:
-
-Secretário (3) vagas:
-suplentes: (6) vagas:
-
-Tisoreiro (3) vagas:
-suplentes: (3) vagas:
-
-Conselho Fiscal (6) vagas:
-suplentes (6) vagas:
-
-Embaixadores (27) vagas:
+- Presidencia (2) vagas:
+- suplentes (4) vagas:
+- Secretário (3) vagas:
+- suplentes: (6) vagas:
+- Tisoreiro (3) vagas:
+- suplentes: (3) vagas:
+- Conselho Fiscal (6) vagas:
+- suplentes (6) vagas:
+- Embaixadores (135) vagas:
 
 Desenvolvedores?
 
