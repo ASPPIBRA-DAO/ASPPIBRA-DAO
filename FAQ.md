@@ -98,6 +98,22 @@ Blockchain oferece vários benefícios, incluindo maior transparência, seguran�
 
 Blockchain está sendo usado em uma variedade de setores, incluindo finanças, gerenciamento da cadeia de suprimentos e saúde. Por exemplo, algumas empresas estão usando blockchain para criar cadeias de suprimentos seguras e transparentes que permitem aos consumidores rastrear as origens de seus produtos. Nas finanças, o blockchain está sendo usado para criar moedas digitais como Bitcoin e Ethereum, bem como para agilizar e proteger transações financeiras.
 
+**O que é Bitcoin?**
+
+Bitcoin é uma moeda digital ou criptomoeda que opera independentemente dos bancos centrais e usa técnicas de criptografia para regular a geração de unidades monetárias e verificar a transferência de fundos.
+
+**Como funciona o Bitcoin?**
+
+Bitcoin funciona usando um registro descentralizado chamado blockchain, que é um banco de dados público de todas as transações já feitas com Bitcoin. Novas transações são verificadas por uma rede de usuários chamados mineradores, que são recompensados com bitcoins recém-criados por seu trabalho. O blockchain garante a segurança e a integridade da rede Bitcoin, tornando praticamente impossível hackear ou falsificar.
+
+**Quais são as vantagens de usar o Bitcoin?**
+
+O Bitcoin oferece várias vantagens em relação às moedas e sistemas de pagamento tradicionais, incluindo taxas de transação mais baixas, pagamentos internacionais mais rápidos e baratos, maior privacidade e segurança e maior liberdade financeira e independência das autoridades centralizadas.
+
+**Quais são os riscos de usar o Bitcoin?**
+
+Bitcoin é uma tecnologia relativamente nova e não regulamentada e, como tal, está sujeita a volatilidade e outros riscos. Seu valor pode flutuar muito e não é respaldado por nenhum ativo físico ou garantia do governo. Além disso, pode ser um desafio para os recém-chegados entender e usar com segurança.
+
 **O que e NFT?**
 
 Um NFT, ou token não fungível, é um token criptográfico exclusivo que representa um ativo digital, como imagem, vídeo, música ou outros tipos de conteúdo digital. Ao contrário das criptomoedas tradicionais, cada NFT é distinto e não pode ser substituído ou trocado por outro NFT. Os NFTs usam a tecnologia blockchain para fornecer prova de propriedade e autenticidade, o que permite a criação de um mercado para ativos digitais e colecionáveis. Os NFTs tornaram-se cada vez mais populares nos últimos anos, especialmente no mundo da arte e do entretenimento, pois fornecem uma maneira de os criadores monetizarem suas criações digitais.
