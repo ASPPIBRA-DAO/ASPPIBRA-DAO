@@ -28,9 +28,9 @@ A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes 
 
 O projeto MUNDO DIGITAL irá integrar um leque de tecnologias avançadas para proteger os seus membros e os recursos associados ao projeto. Essas tecnologias garantirão que o processo de votação seja seguro, que os registros financeiros sejam mantidos com precisão e que o desenvolvimento do projeto seja transparente. As tecnologias que serão usadas incluem stablecoins nativas, contratos inteligentes, NFTs, DeFi e DAO. Essas tecnologias são amplamente conhecidas e utilizadas no segmento criptográfico e comprovadamente confiáveis, seguras e transparentes. Ao alavancar essas tecnologias avançadas, o projeto MUNDO DIGITAL visa criar um ecossistema democrático, inclusivo e sustentável.
 
-Qual e a finalidade do Token “ASPPBR” ?
+**Qual é a finalidade do Token ASPPBR?**
 
-O token ASPPBR e um token utilitário, com finalidade de assegurar os direitos de votação, garantido o usuário fazer staking e participar da pool de liquidez do projeto como utilizar dos serviços e adquirir os produtos do ecossistema ate mesmo trocar pela Stablecoins nativa do sistema de cofre.
+O token "ASPPBR" é um token de utilidade que atende a múltiplos propósitos dentro do ecossistema MUNDO DIGITAL. Em primeiro lugar, fornece direitos de voto aos detentores de tokens, dando-lhes voz nos processos de tomada de decisão que regem as operações do projeto. Além disso, o token garante aos usuários o direito de participar do pool de permanência do projeto, o que lhes permite ganhar recompensas por suas contribuições ao ecossistema. Além disso, os usuários podem usar o token para acessar vários serviços e adquirir produtos do ecossistema, ou trocá-lo por stablecoins ou Bitcoin de uma plataforma segura. No geral, o token ASPPBR é um componente crucial do ecossistema MUNDO DIGITAL, garantindo transparência, justiça e inclusão para todos os membros.
 
 Plano de negócio ?
 
@@ -89,21 +89,20 @@ O que e NFT?
 Em inglês NFT, sigla para "Non-fungible Token", Token não fungível.
 E um token especial, token NFT criptográfico de forma simplificada, o NFT é um código de computador que serve como autenticação de um arquivo, garantindo que ele é único. Diferentemente das criptomoedas, os NFTs não são mutuamente intercambiáveis. Um NFT pode ser atrelado a um ‘item’ digital, uma imagem, foto, vídeo, música, mensagem, postagem em rede social, etc. Faz desse “item” único perante o mundo, gerando escassez em torno do ‘item’ e abrindo espaço para que um mercado se instale, envolvendo colecionadores e investidores interessados em investir dinheiro de verdade na aquisição de obras de arte e ativos digitais.
 
-O que e DAO?
+**O que e DAO?**
 
-DAO, em inglês Decentralized Autonomous Organization, é uma organização em que as normas são definidas no sistema “blockchain” através de contratos inteligentes, permitindo total transparência a todos os usuários.
+DAO significa Organização Autônoma Descentralizada, que é uma organização que opera por meio de um conjunto de regras codificadas como programas de computador chamados contratos inteligentes, em uma rede blockchain. Permite a tomada de decisão descentralizada e o controle baseado em consenso, sem a necessidade de intermediários ou de uma autoridade central.
 
+A DAO funciona como entidade autónoma, onde as regras e decisões são tomadas pelos seus membros de forma transparente e autónoma através de mecanismos de votação. Os membros possuem tokens, que representam sua propriedade e poder de voto na organização. Como o nome sugere, os DAOs são autônomos e descentralizados, o que significa que as regras e decisões são aplicadas pelo código e não há autoridade ou hierarquia central para controlar a organização.
 
-Sendo assim, não existe nenhum servidor central (nem mesmo uma entidade) que supervisiona os processos o controle é feito pelos acionistas envolvidos no projeto.
+**O que e Defi?**
 
-O que e Defi?
+O Financiamento Descentralizado, também conhecido como DeFi, é uma forma experimental de financiamento que opera na tecnologia blockchain descentralizada. Ao contrário das finanças tradicionais, o DeFi não depende de intermediários centralizados, como bancos, corretoras ou bolsas. Em vez disso, ele usa contratos inteligentes em redes blockchain para permitir transações ponto a ponto e automatizar processos financeiros, como empréstimos e negociações. Os protocolos DeFi são projetados para serem abertos e acessíveis a qualquer pessoa com uma conexão à Internet e uma carteira de criptomoedas, e geralmente são mais transparentes, seguros e eficientes do que os sistemas financeiros tradicionais. DeFi é um segmento de crescimento rápido da indústria de blockchain e tem o potencial de revolucionar a maneira como pensamos e participamos das finanças.
 
-È a sigla para Decentralized Finances, Finanças descentralizadas, as finanças descentralizadas são uma forma experimental de finanças que não depende de intermediários financeiros centrais, como corretoras, exchanges ou bancos e, em vez disso, utiliza contratos inteligentes em “blockchains”
+**O que smart contracts?**
 
-O que smart contracts?
+Um contrato inteligente, também conhecido como contrato autoexecutável, é um protocolo de computador projetado para automatizar a negociação, o desempenho e a execução de um contrato. Os contratos inteligentes são amplamente utilizados no mundo das criptomoedas e da tecnologia blockchain. São como os contratos físicos tradicionais pois possuem diversas cláusulas que devem ser cumpridas e respeitadas, mas a diferença é que são executados automaticamente, sem a necessidade de intermediários. Os contratos inteligentes são projetados para facilitar e fortalecer a negociação ou execução de um contrato, fornecendo confiabilidade nas transações online. Eles garantem que os termos do contrato sejam cumpridos por todas as partes envolvidas e fornecem um alto nível de segurança e transparência.
 
-Smart Contract ou Contrato Inteligente é um protocolo de computador autoexecutável, muito utilizado no mundo das criptomoedas. Assim como os contratos físicos, os contratos digitais possuem diversas cláusulas que devem ser cumpridas e respeitadas, porém isso é feito de forma automática, para facilitar e reforçar a negociação ou desempenho de um contrato, proporcionando confiabilidade em transações on-line.
+**O que e Stablecoins?**
 
-O que e Stablecoins?
-
-Stablecoins, também chamadas moedas estáveis, são criptomoedas pareadas em algum ativo estável ou cesta de ativos, de modo a controlar a volatilidade. Uma stablecoin pode ser atrelada a uma criptomoeda, a uma moeda fiduciária, a metais preciosos, como ouro e prata, ou a commodities, como o petróleo.
+Stablecoins, também conhecidas como stablecoins, são um tipo de criptomoeda projetada para manter um valor estável ao ser atrelada a um ativo estável ou a uma cesta de ativos. O principal objetivo das stablecoins é controlar a volatilidade das criptomoedas, conhecidas por suas flutuações de preço. As stablecoins podem ser atreladas a uma variedade de ativos, incluindo criptomoedas, moedas fiduciárias, metais preciosos como ouro e prata ou commodities como petróleo. Ao fornecer uma reserva estável de valor, as stablecoins oferecem aos usuários um meio mais confiável e previsível de transações com criptomoedas, tornando-as mais adequadas para o uso diário.
