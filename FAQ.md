@@ -84,10 +84,9 @@ Haverá Airdrop? E quem poderar participar?
 
 Sim, o airdrop ocorrerá em 4 fases no projeto que distribuirá para os associados e embaixadores um valor de 1.110.000 USD. Todos que realizarem seus cadastros exclusivamente pelo site para aquisição dos tokens na pré venda vai estar participando do airdrop.
 
-O que e NFT?
+**O que e NFT?**
 
-Em inglês NFT, sigla para "Non-fungible Token", Token não fungível.
-E um token especial, token NFT criptográfico de forma simplificada, o NFT é um código de computador que serve como autenticação de um arquivo, garantindo que ele é único. Diferentemente das criptomoedas, os NFTs não são mutuamente intercambiáveis. Um NFT pode ser atrelado a um ‘item’ digital, uma imagem, foto, vídeo, música, mensagem, postagem em rede social, etc. Faz desse “item” único perante o mundo, gerando escassez em torno do ‘item’ e abrindo espaço para que um mercado se instale, envolvendo colecionadores e investidores interessados em investir dinheiro de verdade na aquisição de obras de arte e ativos digitais.
+Um NFT, ou token não fungível, é um token criptográfico exclusivo que representa um ativo digital, como imagem, vídeo, música ou outros tipos de conteúdo digital. Ao contrário das criptomoedas tradicionais, cada NFT é distinto e não pode ser substituído ou trocado por outro NFT. Os NFTs usam a tecnologia blockchain para fornecer prova de propriedade e autenticidade, o que permite a criação de um mercado para ativos digitais e colecionáveis. Os NFTs tornaram-se cada vez mais populares nos últimos anos, especialmente no mundo da arte e do entretenimento, pois fornecem uma maneira de os criadores monetizarem suas criações digitais.
 
 **O que e DAO?**
 
