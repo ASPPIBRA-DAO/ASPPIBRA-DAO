@@ -16,9 +16,9 @@ Não, o contrato de token "ASPPBR" não foi auditado, pois inclui apenas funçõ
 
 Para exercer o direito de voto, os membros do ecossistema MUNDO DIGITAL devem concordar com as condições descritas na plataforma e possuir tokens "ASPPBR". A votação ocorrerá na plataforma MUNDO DIGITAL, que proporcionará um processo seguro e transparente para que os associados participem das tomadas de decisão. A plataforma permitirá que os membros votem eletronicamente e acompanhem os resultados em tempo real, garantindo que o processo de votação seja justo e preciso. Ao alavancar a transparência e a segurança da tecnologia blockchain, a plataforma MUNDO DIGITAL visa criar um ecossistema democrático e inclusivo onde todos os membros tenham voz na definição de sua direção futura.
 
-Quem poderar concorrer aos cargos executivos?
+**Quem pode concorrer a cargos executivos?**
 
-Todos que concordarem com as condições de exercer um cargo publico para representar a comunidade e o ecossistema em seus interesses perante aos órgãos públicos e reguladores, e nas autarquias necessárias para o perfeito funcionamento do projeto tendo sempre em mente que as decisões que regem o funcionamento do ecossistema
+Podem concorrer a cargos executivos pessoas físicas que possuam um número mínimo de Tokens e concordem com as condições de serviço público. Esses cargos envolvem a representação da comunidade e do ecossistema MUNDO DIGITAL perante órgãos públicos e reguladores, bem como nas medidas necessárias para garantir o bom funcionamento do projeto. Os candidatos também devem ter em mente que as decisões sobre as operações do ecossistema são regidas por processos democráticos e devem ser feitas tendo em mente os interesses da comunidade e do ecossistema. Portanto, os candidatos devem se comprometer a trabalhar de forma colaborativa e transparente com a comunidade para impulsionar o sucesso do projeto MUNDO DIGITAL
 
 A equipe e anonima?
 
