@@ -81,6 +81,23 @@ Haverá Airdrop? E quem poderar participar?
 
 Sim, o airdrop ocorrerá em 4 fases no projeto que distribuirá para os associados e embaixadores um valor de 1.110.000 USD. Todos que realizarem seus cadastros exclusivamente pelo site para aquisição dos tokens na pré venda vai estar participando do airdrop.
 
+
+**O que é blockchain?**
+
+Blockchain é um tipo de livro digital que registra transações de forma segura e descentralizada.
+
+**Como funciona o blockchain?**
+
+Blockchain usa criptografia e uma rede distribuída de computadores para criar um registro transparente e inviolável de todas as transações. Cada bloco da cadeia contém um lote de transações que foram verificadas por uma rede de computadores chamada nós. Depois que um bloco é adicionado à cadeia, ele não pode ser alterado sem o consenso da rede.
+
+**Quais são os benefícios do blockchain?**
+
+Blockchain oferece vários benefícios, incluindo maior transparência, segurança e eficiência. Por ser descentralizado, não há necessidade de um intermediário para facilitar as transações, o que pode reduzir custos e aumentar a agilidade. Além disso, a natureza inviolável do livro-razão pode ajudar a evitar fraudes e garantir que as transações sejam registradas com precisão.
+
+**Quais são alguns exemplos de como o blockchain está sendo usado?**
+
+Blockchain está sendo usado em uma variedade de setores, incluindo finanças, gerenciamento da cadeia de suprimentos e saúde. Por exemplo, algumas empresas estão usando blockchain para criar cadeias de suprimentos seguras e transparentes que permitem aos consumidores rastrear as origens de seus produtos. Nas finanças, o blockchain está sendo usado para criar moedas digitais como Bitcoin e Ethereum, bem como para agilizar e proteger transações financeiras.
+
 **O que e NFT?**
 
 Um NFT, ou token não fungível, é um token criptográfico exclusivo que representa um ativo digital, como imagem, vídeo, música ou outros tipos de conteúdo digital. Ao contrário das criptomoedas tradicionais, cada NFT é distinto e não pode ser substituído ou trocado por outro NFT. Os NFTs usam a tecnologia blockchain para fornecer prova de propriedade e autenticidade, o que permite a criação de um mercado para ativos digitais e colecionáveis. Os NFTs tornaram-se cada vez mais populares nos últimos anos, especialmente no mundo da arte e do entretenimento, pois fornecem uma maneira de os criadores monetizarem suas criações digitais.
