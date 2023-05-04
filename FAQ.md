@@ -20,9 +20,9 @@ Para exercer o direito de voto, os membros do ecossistema MUNDO DIGITAL devem co
 
 Podem concorrer a cargos executivos pessoas físicas que possuam um número mínimo de Tokens e concordem com as condições de serviço público. Esses cargos envolvem a representação da comunidade e do ecossistema MUNDO DIGITAL perante órgãos públicos e reguladores, bem como nas medidas necessárias para garantir o bom funcionamento do projeto. Os candidatos também devem ter em mente que as decisões sobre as operações do ecossistema são regidas por processos democráticos e devem ser feitas tendo em mente os interesses da comunidade e do ecossistema. Portanto, os candidatos devem se comprometer a trabalhar de forma colaborativa e transparente com a comunidade para impulsionar o sucesso do projeto MUNDO DIGITAL
 
-A equipe e anonima?
+**A equipe é anônima?**
 
-Não, pois para atuação dentro e fora do pais e necessário representantes legais, nesse caso os representantes são eleitos através do sistema de votação da comunidade “ASPPIBRA-DAO”, que responderam perante os órgãos reguladores e jurídicos pelos interesses ligados ao projeto MUNDO DIGITAL e seus associados.
+A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes legais, eleitos pelo sistema de votação da comunidade "ASPPIBRA-DAO", atuam em nome do projeto dentro e fora do país e são responsáveis por representar os interesses do projeto MUNDO DIGITAL e seus associados perante os órgãos reguladores e legais. Esses representantes são responsáveis perante a comunidade e devem garantir que suas decisões sejam tomadas no melhor interesse do ecossistema e de seus membros. Por isso, o projeto MUNDO DIGITAL preza pela transparência e prestação de contas, razão pela qual seus representantes legais não são anônimos.
 
 Quais tecnologias serão utilizadas?
 
