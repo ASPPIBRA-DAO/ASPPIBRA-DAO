@@ -12,8 +12,8 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 <a class="text-light" href="https://opensea.io/collection/asppibra-collection">
 <img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
 </a>
- <a class="text-light" href="https://coinmarketcap.com/dexscan/bsc/0xe7c00c6dc9c729d3eb830f854fd9a6c5150b11c5/">
-<img align="center" alt="Coinmarktcap" height="30" width="40" src="https://">
+<a class="text-light" href="https://coinmarketcap.com/dexscan/bsc/0xe7c00c6dc9c729d3eb830f854fd9a6c5150b11c5/">
+<img align="center" alt="Coinmarktcap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/231921538-4a3299f0-d8d8-45ef-81e3-587692dd86c1.svg">
 </a>
 
 </div>
@@ -40,7 +40,7 @@ ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil i
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/asppibra-dao/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asppibra/) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ASPPIBRA_ORG) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
  
