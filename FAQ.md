@@ -36,11 +36,11 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 >**Compete ao Presidente:**
 
-- representar a Associação judicial e extrajudicialmente, ativa e passivamente;
-- cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
-- convocar e presidir as reuniões da Diretoria;
-- dirigir e supervisionar todas as atividades da Associação;
-- assinar quaisquer documentos relativos às operações ativas da Associação;
+- Representar a Associação judicial e extrajudicialmente, ativa e passivamente;
+- Cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
+- Convocar e presidir as reuniões da Diretoria;
+- Dirigir e supervisionar todas as atividades da Associação;
+- Assinar quaisquer documentos relativos às operações ativas da Associação;
 
 >**Compete ao Vice-Presidente:**
 
@@ -49,36 +49,36 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 >**Compete ao Secretario:**
 
 - Secretariar as reuniões das Assembleias Gerais e da Diretoria e redigir atas;
-- manter organizada a secretaria, com os respectivos livros e correspondências;
+- Manter organizada a secretaria, com os respectivos livros e correspondências;
 
 >**Compete ao Tesoureiro:**
 
 - Arrecadar e contabilizar as contribuições, rendas, auxílios e donativos efetuados a Associação, mantendo em dia a escrituração;
-- efetuar os pagamentos de todas as obrigações da Associação;
-- acompanhar e supervisionar os trabalhos de contabilidade da Associação, contratados com profissionais habilitados, cuidando para que todas as obrigações fiscais e trabalhistas sejam devidamente cumpridas em tempo hábil;
-- apresentar relatórios de receitas e despesas, sempre que forem solicitadas;
-- apresentar o relatório financeiro para ser submetido à Assembleia Geral;
-- apresentar semestralmente o balancete de receitas e despesas ao Conselho Fiscal;
-- publicar anualmente a demonstração das receitas e despesas realizadas no exercício;
-- elaborar, com base no orçamento realizado no exercício, a proposta orçamentaria para o exercício seguinte a ser submetida a Diretoria, para posterior apreciação da Assembleia Geral;
-- manter todo o numerário em estabelecimento de crédito;
-- conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
-- assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
+- Efetuar os pagamentos de todas as obrigações da Associação;
+- Acompanhar e supervisionar os trabalhos de contabilidade da Associação, contratados com profissionais habilitados, cuidando para que todas as obrigações fiscais e trabalhistas sejam devidamente cumpridas em tempo hábil;
+- Apresentar relatórios de receitas e despesas, sempre que forem solicitadas;
+- Apresentar o relatório financeiro para ser submetido à Assembleia Geral;
+- Apresentar semestralmente o balancete de receitas e despesas ao Conselho Fiscal;
+- Aublicar anualmente a demonstração das receitas e despesas realizadas no exercício;
+- Alaborar, com base no orçamento realizado no exercício, a proposta orçamentaria para o exercício seguinte a ser submetida a Diretoria, para posterior apreciação da Assembleia Geral;
+- Manter todo o numerário em estabelecimento de crédito;
+- Conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
+- Assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
 
 >**Compete ao Conselho Fiscal:**
 
-- examinar os documentos e livros de escrituração da entidade;
-- examinar o balancete semestral apresentado pelo tesoureiro, opinando a respeito;
-- apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
-- opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
+- Examinar os documentos e livros de escrituração da entidade;
+- Examinar o balancete semestral apresentado pelo tesoureiro, opinando a respeito;
+- Apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
+- Opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
 
 >**Embaixadores:**
 
 - Representar a comunidade em seu Estado de origem (obrigatório);
 - Gerir grupo de trabalho (obrigatório);
-- participar das votações (obrigatório); 
-- apresentar relatórios com resultados do seu Estado de origem (obrigatório); 
-- participar de reuniões,conferencias e intercambio dentro e fora do pais (obrigatório).
+- Participar das votações (obrigatório); 
+- Apresentar relatórios com resultados do seu Estado de origem (obrigatório); 
+- Participar de reuniões,conferencias e intercambio dentro e fora do pais (obrigatório).
 
 >**Quando o projeto MUNDO DIGITAL começou?**
 
