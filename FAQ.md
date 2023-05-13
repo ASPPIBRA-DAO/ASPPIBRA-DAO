@@ -7,15 +7,6 @@
 
 A Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA) foi fundada em setembro de 2016 no município de Maricá, Rio de Janeiro. O principal objetivo da ASPPIBRA é resolver o problema antigo da posse irregular de terras no Brasil, tanto em áreas urbanas quanto rurais. Por meio da integração dos cadastros imobiliários com a tecnologia blockchain, a ASPPIBRA visa possibilitar a regularização de imóveis para a população, reduzindo a informalidade a zero e garantindo maior transparência nas informações. Em última análise, a ASPPIBRA busca promover o crescimento do setor, fornecendo uma solução abrangente para o problema da regularização fundiária no Brasil.
 
->**Quando o projeto MUNDO DIGITAL começou?**
-
-O projeto MUNDO DIGITAL surgiu a partir do incentivo do governo brasileiro ao desenvolvimento de soluções tecnológicas para as áreas de exploração mineral, agronegócio e geração de energia sustentável. Esses setores são dominados por grandes corporações, no entanto dada a vastidão do país a realização de estudos de viabilidade em todas as regiões é um grande desafio.
-Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo conhecimento abrangente dos requisitos legais relevantes e localizações estratégicas em todo o país, foi tomada a decisão de lançar o projeto MUNDO DIGITAL. Por meio desse projeto, pretendemos fornecer uma plataforma que integre todas as informações e recursos necessários, facilitando a realização de estudos de viabilidade e uma forte presença nesses setores em todo o Brasil.
-
->**O contrato do Token foi auditado?**
-
-Não, o contrato do token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, no entanto é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
-
 >**Como será feita a votação?**
 
 Para exercer o direito de voto, os membros do ecossistema MUNDO DIGITAL devem concordar com as condições descritas na plataforma e possuir tokens "ASPPBR". A votação ocorrerá na plataforma MUNDO DIGITAL, que proporcionará um processo seguro e transparente para que os associados participem das tomadas de decisão. A plataforma permitirá que os membros votem eletronicamente e acompanhem os resultados em tempo real, garantindo que o processo de votação seja justo e preciso. Ao alavancar a transparência e a segurança da tecnologia blockchain, a plataforma MUNDO DIGITAL visa criar um ecossistema democrático e inclusivo onde todos os membros tenham voz na definição de sua direção futura.
@@ -27,28 +18,6 @@ Podem concorrer a cargos executivos pessoas físicas que possuam um número mín
 >**A equipe é anônima?**
 
 A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes legais, eleitos pelo sistema de votação da comunidade "ASPPIBRA-DAO", atuam em nome do projeto dentro e fora do país e são responsáveis por representar os interesses do projeto MUNDO DIGITAL e seus associados perante os órgãos reguladores e legais. Esses representantes são responsáveis perante a comunidade e devem garantir que suas decisões sejam tomadas no melhor interesse do ecossistema e de seus membros. Por isso, o projeto MUNDO DIGITAL preza pela transparência e prestação de contas, razão pela qual seus representantes legais não são anônimos.
-
->**Quais tecnologias serão utilizadas?**
-
-O projeto MUNDO DIGITAL irá integrar um leque de tecnologias avançadas para proteger os seus membros e os recursos associados ao projeto. Essas tecnologias garantirão que o processo de votação seja seguro, que os registros financeiros sejam mantidos com precisão e que o desenvolvimento do projeto seja transparente. As tecnologias que serão usadas incluem stablecoins nativas, contratos inteligentes, NFTs, DeFi e DAO. Essas tecnologias são amplamente conhecidas e utilizadas no segmento criptográfico e comprovadamente confiáveis, seguras e transparentes. Ao alavancar essas tecnologias o projeto MUNDO DIGITAL visa criar um ecossistema democrático, inclusivo e sustentável.
-
->**Qual é a finalidade do Token ASPPBR?**
-
-O token "ASPPBR" é um token de utilidade que atende a múltiplos propósitos dentro do ecossistema MUNDO DIGITAL. Em primeiro lugar, fornece direitos de voto aos detentores de tokens, dando-lhes voz nos processos de tomada de decisão que regem as operações do projeto. Além disso, o token garante aos usuários o direito de participar do pool de permanência do projeto, o que lhes permite ganhar recompensas por suas contribuições ao ecossistema. Além disso, os usuários podem usar o token para acessar vários serviços e adquirir produtos do ecossistema, ou trocá-lo por stablecoins ou Bitcoin. No geral, o token ASPPBR é um componente crucial do ecossistema MUNDO DIGITAL, garantindo transparência, justiça e inclusão para todos os membros.
-
->**Plano de negócio?**
-
-Com poucas palavras para descrever nossa atuação nos seguimentos expostos nesse projeto
-
-**1°** Escrituração de Imóveis em Blockchain:
-
-**2°** Conservação e preservação ambiental:
-
-**3°** Agronegócio:
-
-**4°** Geração de Energia Sustentável:
-
-**5°** Exploração Mineral:
 
 >**Quaias requesitos para ocupar cargos Executivos? E sua Vantagens?**
 
@@ -73,6 +42,33 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 Como todos os cargos que representam os associados e a comunidade, e necessário o comprometimento com as metas estabelecidas em votação, tendo em mente que ao ocupar o cargo de Embaixador sua participação em votações e obrigatória, como apresentar relatórios, participar de reuniões, conferencias e intercambio dentro e fora do pais.
 
+>**Quando o projeto MUNDO DIGITAL começou?**
+
+O projeto MUNDO DIGITAL surgiu a partir do incentivo do governo brasileiro ao desenvolvimento de soluções tecnológicas para as áreas de exploração mineral, agronegócio e geração de energia sustentável. Esses setores são dominados por grandes corporações, no entanto dada a vastidão do país a realização de estudos de viabilidade em todas as regiões é um grande desafio.
+Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo conhecimento abrangente dos requisitos legais relevantes e localizações estratégicas em todo o país, foi tomada a decisão de lançar o projeto MUNDO DIGITAL. Por meio desse projeto, pretendemos fornecer uma plataforma que integre todas as informações e recursos necessários, facilitando a realização de estudos de viabilidade e uma forte presença nesses setores em todo o Brasil.
+
+>**Quais tecnologias serão utilizadas?**
+
+O projeto MUNDO DIGITAL irá integrar um leque de tecnologias avançadas para proteger os seus membros e os recursos associados ao projeto. Essas tecnologias garantirão que o processo de votação seja seguro, que os registros financeiros sejam mantidos com precisão e que o desenvolvimento do projeto seja transparente. As tecnologias que serão usadas incluem stablecoins nativas, contratos inteligentes, NFTs, DeFi e DAO. Essas tecnologias são amplamente conhecidas e utilizadas no segmento criptográfico e comprovadamente confiáveis, seguras e transparentes. Ao alavancar essas tecnologias o projeto MUNDO DIGITAL visa criar um ecossistema democrático, inclusivo e sustentável.
+
+>**Qual é a finalidade do Token ASPPBR?**
+
+O token "ASPPBR" é um token de utilidade que atende a múltiplos propósitos dentro do ecossistema MUNDO DIGITAL. Em primeiro lugar, fornece direitos de voto aos detentores de tokens, dando-lhes voz nos processos de tomada de decisão que regem as operações do projeto. Além disso, o token garante aos usuários o direito de participar do pool de permanência do projeto, o que lhes permite ganhar recompensas por suas contribuições ao ecossistema. Além disso, os usuários podem usar o token para acessar vários serviços e adquirir produtos do ecossistema, ou trocá-lo por stablecoins ou Bitcoin. No geral, o token ASPPBR é um componente crucial do ecossistema MUNDO DIGITAL, garantindo transparência, justiça e inclusão para todos os membros.
+
+>**Plano de negócio?**
+
+Com poucas palavras para descrever nossa atuação nos seguimentos expostos nesse projeto
+
+**1°** Escrituração de Imóveis em Blockchain:
+
+**2°** Conservação e preservação ambiental:
+
+**3°** Agronegócio:
+
+**4°** Geração de Energia Sustentável:
+
+**5°** Exploração Mineral:
+
 >**Taxas iniciais?**
 
 Todo token que for adquirido no site na pré venda atraves de Peer-to-peer (P2P) não terá taxa.
@@ -82,6 +78,10 @@ Haverá pré venda? E qual será o valor inicial?
 Sim, a pré venda e para promover o desenvolvimento central e prepara todos detalhes e requisitos para a listagem nas exchanges;
 A pré venda no site disponibilizará 15% dos Tokens “ASPPBR”, sendo um total de 3.150.000 tokens
 Com o valor inicial de 1 USD por 1 ASPP unidade.
+
+>**O contrato do Token foi auditado?**
+
+Não, o contrato do token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, no entanto é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
 
 >**Haverá Airdrop? E quem poderar participar?**
 
