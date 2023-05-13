@@ -24,15 +24,13 @@ A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes 
 Para concorrer aos cargos executivos do projeto, os interessados devem se cadastrar, especificar o cargo de seu interesse e observar o estatuto e o regimento interno. Após completarem o processo de registo e confirmarem os seus dados, receberão um e-mail com instruções sobre como ocupar o cargo designado. Os cargos disponíveis incluem **presidência, secretaria, tesouraria, conselho fiscal, embaixador,** entre outros. Ao ocupar esses cargos, os indivíduos podem representar a comunidade e os associados, opinar sobre as demandas votadas no ecossistema e potencialmente se beneficiar dos ganhos financeiros do projeto.
 São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto.
 
-- Presidência (2) vagas:
-- suplentes (4) vagas:
-- Secretaria (3) vagas:
-- suplentes: (6) vagas:
-- Tesouraria (3) vagas:
-- suplentes: (3) vagas:
-- Conselho Fiscal (6) vagas:
-- suplentes (6) vagas:
-- Embaixadores (135) vagas:
+>**A Diretoria é composta por:**
+
+- Presidência: 
+- Secretaria: 
+- Tesouraria:
+- Conselho Fiscal: 
+- Embaixadores:
 
 >**Compete ao Presidente:**
 
