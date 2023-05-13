@@ -10,8 +10,7 @@ A Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA)
 >**Quando o projeto MUNDO DIGITAL começou?**
 
 O projeto MUNDO DIGITAL surgiu a partir do incentivo do governo brasileiro ao desenvolvimento de soluções tecnológicas para as áreas de exploração mineral, agronegócio e geração de energia sustentável. Esses setores são dominados por grandes corporações, no entanto dada a vastidão do país a realização de estudos de viabilidade em todas as regiões é um grande desafio.
-
-Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo conhecimento abrangente dos requisitos legais relevantes e localizações estratégicas em todo o país, foi tomada a decisão de lançar o projeto MUNDO DIGITAL. Por meio desse projeto, pretendemos fornecer uma plataforma que integre todas as informações e recursos necessários, facilitando às empresas a realização de estudos de viabilidade e uma forte presença nesses setores em todo o Brasil.
+Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo conhecimento abrangente dos requisitos legais relevantes e localizações estratégicas em todo o país, foi tomada a decisão de lançar o projeto MUNDO DIGITAL. Por meio desse projeto, pretendemos fornecer uma plataforma que integre todas as informações e recursos necessários, facilitando a realização de estudos de viabilidade e uma forte presença nesses setores em todo o Brasil.
 
 >**O contrato do Token foi auditado?**
 
