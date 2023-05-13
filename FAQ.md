@@ -34,7 +34,17 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - suplentes (6) vagas:
 - Embaixadores (135) vagas:
 
->**Desenvolvedores?**
+>**Compete ao Presidente:**
+
+**I** – representar a Associação judicial e extrajudicialmente, ativa e passivamente;
+**II** – cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
+**III** – convocar e presidir as reuniões da Diretoria;
+**IV** – dirigir e supervisionar todas as atividades da Associação;
+**V** – assinar quaisquer documentos relativos às operações ativas da Associação;
+
+>**Compete ao Vice-Presidente:**
+
+**I** – Colaborar com o Presidente, e substituí-lo na sua ausência;
 
 
 
