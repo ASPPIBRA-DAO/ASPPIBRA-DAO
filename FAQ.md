@@ -21,7 +21,7 @@ A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes 
 
 >**Quaias requesitos para ocupar cargos executivos? E sua vantagens?**
 
-Para concorrer aos cargos executivos do projeto, os interessados devem se cadastrar, especificar o cargo de seu interesse e observar o estatuto e o regimento interno. Após completarem o processo de registo e confirmarem os seus dados, receberão um e-mail com instruções sobre como ocupar o cargo designado. Os cargos disponíveis incluem **presidência, secretaria, tesouraria, conselho fiscal, embaixador,** entre outros. Ao ocupar esses cargos, os indivíduos podem representar a comunidade e os associados, opinar sobre as demandas votadas no ecossistema e potencialmente se beneficiar dos ganhos financeiros do projeto.
+Para concorrer aos cargos executivos do projeto, os interessados devem se cadastrar, especificar o cargo de seu interesse e observar o estatuto e o regimento interno. Após completarem o processo de registro e confirmarem os seus dados, receberão um e-mail com instruções sobre como ocupar o cargo designado. Os cargos disponíveis incluem **presidência, secretaria, tesouraria, conselho fiscal, embaixador,** entre outros. Ao ocupar esses cargos, os indivíduos podem representar a comunidade e os associados, opinar sobre as demandas votadas no ecossistema e potencialmente se beneficiar dos ganhos financeiros do projeto.
 São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto.
 
 >**A Diretoria é composta por:**
