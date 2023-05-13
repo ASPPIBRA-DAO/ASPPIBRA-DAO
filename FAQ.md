@@ -7,7 +7,7 @@
 
 A Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA) foi fundada em setembro de 2016 no município de Maricá, Rio de Janeiro. O principal objetivo da ASPPIBRA é resolver o problema antigo da posse irregular de terras no Brasil, tanto em áreas urbanas quanto rurais. Por meio da integração dos cadastros imobiliários com a tecnologia blockchain, a ASPPIBRA visa possibilitar a regularização de imóveis para a população, reduzindo a informalidade a zero e garantindo maior transparência nas informações. Em última análise, a ASPPIBRA busca promover o crescimento do setor, fornecendo uma solução abrangente para o problema da regularização fundiária no Brasil.
 
->**Como será feita a votação?**
+>**Sistema de votação**
 
 Para exercer o direito de voto, os membros do ecossistema MUNDO DIGITAL devem concordar com as condições descritas na plataforma e possuir tokens "ASPPBR". A votação ocorrerá na plataforma MUNDO DIGITAL, que proporcionará um processo seguro e transparente para que os associados participem das tomadas de decisão. A plataforma permitirá que os membros votem eletronicamente e acompanhem os resultados em tempo real, garantindo que o processo de votação seja justo e preciso. Ao alavancar a transparência e a segurança da tecnologia blockchain, a plataforma MUNDO DIGITAL visa criar um ecossistema democrático e inclusivo onde todos os membros tenham voz na definição de sua direção futura.
 
