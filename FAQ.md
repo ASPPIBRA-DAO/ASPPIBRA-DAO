@@ -36,15 +36,15 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 >**Compete ao Presidente:**
 
-– representar a Associação judicial e extrajudicialmente, ativa e passivamente;
-– cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
-– convocar e presidir as reuniões da Diretoria;
-– dirigir e supervisionar todas as atividades da Associação;
-– assinar quaisquer documentos relativos às operações ativas da Associação;
+- representar a Associação judicial e extrajudicialmente, ativa e passivamente;
+- cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
+- convocar e presidir as reuniões da Diretoria;
+- dirigir e supervisionar todas as atividades da Associação;
+- assinar quaisquer documentos relativos às operações ativas da Associação;
 
 >**Compete ao Vice-Presidente:**
 
-– Colaborar com o Presidente, e substituí-lo na sua ausência;
+- Colaborar com o Presidente, e substituí-lo na sua ausência;
 
 
 
