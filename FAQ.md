@@ -14,7 +14,7 @@ Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo co
 
 >**O contrato do Token foi auditado?**
 
-Não, o contrato de token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, que visa facilitar a transferência e o armazenamento de tokens. No entanto, é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
+Não, o contrato do token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, no entanto é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
 
 >**Como será feita a votação?**
 
