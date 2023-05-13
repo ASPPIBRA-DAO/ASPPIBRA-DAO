@@ -72,9 +72,13 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
 - opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
 
->**Embaixadores?**
+>**Embaixadores:**
 
-Como todos os cargos que representam os associados e a comunidade, e necessário o comprometimento com as metas estabelecidas em votação, tendo em mente que ao ocupar o cargo de Embaixador sua participação em votações e obrigatória, como apresentar relatórios, participar de reuniões, conferencias e intercambio dentro e fora do pais.
+- Representar a comunidade em seu Estado de origem (obrigatório);
+- Gerir grupo de trabalho (obrigatório);
+- participar das votações (obrigatório); 
+- apresentar relatórios com resultados do seu Estado de origem (obrigatório); 
+- participar de reuniões,conferencias e intercambio dentro e fora do pais (obrigatório).
 
 >**Quando o projeto MUNDO DIGITAL começou?**
 
