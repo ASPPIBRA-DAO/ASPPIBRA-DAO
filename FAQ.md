@@ -40,15 +40,15 @@ O token "ASPPBR" é um token de utilidade que atende a múltiplos propósitos de
 
 Com poucas palavras para descrever nossa atuação nos seguimentos expostos nesse projeto
 
-**1°** Conservação e preservação ambiental; trabalharemos com incentivos regulatórios a nosso favor para administração de parques nacionais garantindo o eco turismos, produção de mudas nativas para recuperação de áreas degradadas em seus entornos estudo da fauna e flora para fins de pesquisas medicinais e a implementação de crédito de CO² por NFT.
+**1°** Escrituração de Imóveis em Blockchain:
 
-**2°** Agronegócio; fomentação de grupos de produtores rurais, com incentivo a produção sustentável, garantido melhor desempenho na produção de comanditeis, através de tecnologias de monitoramento, armazenagem e transporte mais eficiente.
-Disponibilizaremos uma plataforma segura financeira para alavancar e incentivas o alimento de produção garantindo acesso a recursos financeiros internacionais de forma descentralizada e auditável.
+**2°** Conservação e preservação ambiental:
 
-**3°** Geração de Energia Sustentável;
+**3°** Agronegócio:
 
-**4°** Exploração Mineral; O Brasil tem uma reserva mineral estratégica de forma impactar os preços na produção de commodities de minério, uma reserva abundante em diversos estados, através de autorização o governo concede o direito de estudo e exploração desde que preencha os requisitos necessários para tal. Com essa oportunidade e tendo informação privilegiada entraremos com nossa participação nesse mercado garantindo uma rentabilidade para todos associados e introduzindo a Stablecoins nativa do projeto lastreada em uma cesta de metais preciosos
-Do sistema de cofre dando maior liquidez as negociações do token “ASPPBR”.
+**4°** Geração de Energia Sustentável:
+
+**5°** Exploração Mineral:
 
 >**Quaias requesitos para ocupar cargos Executivos? E sua Vantagens?**
 
