@@ -65,9 +65,12 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
 - assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
 
+>**Compete ao Conselho Fiscal:**
 
-
-
+- examinar os documentos e livros de escrituração da entidade;
+- examinar o balancete semestral apresentado pelo tesoureiro, opinando a respeito;
+- apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
+- opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
 
 >**Embaixadores?**
 
