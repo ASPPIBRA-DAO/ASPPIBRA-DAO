@@ -65,15 +65,15 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - suplentes (6) vagas:
 - Embaixadores (135) vagas:
 
-Desenvolvedores?
+>**Desenvolvedores?**
 
-Reservamos 15% dos tokens para incentivo da equipe de desenvolvimento e preparação de novos integrantes na área de programação.
 
-Embaixadores?
+
+>**Embaixadores?**
 
 Como todos os cargos que representam os associados e a comunidade, e necessário o comprometimento com as metas estabelecidas em votação, tendo em mente que ao ocupar o cargo de Embaixador sua participação em votações e obrigatória, como apresentar relatórios, participar de reuniões, conferencias e intercambio dentro e fora do pais.
 
-Taxas iniciais?
+>**Taxas iniciais?**
 
 Todo token que for adquirido no site na pré venda atraves de Peer-to-peer (P2P) não terá taxa.
 
@@ -83,7 +83,7 @@ Sim, a pré venda e para promover o desenvolvimento central e prepara todos deta
 A pré venda no site disponibilizará 15% dos Tokens “ASPPBR”, sendo um total de 3.150.000 tokens
 Com o valor inicial de 1 USD por 1 ASPP unidade.
 
-Haverá Airdrop? E quem poderar participar?
+>**Haverá Airdrop? E quem poderar participar?**
 
 Sim, o airdrop ocorrerá em 4 fases no projeto que distribuirá para os associados e embaixadores um valor de 1.110.000 USD. Todos que realizarem seus cadastros exclusivamente pelo site para aquisição dos tokens na pré venda vai estar participando do airdrop.
 
