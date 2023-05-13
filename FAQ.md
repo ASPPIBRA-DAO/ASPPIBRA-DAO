@@ -46,6 +46,27 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 - Colaborar com o Presidente, e substituí-lo na sua ausência;
 
+>**Compete ao 1º e 2° Secretario:**
+
+- Secretariar as reuniões das Assembleias Gerais e da Diretoria e redigir atas;
+- manter organizada a secretaria, com os respectivos livros e correspondências;
+
+>**Compete ao 1º e 2° Tesoureiro:**
+
+- Arrecadar e contabilizar as contribuições, rendas, auxílios e donativos efetuados a Associação, mantendo em dia a escrituração;
+- efetuar os pagamentos de todas as obrigações da Associação;
+- acompanhar e supervisionar os trabalhos de contabilidade da Associação, contratados com profissionais habilitados, cuidando para que todas as obrigações fiscais e trabalhistas sejam devidamente cumpridas em tempo hábil;
+- apresentar relatórios de receitas e despesas, sempre que forem solicitadas;
+- apresentar o relatório financeiro para ser submetido à Assembleia Geral;
+- apresentar semestralmente o balancete de receitas e despesas ao Conselho Fiscal;
+- publicar anualmente a demonstração das receitas e despesas realizadas no exercício;
+- elaborar, com base no orçamento realizado no exercício, a proposta orçamentaria para o exercício seguinte a ser submetida a Diretoria, para posterior apreciação da Assembleia Geral;
+- manter todo o numerário em estabelecimento de crédito;
+- conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
+- assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
+
+
+
 
 
 >**Embaixadores?**
