@@ -46,12 +46,12 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 - Colaborar com o Presidente, e substituí-lo na sua ausência;
 
->**Compete ao 1º e 2° Secretario:**
+>**Compete ao Secretario:**
 
 - Secretariar as reuniões das Assembleias Gerais e da Diretoria e redigir atas;
 - manter organizada a secretaria, com os respectivos livros e correspondências;
 
->**Compete ao 1º e 2° Tesoureiro:**
+>**Compete ao Tesoureiro:**
 
 - Arrecadar e contabilizar as contribuições, rendas, auxílios e donativos efetuados a Associação, mantendo em dia a escrituração;
 - efetuar os pagamentos de todas as obrigações da Associação;
