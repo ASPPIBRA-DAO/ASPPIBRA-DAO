@@ -78,7 +78,7 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - Apresentar relatórios com resultados do seu Estado de origem (obrigatório); 
 - Participar de reuniões,conferencias e intercambio dentro e fora do pais (obrigatório).
 
->**Compete aos Embaixadores:**
+>**Compete aos Suplentes:**
 
 -
 -
