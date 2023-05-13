@@ -19,7 +19,7 @@ Podem concorrer a cargos executivos pessoas físicas que possuam um número mín
 
 A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes legais, eleitos pelo sistema de votação da comunidade "ASPPIBRA-DAO", atuam em nome do projeto dentro e fora do país e são responsáveis por representar os interesses do projeto MUNDO DIGITAL e seus associados perante os órgãos reguladores e legais. Esses representantes são responsáveis perante a comunidade e devem garantir que suas decisões sejam tomadas no melhor interesse do ecossistema e de seus membros. Por isso, o projeto MUNDO DIGITAL preza pela transparência e prestação de contas, razão pela qual seus representantes legais não são anônimos.
 
->**Quaias requesitos para ocupar cargos Executivos? E sua Vantagens?**
+>**Quaias requesitos para ocupar cargos executivos? E sua vantagens?**
 
 Para concorrer aos cargos executivos do projeto, os interessados devem se cadastrar, especificar o cargo de seu interesse e observar o estatuto e o regimento interno. Após completarem o processo de registo e confirmarem os seus dados, receberão um e-mail com instruções sobre como ocupar o cargo designado. Os cargos disponíveis incluem **presidência, secretaria, tesouraria, conselho fiscal, embaixador,** entre outros. Ao ocupar esses cargos, os indivíduos podem representar a comunidade e os associados, opinar sobre as demandas votadas no ecossistema e potencialmente se beneficiar dos ganhos financeiros do projeto.
 São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto.
@@ -72,13 +72,19 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - Apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
 - Opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
 
->**Embaixadores:**
+>**Compete aos Embaixadores:**
 
 - Representar a comunidade em seu Estado de origem (obrigatório);
 - Gerir grupo de trabalho (obrigatório);
 - Participar das votações (obrigatório); 
 - Apresentar relatórios com resultados do seu Estado de origem (obrigatório); 
 - Participar de reuniões,conferencias e intercambio dentro e fora do pais (obrigatório).
+
+>**Compete aos Embaixadores:**
+
+-
+-
+-
 
 >**Quando o projeto MUNDO DIGITAL começou?**
 
