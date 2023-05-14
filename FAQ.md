@@ -134,24 +134,26 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 >**Compete ao Conselho Fiscal:**
 
-- Examinar os documentos e livros de escrituração da entidade;
-- Examinar o balancete semestral apresentado pelo tesoureiro, opinando a respeito;
-- Apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
-- Opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
+- Examinar os documentos e livros contábeis da entidade.
+- Examinar o balanço semestral apresentado pelo tesoureiro e sobre ele dar parecer.
+- Apreciar os balanços e inventários que acompanham o relatório anual do Conselho de Administração.
+- Pronunciar-se sobre aquisição, alienação e oneração de bens pertencentes à Associação.
 
 >**Compete aos Embaixadores:**
 
-- Representar a comunidade em seu Estado de origem (obrigatório);
-- Gerir grupo de trabalho (obrigatório);
-- Participar das votações (obrigatório); 
-- Apresentar relatórios com resultados do seu Estado de origem (obrigatório); 
-- Participar de reuniões,conferencias e intercambio dentro e fora do pais (obrigatório).
+- Representar a comunidade em seu estado de origem.
+- Gerenciar um grupo de trabalho.
+- Participe de enquetes.
+- Apresentar relatórios com resultados de seu Estado de origem.
+- Participar de reuniões, conferências e intercâmbios dentro e fora do país.
 
 >**Compete aos Suplentes:**
 
--
--
--
+- Participar de cursos de treinamento.
+- Acompanhe todas as atualizações internas.
+- Realizar estudos sobre a área de atuação dos respectivos cargos.
+- Revise toda a documentação para se familiarizar com o trabalho.
+- Esteja pronto para assumir o cargo designado para o substituto
 
 >**Quando o projeto MUNDO DIGITAL começou?**
 
