@@ -121,16 +121,15 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 >**Compete ao Tesoureiro:**
 
-- Arrecadar e contabilizar as contribuições, rendas, auxílios e donativos efetuados a Associação, mantendo em dia a escrituração;
-- Efetuar os pagamentos de todas as obrigações da Associação;
-- Acompanhar e supervisionar os trabalhos de contabilidade da Associação, contratados com profissionais habilitados, cuidando para que todas as obrigações fiscais e trabalhistas sejam devidamente cumpridas em tempo hábil;
-- Apresentar relatórios de receitas e despesas, sempre que forem solicitadas;
-- Apresentar o relatório financeiro para ser submetido à Assembleia Geral;
-- Apresentar semestralmente o balancete de receitas e despesas ao Conselho Fiscal;
-- Aublicar anualmente a demonstração das receitas e despesas realizadas no exercício;
-- Alaborar, com base no orçamento realizado no exercício, a proposta orçamentaria para o exercício seguinte a ser submetida a Diretoria, para posterior apreciação da Assembleia Geral;
-- Manter todo o numerário em estabelecimento de crédito;
-- Conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
+- Arrecadar e prestar contas das contribuições, receitas, ajudas e doações feitas à Associação.
+- Gerir os pagamentos de todas as obrigações da Associação.
+- Acompanhar e supervisionar os trabalhos contábeis da Associação e assegurar o cumprimento das obrigações fiscais e trabalhistas.
+- Apresentar relatórios de receitas e despesas à Assembleia Geral.
+- Elaborar o relatório financeiro a submeter à Assembleia Geral.
+- Apresentar semestralmente o balanço de receitas e despesas ao Conselho Fiscal.
+- Publicar a demonstração anual das receitas e despesas incorridas no exercício.
+- Prepare a proposta de orçamento para o ano seguinte com base no orçamento do ano atual.
+- Conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria.
 - Assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
 
 >**Compete ao Conselho Fiscal:**
