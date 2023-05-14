@@ -96,28 +96,28 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 
 >**Compete à Diretoria:**
 
-- Elaborar e executar o programa anual de atividades:
-- Elaborar e apresentar a Assembleia Geral o relatório anual e o respectivo demonstrativo de resultados do exercício findo;
-- Elaborar o orçamento da receita e despesas para o exercício seguinte;
-- Elaborar os regimentos internos da ASPPIBRA e de seus departamentos;
-- Entrosar-se com instituições públicas e privadas, tanto no País como no exterior, para mútua colaboração em atividades de interesse comum.
+- Elaborar e executar o programa anual de atividades.
+- Elaborar e apresentar a Assembleia Geral o relatório anual e o respectivo demonstrativo de resultados do exercício findo.
+- Elaborar o orçamento da receita e despesas para o exercício seguinte.
+- Elaborar os regimentos internos da ASPPIBRA e de seus departamentos.
+- Articular-se com instituições públicas e privadas no Brasil e no exterior para colaboração mútua em atividades de interesse comum.
 
 >**Compete ao Presidente:**
 
-- Representar a Associação judicial e extrajudicialmente, ativa e passivamente;
-- Cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
-- Convocar e presidir as reuniões da Diretoria;
-- Dirigir e supervisionar todas as atividades da Associação;
-- Assinar quaisquer documentos relativos às operações ativas da Associação;
+- Representar a Associação em assuntos legais e outros assuntos oficiais.
+- Assegurar o cumprimento do Estatuto e demais regulamentos internos.
+- Convocar e presidir as reuniões da Diretoria.
+- Dirigir e supervisionar todas as atividades da Associação.
+- Assinar quaisquer documentos relativos às operações ativas da Associação.
 
 >**Compete ao Vice-Presidente:**
 
-- Colaborar com o Presidente, e substituí-lo na sua ausência;
+- Colaborar com o Presidente, e substituí-lo na sua ausência.
 
 >**Compete ao Secretario:**
 
-- Secretariar as reuniões das Assembleias Gerais e da Diretoria e redigir atas;
-- Manter organizada a secretaria, com os respectivos livros e correspondências;
+- Registrar atas das Assembleias Gerais e reuniões do Conselho de Administração.
+- Manter a secretaria organizada com os respectivos livros e correspondência.
 
 >**Compete ao Tesoureiro:**
 
