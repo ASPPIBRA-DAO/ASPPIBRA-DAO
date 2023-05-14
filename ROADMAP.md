@@ -132,66 +132,7 @@ Criar chat Geral
 
 <br />
 
-## Code-base structure
-
-The project is coded using a simple and intuitive structure presented bellow:
-
-```bash
-< APP >
-   |
-   |-- Gustavo/                    # 
-   |    |--                        #
-   |    |--                        # 
-   |    |--                        # 
-   |    |
-   |    |-- /
-   |    |   |-- <images>           # Perfil Usuario
-   |    |
-   |    |-- templates/             # Templates pages
-   |         |
-   |         |-- /                 # 
-   |         |    |--              # 
-   |         |    |--              # 
-   |         |    |--              # 
-   |         |    |--              # 
-   |         |
-   |         |-- layouts/          # Master pages
-   |         |    |--              # Used by Authentication pages
-   |         |    |--              # 
-   |         |
-   |         |-- accounts/         # Authentication pages
-   |         |    |--              # Login page
-   |         |    |--              # Register page
-   |         |
-   |      index.html                       # The default page
-   |     page-404.html                     # Error 404 page
-   |     page-500.html                     # Error 404 page
-   |       *.html                          # All other HTML pages
-   |
-   |-- Andre/
-   |    |-- authentication/                # Handles auth routes (login and register)
-   |    |    |
-   |    |    |-- urls.py                   # Define authentication routes  
-   |    |    |-- views.py                  # Handles login and registration  
-   |    |    |-- forms.py                  # Define auth forms  
-   |    |
-   |    |-- app/                           
-   |         |
-   |         |--                           # authenticated users
-   |         |--                           # Development API - SQLite storage
-   |
-   |--                                     
-   |
-   |-- 
-   |--                            
-   |
-   |-- ************************************************************************
-``` 
-
 <br />
-
-> The bootstrap flow
-
 
 <br />
 
