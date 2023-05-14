@@ -3,23 +3,23 @@
 <div>
 </div>
 
-># Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?
+>## Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?
 
 A Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA) foi fundada em setembro de 2016 no município de Maricá, Rio de Janeiro. O principal objetivo da ASPPIBRA é resolver o problema antigo da posse irregular de terras no Brasil, tanto em áreas urbanas quanto rurais. Por meio da integração dos cadastros imobiliários com a tecnologia blockchain, a ASPPIBRA visa possibilitar a regularização de imóveis para a população, reduzindo a informalidade a zero e garantindo maior transparência nas informações. Em última análise, a ASPPIBRA busca promover o crescimento do setor, fornecendo uma solução abrangente para o problema da regularização fundiária no Brasil.
 
-># Sistema de votação
+>## Sistema de votação
 
 Para exercer o direito de voto, os membros do ecossistema MUNDO DIGITAL devem concordar com as condições descritas na plataforma e possuir tokens "ASPPBR". A votação ocorrerá na plataforma MUNDO DIGITAL, que proporcionará um processo seguro e transparente para que os associados participem das tomadas de decisão. A plataforma permitirá que os membros votem eletronicamente e acompanhem os resultados em tempo real, garantindo que o processo de votação seja justo e preciso. Ao alavancar a transparência e a segurança da tecnologia blockchain, a plataforma MUNDO DIGITAL visa criar um ecossistema democrático e inclusivo onde todos os membros tenham voz na definição de sua direção futura.
 
-># Quem pode concorrer a cargos executivos?
+>## Quem pode concorrer a cargos executivos?
 
 Podem concorrer a cargos executivos pessoas físicas que possuam um número mínimo de Tokens e concordem com as condições de serviço público. Esses cargos envolvem a representação da comunidade e do ecossistema MUNDO DIGITAL perante órgãos públicos e reguladores, bem como nas medidas necessárias para garantir o bom funcionamento do projeto. Os candidatos também devem ter em mente que as decisões sobre as operações do ecossistema são regidas por processos democráticos e devem ser feitas tendo em mente os interesses da comunidade e do ecossistema. Portanto, os candidatos devem se comprometer a trabalhar de forma colaborativa e transparente com a comunidade para impulsionar o sucesso do projeto MUNDO DIGITAL
 
-># A equipe é anônima?
+>## A equipe é anônima?
 
 A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes legais, eleitos pelo sistema de votação da comunidade "ASPPIBRA-DAO", atuam em nome do projeto dentro e fora do país e são responsáveis por representar os interesses do projeto MUNDO DIGITAL e seus associados perante os órgãos reguladores e legais. Esses representantes são responsáveis perante a comunidade e devem garantir que suas decisões sejam tomadas no melhor interesse do ecossistema e de seus membros. Por isso, o projeto MUNDO DIGITAL preza pela transparência e prestação de contas, razão pela qual seus representantes legais não são anônimos.
 
-># Quaias requesitos para ocupar cargos executivos?
+>## Quaias requesitos para ocupar cargos executivos?
 
 **Competências do Conselho de Administração:**
 
