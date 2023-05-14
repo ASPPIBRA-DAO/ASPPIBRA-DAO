@@ -102,7 +102,7 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - Elaborar os regimentos internos da ASPPIBRA e de seus departamentos.
 - Articular-se com instituições públicas e privadas no Brasil e no exterior para colaboração mútua em atividades de interesse comum.
 
->**Compete ao Presidente:**
+**Compete ao Presidente:**
 
 - Representar a Associação em assuntos legais e outros assuntos oficiais.
 - Assegurar o cumprimento do Estatuto e demais regulamentos internos.
@@ -110,16 +110,16 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - Dirigir e supervisionar todas as atividades da Associação.
 - Assinar quaisquer documentos relativos às operações ativas da Associação.
 
->**Compete ao Vice-Presidente:**
+**Compete ao Vice-Presidente:**
 
 - Colaborar com o Presidente, e substituí-lo na sua ausência.
 
->**Compete ao Secretario:**
+**Compete ao Secretario:**
 
 - Registrar atas das Assembleias Gerais e reuniões do Conselho de Administração.
 - Manter a secretaria organizada com os respectivos livros e correspondência.
 
->**Compete ao Tesoureiro:**
+**Compete ao Tesoureiro:**
 
 - Arrecadar e prestar contas das contribuições, receitas, ajudas e doações feitas à Associação.
 - Gerir os pagamentos de todas as obrigações da Associação.
@@ -132,14 +132,14 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - Conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria.
 - Assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
 
->**Compete ao Conselho Fiscal:**
+**Compete ao Conselho Fiscal:**
 
 - Examinar os documentos e livros contábeis da entidade.
 - Examinar o balanço semestral apresentado pelo tesoureiro e sobre ele dar parecer.
 - Apreciar os balanços e inventários que acompanham o relatório anual do Conselho de Administração.
 - Pronunciar-se sobre aquisição, alienação e oneração de bens pertencentes à Associação.
 
->**Compete aos Embaixadores:**
+**Compete aos Embaixadores:**
 
 - Representar a comunidade em seu estado de origem.
 - Gerenciar um grupo de trabalho.
@@ -147,7 +147,7 @@ São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimen
 - Apresentar relatórios com resultados de seu Estado de origem.
 - Participar de reuniões, conferências e intercâmbios dentro e fora do país.
 
->**Compete aos Suplentes:**
+**Compete aos Suplentes:**
 
 - Participar de cursos de treinamento.
 - Acompanhe todas as atualizações internas.
