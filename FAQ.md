@@ -19,7 +19,69 @@ Podem concorrer a cargos executivos pessoas físicas que possuam um número mín
 
 A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes legais, eleitos pelo sistema de votação da comunidade "ASPPIBRA-DAO", atuam em nome do projeto dentro e fora do país e são responsáveis por representar os interesses do projeto MUNDO DIGITAL e seus associados perante os órgãos reguladores e legais. Esses representantes são responsáveis perante a comunidade e devem garantir que suas decisões sejam tomadas no melhor interesse do ecossistema e de seus membros. Por isso, o projeto MUNDO DIGITAL preza pela transparência e prestação de contas, razão pela qual seus representantes legais não são anônimos.
 
->**Quaias requesitos para ocupar cargos executivos? E sua vantagens?**
+>**Quaias requesitos para ocupar cargos executivos?**
+
+**Competências do Conselho de Administração:**
+
+- Habilidades de planejamento e execução estratégica.
+- Habilidades de planejamento financeiro e orçamentário.
+- Conhecimento dos regulamentos e leis que regem as atividades da organização.
+- Habilidades de networking e colaboração com instituições públicas e privadas.
+- Habilidades de liderança e tomada de decisão.
+
+**Competências do Presidente:**
+
+- Conhecimento de compliance legal e regulatório.
+- Forte capacidade de liderança e gestão.
+- Comunicação e habilidades interpessoais.
+- Capacidade de tomada de decisão e resolução de problemas.
+- Habilidades de organização e planejamento.
+
+**Competências do Vice-presidente:**
+
+- Habilidades de colaboração e trabalho em equipe.
+- Habilidades de liderança e gestão.
+- Comunicação e habilidades interpessoais.
+- Capacidade de tomada de decisão e resolução de problemas.
+- Habilidades de organização e planejamento.
+
+**Competências do Secretário:**
+
+- Habilidades de tomada de minutos e manutenção de registros.
+- Habilidades de organização e planejamento.
+- Atenção aos detalhes e precisão.
+- Comunicação e habilidades interpessoais.
+
+**Competências do Tesoureiro:**
+
+- Habilidades em gestão financeira e contabilidade.
+- Conhecimento em legislação tributária e trabalhista.
+- Habilidades de liderança e gestão.
+- Capacidade de tomada de decisão e resolução de problemas.
+- Comunicação e habilidades interpessoais.
+
+**Competências do Conselho Fiscal:**
+
+- Habilidades de pensamento analítico e crítico.
+- Conhecimento em auditoria e princípios contábeis.
+- Atenção aos detalhes e precisão.
+- Comunicação e habilidades interpessoais.
+
+**Competências dos Embaixadores:**
+
+- Comunicação e habilidades interpessoais.
+- Habilidades de liderança e gestão.
+- Habilidades de planejamento e execução estratégica.
+- Habilidades de networking e colaboração.
+- Habilidades de apresentação e relatórios.
+
+**Competências para Suplentes:**
+
+- Vontade de aprender e assumir novas responsabilidades.
+- Atenção aos detalhes e precisão.
+- Habilidades de pensamento analítico e crítico.
+- Comunicação e habilidades interpessoais.
+- Habilidades de organização e planejamento.
 
 Para concorrer aos cargos executivos do projeto, os interessados devem se cadastrar, especificar o cargo de seu interesse e observar o estatuto e o regimento interno. Após completarem o processo de registro e confirmarem os seus dados, receberão um e-mail com instruções sobre como ocupar o cargo designado. Os cargos disponíveis incluem **presidência, secretaria, tesouraria, conselho fiscal, embaixador,** entre outros. Ao ocupar esses cargos, os indivíduos podem representar a comunidade e os associados, opinar sobre as demandas votadas no ecossistema e potencialmente se beneficiar dos ganhos financeiros do projeto.
 São 168 vagas iniciais ligadas diretamente a administração e ao desenvolvimento do projeto.
