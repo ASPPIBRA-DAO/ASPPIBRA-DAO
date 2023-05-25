@@ -257,7 +257,7 @@ O Airdrop é exclusivo para quem apoia o **Fundo Mundo Verde**, que se destina �
 
 >### O que é blockchain?
 
-Blockchain é um tipo de livro digital que registra transações de forma segura e descentralizada.
+- Blockchain é um tipo de livro digital que registra transações de forma segura e descentralizada.
 
 >### Como funciona o blockchain?
 
