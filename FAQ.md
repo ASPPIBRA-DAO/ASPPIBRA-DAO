@@ -170,7 +170,8 @@ Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo co
 
 >### Plano de negócio?
 
->### Escrituração Imobiliária em Blockchain:
+
+**Escrituração Imobiliária em Blockchain:**
 
 - Prestação de serviços para compilação de títulos de propriedade, topografia, engenharia civil, reconhecimento arquitetônico e criação de NFTs com dados de construção registrados no blockchain.
 
