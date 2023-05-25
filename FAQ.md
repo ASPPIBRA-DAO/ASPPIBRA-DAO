@@ -170,7 +170,7 @@ Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo co
 
 >### Plano de negócio?
 
-**Escrituração Imobiliária em Blockchain:**
+>### Escrituração Imobiliária em Blockchain:
 
 - Prestação de serviços para compilação de títulos de propriedade, topografia, engenharia civil, reconhecimento arquitetônico e criação de NFTs com dados de construção registrados no blockchain.
 
@@ -213,10 +213,47 @@ O projeto simplifica o processo de compilação de títulos de propriedade utili
 
 - O Projeto Mundo Digital da ASPPIBRA-DAO desempenha um papel fundamental na condução da transformação digital do setor imobiliário. Ao alavancar a tecnologia blockchain e soluções digitais, o projeto apresenta eficiência, transparência e segurança. Promove a inovação, agiliza processos e cria novas oportunidades de crescimento e colaboração no setor imobiliário.
 
+>### Conservação e preservação ambiental:
 
+**Qual é o foco do Projeto Mundo Digital na conservação e preservação do meio ambiente?** 
 
+- O Digital World Project coloca ênfase significativa na conservação e preservação do meio ambiente por meio de sua abordagem inovadora. Tem como objetivo viabilizar incentivos financeiros descentralizados para investimentos na recuperação de áreas degradadas em propriedades rurais privadas, levando, em última instância, à geração de créditos de carbono certificados.
 
-**2°** Conservação e preservação ambiental:
+**Como o Mundo Digital contribui para a recuperação de áreas degradadas?** 
+
+- A Mundo Digital apoia a recuperação de áreas degradadas, fortalecendo os proprietários rurais por meio do Cadastro Digital de suas Propriedades. Ao fornecer uma plataforma para registro de propriedades e facilitar incentivos financeiros descentralizados, o projeto incentiva os proprietários de terras a investir na recuperação de áreas degradadas. Isso leva à revitalização dos ecossistemas e à promoção de práticas sustentáveis ​​de manejo da terra.
+
+**Quais são os benefícios de gerar créditos de carbono certificados?** 
+
+- A geração de créditos de carbono certificados tem vários benefícios:
+
+**Impacto Ambiental:** 
+
+- Ao recuperar áreas degradadas e reduzir a emissão de carbono, o projeto auxilia no combate às mudanças climáticas e contribui para a preservação do meio ambiente.
+
+**Incentivos Financeiros:** 
+
+Os proprietários de terras podem monetizar seus esforços ganhando créditos de carbono, que podem ser vendidos ou negociados no mercado. Isso fornece um incentivo financeiro para investir na preservação e recuperação ambiental.
+
+**Desenvolvimento Sustentável:** 
+
+- A geração de créditos de carbono promove o desenvolvimento sustentável, promovendo práticas ecologicamente corretas e incentivando o manejo responsável da terra.
+
+**Como o Projeto Mundo Digital viabiliza incentivos financeiros descentralizados?**
+
+- O Digital World Project utiliza a tecnologia blockchain para permitir incentivos financeiros descentralizados. Ao utilizar contratos inteligentes e tokens digitais, o projeto cria um ecossistema transparente e seguro para recompensar proprietários de terras que investem na recuperação de áreas degradadas. Essa abordagem descentralizada elimina intermediários, reduz custos de transação e garante a distribuição eficiente de incentivos.
+
+**Como o Mundo Digital promove o desenvolvimento sustentável?** 
+
+- A Mundo Digital promove ativamente o desenvolvimento sustentável por meio de seu foco na conservação e preservação ambiental. Ao estimular investimentos na recuperação de áreas degradadas e na geração de créditos de carbono certificados, o projeto facilita práticas sustentáveis de manejo do solo. Isso contribui para a saúde de longo prazo dos ecossistemas, a proteção da biodiversidade e a mitigação dos impactos das mudanças climáticas.
+
+**Como os proprietários de terras podem participar dos esforços de conservação do Digital World Project?**
+
+- Os proprietários de terras podem participar dos esforços de conservação do Projeto Mundo Digital registrando suas propriedades no Registro Digital. Com isso, tornam-se elegíveis a incentivos financeiros descentralizados e apoio para seus investimentos na recuperação de áreas degradadas. Essa colaboração entre proprietários de terras e o projeto cria uma relação sinérgica que beneficia ambas as partes e promove a preservação ambiental.
+
+**Como o Projeto Mundo Digital contribui para um futuro mais verde?*
+
+- O foco do Digital World Project na conservação e preservação ambiental desempenha um papel vital na criação de um futuro mais verde. Ao incentivar a recuperação de áreas degradadas e a geração de créditos de carbono certificados, o projeto contribui ativamente para mitigar as mudanças climáticas e promover práticas sustentáveis. Este esforço coletivo tem um impacto cumulativo, transformando gradualmente as paisagens e promovendo uma sociedade mais sustentável e ambientalmente consciente.
 
 **3°** Agronegócio:
 
