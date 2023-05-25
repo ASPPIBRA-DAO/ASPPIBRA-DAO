@@ -19,7 +19,7 @@
 
 - A equipe por trás do projeto MUNDO DIGITAL não é anônima. Os representantes legais, eleitos pelo sistema de votação da comunidade "ASPPIBRA-DAO", atuam em nome do projeto dentro e fora do país e são responsáveis por representar os interesses do projeto MUNDO DIGITAL e seus associados perante os órgãos reguladores e legais. Esses representantes são responsáveis perante a comunidade e devem garantir que suas decisões sejam tomadas no melhor interesse do ecossistema e de seus membros. Por isso, o projeto MUNDO DIGITAL preza pela transparência e prestação de contas, razão pela qual seus representantes legais não são anônimos.
 
->### Quaias requesitos para ocupar cargos executivos?
+>### Quais requesitos para ocupar cargos executivos?
 
 **Competências do Conselho de Administração:**
 
