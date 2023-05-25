@@ -184,13 +184,14 @@ Com poucas palavras para descrever nossa atuação nos seguimentos expostos ness
 
 >### Taxas iniciais?
 
-Todo token que for adquirido no site na pré venda atraves de Peer-to-peer (P2P) não terá taxa.
+- Não, não há taxas iniciais para receber tokens no site oficial da **ASPPIBRA-DAO**.
 
-Haverá pré venda? E qual será o valor inicial?
+>### Haverá uma chamada pública para distribuição de token? Qual será o valor inicial dos tokens?
 
-- Sim, a pré venda e para promover o desenvolvimento central e prepara todos detalhes e requisitos para a listagem nas exchanges;
-A pré venda no site disponibilizará 15% dos Tokens “ASPPBR”, sendo um total de 3.150.000 tokens
-Com o valor inicial de 1 USD por 1 ASPP unidade.
+- Sim, haverá chamada pública para distribuição de tokens de governança. 
+- Esta chamada visa promover o desenvolvimento central e preparar todos os detalhes e requisitos para listagem em bolsas.
+A distribuição por meio da chamada pública distribuirá 15% dos Tokens **ASPPBR**, totalizando 3.150.000 tokens.
+O valor de cotação inicial para os tokens será de 1 USD por 1 unidade **ASPPBR**.
 
 >### O contrato do Token foi auditado?
 
