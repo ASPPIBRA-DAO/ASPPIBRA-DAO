@@ -168,7 +168,7 @@ Reconhecendo a enorme oportunidade de envolvimento nestes setores e possuindo co
 
 - O token "ASPPBR" é um token de utilidade que atende a múltiplos propósitos dentro do ecossistema MUNDO DIGITAL. Em primeiro lugar, fornece direitos de voto aos detentores de tokens, dando-lhes voz nos processos de tomada de decisão que regem as operações do projeto. Além disso, o token garante aos usuários o direito de participar do pool de permanência do projeto, o que lhes permite ganhar recompensas por suas contribuições ao ecossistema. Além disso, os usuários podem usar o token para acessar vários serviços e adquirir produtos do ecossistema, ou trocá-lo por stablecoins ou Bitcoin. No geral, o token ASPPBR é um componente crucial do ecossistema MUNDO DIGITAL, garantindo transparência, justiça e inclusão para todos os membros.
 
->### Plano de negócio?
+>### Registro de Imóveis na Blockchain
 
 
 **Escrituração Imobiliária em Blockchain:**
