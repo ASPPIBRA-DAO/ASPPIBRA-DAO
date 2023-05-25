@@ -197,47 +197,62 @@ O valor de cotação inicial para os tokens será de 1 USD por 1 unidade **ASPPB
 
 - Não, o contrato do token "ASPPBR" não foi auditado, pois inclui apenas funções básicas de transferência e armazenamento em carteira. Portanto, não há necessidade de uma auditoria abrangente do contrato, no entanto é importante observar que mesmo contratos simples como este devem ser desenvolvidos com as melhores práticas em mente para garantir que sejam seguros e livres de vulnerabilidades que possam ser exploradas por pessoas mal-intencionadas.
 
->### Haverá Airdrop? E quem poderar participar?
+>### Haverá um Airdrop para tokens **ASPPBR?**
 
-- Sim, o airdrop ocorrerá em 4 fases no projeto que distribuirá para os associados e embaixadores um valor de 1.110.000 USD. Todos que realizarem seus cadastros exclusivamente pelo site para aquisição dos tokens na pré venda vai estar participando do airdrop.
+Sim, haverá um Airdrop de tokens **ASPPBR.**
 
-O que são créditos de carbono?  
+>### Quantas fases o Airdrop terá e qual é o valor total da distribuição?
+
+O Airdrop acontecerá em 4 fases.
+
+>### O valor total de distribuição para o Airdrop é de US$ 1.110.000 em tokens **ASPPBR**.
+
+>### Quem pode participar do Airdrop?
+
+Os participantes da chamada pública que alocarem seus tokens no sistema de governança serão elegíveis para receber o Airdrop.
+O Airdrop é exclusivo para quem apoia o **Fundo Mundo Verde**, que se destina à produção de créditos de carbono.
+
+>### Qual é o objetivo do Airdrop?
+
+O Airdrop é uma forma de agradecer e premiar associados e embaixadores pelo apoio na divulgação do **Fundo Mundo Verde** e suas iniciativas.
+
+>### O que são créditos de carbono?  
 
 - Os créditos de carbono são uma unidade de medida usada para representar a redução ou remoção de uma tonelada métrica de emissões de dióxido de carbono (CO2). Eles são um componente chave dos programas de compensação de carbono que visam reduzir as emissões de gases de efeito estufa.
 
-Como funcionam os créditos de carbono? 
+>### Como funcionam os créditos de carbono? 
 
 - Os créditos de carbono funcionam atribuindo um valor financeiro à redução das emissões de CO2. Organizações ou projetos que podem demonstrar uma redução nas emissões podem ganhar créditos de carbono. Esses créditos podem então ser comprados e vendidos no mercado, permitindo que as organizações compensem suas próprias emissões comprando créditos de projetos que reduziram as emissões com sucesso.
 
-Qual é a finalidade dos créditos de carbono? 
+>### Qual é a finalidade dos créditos de carbono? 
 
 - O objetivo dos créditos de carbono é incentivar e promover atividades que reduzam as emissões de gases de efeito estufa. Ao atribuir um valor financeiro às reduções de emissões, os créditos de carbono incentivam as organizações a investir em tecnologias mais limpas, projetos de energia renovável e outras iniciativas que ajudem a combater as mudanças climáticas.
 
-Quem pode ganhar créditos de carbono? 
+>### Quem pode ganhar créditos de carbono? 
 
 - Os créditos de carbono podem ser obtidos por uma ampla gama de entidades, incluindo empresas, governos, organizações sem fins lucrativos e indivíduos. Para ganhar créditos, eles devem demonstrar reduções de emissões mensuráveis ​​e verificadas por meio de metodologias aprovadas.
 
-Para que podem ser usados os créditos de carbono? 
+>### Para que podem ser usados os créditos de carbono? 
 
 - Os créditos de carbono podem ser usados ​​para fins de compensação de carbono. As organizações podem comprar créditos de carbono para compensar suas próprias emissões e alcançar a neutralidade de carbono. Os créditos adquiridos representam uma redução equivalente nas emissões em outros lugares, equilibrando efetivamente a pegada de carbono.
 
-Como os créditos de carbono são verificados? 
+>### Como os créditos de carbono são verificados? 
 
 - Os créditos de carbono são verificados por meio de um processo rigoroso para garantir sua legitimidade. Auditores terceirizados independentes revisam e validam os projetos de redução de emissões, verificando se as reduções reivindicadas são reais, mensuráveis ​​e adicionais ao que teria acontecido sem o projeto.
 
-As pessoas físicas podem comprar créditos de carbono? 
+>### As pessoas físicas podem comprar créditos de carbono? 
 
 - Sim, indivíduos podem comprar créditos de carbono. Algumas organizações e plataformas oferecem aos indivíduos a oportunidade de comprar créditos de carbono para compensar suas pegadas de carbono pessoais. Isso permite que os indivíduos tomem medidas para mitigar suas próprias emissões e apoiar projetos de redução de emissões.
 
-Os créditos de carbono são regulamentados?
+>### Os créditos de carbono são regulamentados?
 
 - O mercado de crédito de carbono é regulamentado para garantir transparência e credibilidade. Existem padrões e protocolos internacionais, como o Verified Carbon Standard (VCS) e o Gold Standard, que fornecem diretrizes para a emissão, rastreamento e comercialização de créditos de carbono.
 
-Quais são os benefícios de usar créditos de carbono? 
+>### Quais são os benefícios de usar créditos de carbono? 
 
 - O uso de créditos de carbono oferece vários benefícios. Ele fornece um incentivo financeiro para projetos de redução de emissões, incentiva o investimento em tecnologias sustentáveis ​​e ajuda organizações e indivíduos a assumirem a responsabilidade por sua pegada de carbono. Adicionalmente, apoia a transição para uma economia de baixo carbono e o combate às alterações climáticas.
 
-Há alguma crítica aos créditos de carbono? 
+>### Há alguma crítica aos créditos de carbono? 
 
 - Sim, existem algumas críticas aos créditos de carbono. Os críticos argumentam que eles podem criar uma mentalidade de "licença para poluir", em que as organizações dependem da compra de créditos em vez de implementar medidas diretas de redução de emissões. Além disso, tem havido preocupações sobre a precisão dos cálculos de emissão e a eficácia de certos projetos na entrega de reduções genuínas de emissões.
 
