@@ -190,8 +190,8 @@ Com poucas palavras para descrever nossa atuação nos seguimentos expostos ness
 
 - Sim, haverá chamada pública para distribuição de tokens de governança. 
 - Esta chamada visa promover o desenvolvimento central e preparar todos os detalhes e requisitos para listagem em bolsas.
-A distribuição por meio da chamada pública distribuirá 15% dos Tokens **ASPPBR**, totalizando 3.150.000 tokens.
-O valor de cotação inicial para os tokens será de 1 USD por 1 unidade **ASPPBR**.
+- A distribuição por meio da chamada pública distribuirá 15% dos Tokens **ASPPBR**, totalizando 3.150.000 tokens.
+- O valor de cotação inicial para os tokens será de 1 USD por 1 unidade **ASPPBR**.
 
 >### O contrato do Token foi auditado?
 
@@ -199,22 +199,21 @@ O valor de cotação inicial para os tokens será de 1 USD por 1 unidade **ASPPB
 
 >### Haverá um Airdrop para tokens **ASPPBR?**
 
-Sim, haverá um Airdrop de tokens **ASPPBR.**
+- Sim, haverá um Airdrop de tokens **ASPPBR.**
 
 >### Quantas fases o Airdrop terá e qual é o valor total da distribuição?
 
-O Airdrop acontecerá em 4 fases.
-
->### O valor total de distribuição para o Airdrop é de US$ 1.110.000 em tokens **ASPPBR**.
+- O Airdrop acontecerá em 4 fases.
+- O valor total de distribuição para o Airdrop é de US$ 1.110.000 em tokens **ASPPBR**.
 
 >### Quem pode participar do Airdrop?
 
-Os participantes da chamada pública que alocarem seus tokens no sistema de governança serão elegíveis para receber o Airdrop.
+- Os participantes da chamada pública que alocarem seus tokens no sistema de governança serão elegíveis para receber o Airdrop.
 O Airdrop é exclusivo para quem apoia o **Fundo Mundo Verde**, que se destina à produção de créditos de carbono.
 
 >### Qual é o objetivo do Airdrop?
 
-O Airdrop é uma forma de agradecer e premiar associados e embaixadores pelo apoio na divulgação do **Fundo Mundo Verde** e suas iniciativas.
+- O Airdrop é uma forma de agradecer e premiar associados e embaixadores pelo apoio na divulgação do **Fundo Mundo Verde** e suas iniciativas.
 
 >### O que são créditos de carbono?  
 
