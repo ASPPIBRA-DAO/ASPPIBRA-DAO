@@ -256,7 +256,7 @@ Os proprietários de terras podem monetizar seus esforços ganhando créditos de
 
 - O foco do Digital World Project na conservação e preservação ambiental desempenha um papel vital na criação de um futuro mais verde. Ao incentivar a recuperação de áreas degradadas e a geração de créditos de carbono certificados, o projeto contribui ativamente para mitigar as mudanças climáticas e promover práticas sustentáveis. Este esforço coletivo tem um impacto cumulativo, transformando gradualmente as paisagens e promovendo uma sociedade mais sustentável e ambientalmente consciente.
 
-**Agronegócio**
+>### Agronegócio
 
 **Como o Projeto Mundo Digital apoia o setor do agronegócio?** 
 
