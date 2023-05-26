@@ -355,7 +355,43 @@ A geração de energia sustentável a partir de cursos de água oferece várias 
 
 - os royalties gerados pela mineração de Bitcoin e a estrutura de geração de energia sustentável beneficiam a comunidade do Digital World. Isso capacita os membros da comunidade e incentiva sua participação ativa nas iniciativas sustentáveis do projeto, promovendo um senso de propriedade e colaboração.
 
-**5°** Exploração Mineral:
+>### Exploração Mineral:
+
+**Como o Projeto Mundo Digital contribui para o setor de exploração mineral?** 
+
+- O Projeto Mundo Digital contribui significativamente para o setor de exploração mineral por meio de seus serviços especializados e acesso a valiosas informações de mapas geológicos. Ao fornecer serviços Oracle e informações validadas, o projeto oferece suporte à eficiência, precisão e eficácia das atividades de exploração mineral.
+
+**O que são os serviços da Oracle no contexto da exploração mineral?** 
+
+- Os serviços da Oracle, no âmbito da exploração mineral, referem-se ao fornecimento de informações verificadas e validadas para o setor. O Digital World Project atua como uma fonte confiável de informações, oferecendo dados precisos e insights relacionados ao mapeamento geológico, depósitos minerais e potencial de exploração. Isso ajuda as partes interessadas no setor de exploração mineral a tomar decisões informadas e otimizar seus esforços de exploração.
+
+**Como o Projeto Mundo Digital garante a validade das informações fornecidas?**
+
+- O Projeto Mundo Digital garante a validade das informações fornecidas por meio de rigorosos processos de verificação de dados. O projeto tem acesso a um vasto acervo de informações de mapas geológicos, cuidadosamente analisados ​​e validados por especialistas. Ao manter altos padrões de qualidade e precisão dos dados, o projeto se estabelece como uma fonte confiável de informações confiáveis no setor de exploração mineral.
+
+**Qual é a importância das informações do mapa geológico para a exploração mineral?**
+
+- As informações do mapa geológico são cruciais para a exploração mineral, pois fornecem informações sobre a composição geológica e a estrutura de uma área. Essas informações ajudam a identificar possíveis depósitos minerais, entender sua distribuição e orientar os esforços de exploração. Aproveitando sua extensa coleção de informações de mapas geológicos, o Digital World Project oferece dados valiosos que apóiam o planejamento de exploração e os processos de tomada de decisão.
+
+**Como o Projeto Mundo Digital apoia o crescimento econômico no Brasil e além?**
+
+- O Projeto Mundo Digital apóia o crescimento econômico do Brasil por meio do fomento ao desenvolvimento do setor de exploração mineral. Ao fornecer informações validadas e serviços Oracle, o projeto aumenta a eficiência e a eficácia das atividades de exploração, que podem levar à descoberta de recursos minerais valiosos. Essas descobertas têm potencial para atrair investimentos, gerar empregos e contribuir para o crescimento econômico geral do Brasil. Além disso, os planos futuros do projeto de expansão para o mercado internacional ampliam ainda mais seu impacto potencial no crescimento econômico global.
+
+**Quais são os objetivos de longo prazo do Projeto Mundo Digital no setor de exploração mineral?**
+
+O Digital World Project tem dois objetivos principais de longo prazo no setor de exploração mineral:
+
+**Apoiar o Crescimento do Brasil:** 
+
+- Inicialmente, o projeto visa apoiar o crescimento do setor de exploração mineral no Brasil, fornecendo informações validadas e serviços Oracle. Isso ajuda a maximizar o potencial mineral do país e contribui para o seu desenvolvimento econômico.
+
+**Atingir o mercado internacional:**
+
+- À medida que o projeto estabelece sua expertise e credibilidade na exploração mineral, tem aspirações de expandir seus serviços para o mercado internacional. Essa expansão permitiria ao projeto apoiar os esforços de exploração mineral globalmente, promovendo o crescimento econômico além das fronteiras do Brasil.
+
+**Como o Projeto Mundo Digital promove práticas de exploração mineral responsáveis e sustentáveis?**
+
+- O Digital World Project promove práticas de exploração mineral responsáveis e sustentáveis, fornecendo informações e insights precisos. Ao oferecer dados validados e serviços Oracle, o projeto ajuda a minimizar o impacto ambiental das atividades de exploração. Ele permite que as partes interessadas tomem decisões informadas, direcionem áreas com maior potencial e reduzam atividades de exploração desnecessárias. Isso contribui para a gestão responsável e sustentável dos recursos minerais, alinhando-se aos esforços globais para garantir a viabilidade e conservação dos recursos naturais no longo prazo.
 
 >### Taxas iniciais?
 
