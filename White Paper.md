@@ -1,0 +1,1 @@
+White paper é um documento informativo que busca descrever as características e promover um produto, serviço ou solução que uma determinada entidade oferece ou pretende oferecer.
