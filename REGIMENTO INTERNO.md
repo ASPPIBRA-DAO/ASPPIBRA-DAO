@@ -1,4 +1,4 @@
-REGIMENTO INTERNO.
+>## REGIMENTO INTERNO.
 
 **Regimento Interno, obedecendo o Art. 7 do Estatuto Social vigente.**
 
