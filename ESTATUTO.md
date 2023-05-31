@@ -118,72 +118,129 @@ I – por seu Presidente;
 II – pela Diretoria;
 III – por 1/5 (um quinto) de seus membros associados;
 
-Art. 15 A convocação das reuniões ordinárias ou extraordinárias será feita mediante edital, com pauta dos assuntos a serem tratados; e será publicado nas redes sócias oficiais da ASPPIBRA e fixado na sede da entidade, com antecedência mínima de (30) dias, e por correspondência eletrônica (E-mail) pessoal aos integrantes dos órgãos de administração da associação.
-I – As Reuniões ordinárias instalar-se-ão em primeira convocação, com a presença mínima de 2/3 (dois terços) dos integrantes da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL e, em segunda convocação, 30 (trinta) minutos após, com qualquer número de presentes.
-II – As reuniões extraordinárias instalar-se-ão, em primeira convocação, com 2/3 (dois terços) dos integrantes da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, em segunda convocação, 30(trinta) minutos após, com os membros associados presentes.
-Art. 16 A Diretoria é composta de:
-I – Presidente
-II- Vice-presidente
-III – 1° Secretario
-IV – 2° Secretario
-V- 1° Tesoureiro
-VI- 2° Tesoureiro
+**Art.15** 
+
+A convocação das reuniões ordinárias ou extraordinárias será feita mediante edital, com pauta dos assuntos a serem tratados; e será publicado nas redes sócias oficiais da ASPPIBRA e fixado na sede da entidade, com antecedência mínima de (30) dias, e por correspondência eletrônica (E-mail) pessoal aos integrantes dos órgãos de administração da associação.
+-I – As Reuniões ordinárias instalar-se-ão em primeira convocação, com a presença mínima de 2/3 (dois terços) dos integrantes da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL e, em segunda convocação, 30 (trinta) minutos após, com qualquer número de presentes.
+-II – As reuniões extraordinárias instalar-se-ão, em primeira convocação, com 2/3 (dois terços) dos integrantes da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, em segunda convocação, 30(trinta) minutos após, com os membros associados presentes.
+
+**Art.16** 
+
+A Diretoria é composta de:
+- I – Presidente
+- II- Vice-presidente
+- III – 1° Secretario
+- IV – 2° Secretario
+- V- 1° Tesoureiro
+- VI- 2° Tesoureiro
 Parágrafo único. O mandado dos integrantes da Diretoria será por tempo indeterminado, ou enquanto durar a ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL.
-Art. 17 Ocorrendo vaga em qualquer cargo de titular da Diretoria, a Assembleia Geral se reunirá no prazo máximo de trinta dias após a vacância, para eleger o novo integrante.
-Art. 18 Compete à Diretoria:
-I – elaborar e executar o programa anual de atividades:
-II – elaborar e apresentar a Assembleia Geral o relatório anual e o respectivo demonstrativo de resultados do exercício findo;
-III – elaborar o orçamento da receita e despesas para o exercício seguinte;
-IV – elaborar os regimentos internos da ASPPIBRA e de seus departamentos;
-V – entrosar-se com instituições públicas e privadas, tanto no País como no exterior, para mútua colaboração em atividades de interesse comum.
-Art. 19 Compete ao Presidente:
-I – representar a Associação judicial e extrajudicialmente, ativa e passivamente;
-II – cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
-III – convocar e presidir as reuniões da Diretoria;
-IV – dirigir e supervisionar todas as atividades da Associação;
-V – assinar quaisquer documentos relativos às operações ativas da Associação;
 
-Art. 20 Compete ao Vice-Presidente:
-I – Colaborar com o Presidente, e substituí-lo na sua ausência;
-Art. 21 Compete ao 1º e 2° Secretario:
+**Art.17** 
+
+Ocorrendo vaga em qualquer cargo de titular da Diretoria, a Assembleia Geral se reunirá no prazo máximo de trinta dias após a vacância, para eleger o novo integrante.
+
+**Art.18** 
+
+Compete à Diretoria:
+- I – elaborar e executar o programa anual de atividades:
+- II – elaborar e apresentar a Assembleia Geral o relatório anual e o respectivo demonstrativo de resultados do exercício findo;
+- III – elaborar o orçamento da receita e despesas para o exercício seguinte;
+- IV – elaborar os regimentos internos da ASPPIBRA e de seus departamentos;
+- V – entrosar-se com instituições públicas e privadas, tanto no País como no exterior, para mútua colaboração em atividades de interesse comum.
+
+**Art.19** 
+
+Compete ao Presidente:
+- I – representar a Associação judicial e extrajudicialmente, ativa e passivamente;
+- II – cumprir e fazer cumprir este Estatuto e os demais regimentos internos;
+- III – convocar e presidir as reuniões da Diretoria;
+- IV – dirigir e supervisionar todas as atividades da Associação;
+- V – assinar quaisquer documentos relativos às operações ativas da Associação;
+
+**Art.20** 
+
+Compete ao Vice-Presidente:
+- I – Colaborar com o Presidente, e substituí-lo na sua ausência;
+
+**Art.21** 
+
+Compete ao 1º e 2° Secretario:
 Secretariar as reuniões das Assembleias Gerais e da Diretoria e redigir atas;
-II- manter organizada a secretaria, com os respectivos livros e correspondências;
-Art. 22 Compete ao 1º e 2° Tesoureiro:
-I – Arrecadar e contabilizar as contribuições, rendas, auxílios e donativos efetuados a Associação, mantendo em dia a escrituração;
-II – efetuar os pagamentos de todas as obrigações da Associação;
-III – acompanhar e supervisionar os trabalhos de contabilidade da Associação, contratados com profissionais habilitados, cuidando para que todas as obrigações fiscais e trabalhistas sejam devidamente cumpridas em tempo hábil;
-IV – apresentar relatórios de receitas e despesas, sempre que forem solicitadas;
-V – apresentar o relatório financeiro para ser submetido à Assembleia Geral;
-VI – apresentar semestralmente o balancete de receitas e despesas ao Conselho Fiscal;
-VII – publicar anualmente a demonstração das receitas e despesas realizadas no exercício;
-VIII – elaborar, com base no orçamento realizado no exercício, a proposta orçamentaria para o exercício seguinte a ser submetida a Diretoria, para posterior apreciação da Assembleia Geral;
-IX – manter todo o numerário em estabelecimento de crédito;
-X – conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
-XI – assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
-Art. 23 O conselho fiscal será constituído por 6 (seis) pessoas de reconhecida idoneidade e seus respectivos suplentes, permitida apenas uma recondução.
+- II- manter organizada a secretaria, com os respectivos livros e correspondências;
+
+**Art.22** 
+
+Compete ao 1º e 2° Tesoureiro:
+- I – Arrecadar e contabilizar as contribuições, rendas, auxílios e donativos efetuados a Associação, mantendo em dia a escrituração;
+- II – efetuar os pagamentos de todas as obrigações da Associação;
+- III – acompanhar e supervisionar os trabalhos de contabilidade da Associação, contratados com profissionais habilitados, cuidando para que todas as obrigações fiscais e trabalhistas sejam devidamente cumpridas em tempo hábil;
+- IV – apresentar relatórios de receitas e despesas, sempre que forem solicitadas;
+- V – apresentar o relatório financeiro para ser submetido à Assembleia Geral;
+- VI – apresentar semestralmente o balancete de receitas e despesas ao Conselho Fiscal;
+- VII – publicar anualmente a demonstração das receitas e despesas realizadas no exercício;
+- VIII – elaborar, com base no orçamento realizado no exercício, a proposta orçamentaria para o exercício seguinte a ser submetida a Diretoria, para posterior apreciação da Assembleia Geral;
+- IX – manter todo o numerário em estabelecimento de crédito;
+- X – conservar sob sua guarda e responsabilidade, todos os documentos relativos a tesouraria;
+- XI – assinar, em conjunto com o Presidente, todos os cheques emitidos pela Associação.
+
+**Art.23** 
+
+O conselho fiscal será constituído por 6 (seis) pessoas de reconhecida idoneidade e seus respectivos suplentes, permitida apenas uma recondução.
 Parágrafo único. O mandato do Conselho Fiscal será coincidente com o mandato da Diretoria.
-Art. 24 Ocorrendo vaga em qualquer cargo do titular do Conselho Fiscal, caberá ao respectivo suplente substituí-lo até o fim do mandato para qual foi eleito.
-Art. 25 Os suplentes do Conselho Fiscal deverão ser associados.
-Art. 26 Compete ao Conselho Fiscal:
-I – examinar os documentos e livros de escrituração da entidade;
-II – examinar o balancete semestral apresentado pelo tesoureiro, opinando a respeito;
-III – apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
-IV – opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
-Parágrafo único. O conselho fiscal reunir-se-á a cada 6 (seis) meses e extraordinariamente, sempre que necessário.
 
-CAPÍTULO IV
+**Art.24** 
 
-DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+Ocorrendo vaga em qualquer cargo do titular do Conselho Fiscal, caberá ao respectivo suplente substituí-lo até o fim do mandato para qual foi eleito.
 
-Art. 27 Os associados e dirigentes, não respondem solidária nem subsidiariamente pelas obrigações da Entidade.
-Art. 28 ASPPIBRA é composta por número ilimitado de associados.
-Art. 29 Os cargos dos órgãos de administração da Associação não são remunerados, ficando expressamente vetado por parte de seus integrantes o recebimento de participação nos lucros, gratificação, bonificação ou vantagem. A exceção o fundo de desenvolvimento, ele é exclusivo para quem realizar doações com o único objetivo de financiar os projetos ambientais e tecnológicos, como forma de agradecimento receberá (NFTs e tokens) de validação da sua participação, garantindo o comprometimento e engajamento nas atividades acima mencionadas.
+**Art.25** 
+
+Os suplentes do Conselho Fiscal deverão ser associados.
+
+**Art.26** 
+
+Compete ao Conselho Fiscal:
+- I – examinar os documentos e livros de escrituração da entidade;
+- II – examinar o balancete semestral apresentado pelo tesoureiro, opinando a respeito;
+- III – apreciar os balanços e inventários que acompanham o relatório anual da Diretoria;
+- IV – opinar sobre a aquisição, alienação e oneração de bens pertencentes á Associação.
+
+**Parágrafo único.** 
+
+O conselho fiscal reunir-se-á a cada 6 (seis) meses e extraordinariamente, sempre que necessário.
+
+## CAPÍTULO IV
+
+**DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS**
+
+**Art.27** 
+
+Os associados e dirigentes, não respondem solidária nem subsidiariamente pelas obrigações da Entidade.
+
+**Art.28** 
+
+ASPPIBRA é composta por número ilimitado de associados.
+
+**Art.29** 
+
+Os cargos dos órgãos de administração da Associação não são remunerados, ficando expressamente vetado por parte de seus integrantes o recebimento de participação nos lucros, gratificação, bonificação ou vantagem. A exceção o fundo de desenvolvimento, ele é exclusivo para quem realizar doações com o único objetivo de financiar os projetos ambientais e tecnológicos, como forma de agradecimento receberá (NFTs e tokens) de validação da sua participação, garantindo o comprometimento e engajamento nas atividades acima mencionadas.
 Art. 30 Os funcionários, que forem admitidos para prestarem serviços profissionais á Associação serão regidos pela Consolidação das Leis Trabalhistas.
-Art. 31 O quórum de aprovação será de 2/3 (dois terços) da Assembleia Geral, em reunião extraordinária, para as seguintes hipóteses:
-I- Alteração do Estatuto;
-II- Alienação de bens imóveis e gravação de ônus reais sobre os mesmos;
-III- Extinção - dissolução da Associação
-Art. 32 O exercício financeiro da Associação coincidirá com o ano civil.
-Art. 33 Os associados se responsabilizarão com pagamento anualmente estipulado no Regimento Interno da Associação.
-Art. 34 Os casos omissos serão resolvidos pela Diretoria e referendados pela Assembleia Geral, ficando estabelecido que a ação será apreciada ou realizada através da Arbitragem Lei n° 9.307 de 1996 e este Estatuto e Regimento Interno valerá como título executivo, para sanar possíveis dúvidas.
+
+**Art.31** 
+
+O quórum de aprovação será de 2/3 (dois terços) da Assembleia Geral, em reunião extraordinária, para as seguintes hipóteses:
+- I- Alteração do Estatuto;
+- II- Alienação de bens imóveis e gravação de ônus reais sobre os mesmos;
+- III- Extinção - dissolução da Associação
+
+**Art.32** 
+
+O exercício financeiro da Associação coincidirá com o ano civil.
+
+**Art.33** 
+
+Os associados se responsabilizarão com pagamento anualmente estipulado no Regimento Interno da Associação.
+
+**Art.34** 
+
+Os casos omissos serão resolvidos pela Diretoria e referendados pela Assembleia Geral, ficando estabelecido que a ação será apreciada ou realizada através da Arbitragem Lei n° 9.307 de 1996 e este Estatuto e Regimento Interno valerá como título executivo, para sanar possíveis dúvidas.
 
