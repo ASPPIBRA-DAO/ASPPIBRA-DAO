@@ -1,6 +1,6 @@
 ESTATUTO.
 
-CAPÍTULO I
+## CAPÍTULO I
 
 DENOMINAÇÃO:
 
