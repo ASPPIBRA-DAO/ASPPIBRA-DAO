@@ -1,84 +1,119 @@
-ESTATUTO.
+># ESTATUTO.
 
 ## CAPÍTULO I
 
-DENOMINAÇÃO:
+### DENOMINAÇÃO:
 
-Art. 1° ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL; doravante denominada “ASPPIBRA”.
+**Art.1°** ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL; doravante denominada “ASPPIBRA”.
 
-SEDE:
+### SEDE:
 
-Art.2° A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, com sede e foro na cidade de Maricá, no Estado do Rio de Janeiro, não restringe sua atuação nem suas instalações ao estado do Rio de Janeiro, podendo atuar e abrir filiais em Todo território Nacional desde que preencha os requisitos de pleno funcionamento junto as autarquias estaduais.
+**Art.2°** 
 
-NATUREZA E SEUS FINS:
-Art. 3° A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, é pessoa jurídica de direito privado, constituída na forma de sociedade civil, sem fins lucrativos, com autonomia administrativa e financeira, regendo-se pelo presente Estatuto e pela legislação que lhe for aplicável.
+A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, com sede e foro na cidade de Maricá, no Estado do Rio de Janeiro, não restringe sua atuação nem suas instalações ao estado do Rio de Janeiro, podendo atuar e abrir filiais em Todo território Nacional desde que preencha os requisitos de pleno funcionamento junto as autarquias estaduais.
 
-Parágrafo único: a ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL – possui personalidade jurídica própria, plena capacidade para se relacionar com terceiros e para exercer todas as atividades pertinentes à suas finalidades, inclusive administrativas, financeiras, judiciais e extrajudiciais, e firmar convênios com o Poder Público.
+### NATUREZA E SEUS FINS:
 
-Cláusula primeira: A principal finalidade desta Associação é facilitar o acesso ao direito fundamental da propriedade privada, apresentando soluções aos casos de regularização fundiária e a titularização de imóveis urbanos e rurais no Brasil, utilizando a Mediação e conciliação através da Arbitragem Lei 9.307/96 aos conflitos fundiários, promover a inclusão digital, a Preservação do Meio Ambiente, e o acesso às informações no que diz respeito sobre suas propriedades.
+**Art.3°** 
+
+A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, é pessoa jurídica de direito privado, constituída na forma de sociedade civil, sem fins lucrativos, com autonomia administrativa e financeira, regendo-se pelo presente Estatuto e pela legislação que lhe for aplicável.
+
+**Parágrafo único:** 
+
+A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL – possui personalidade jurídica própria, plena capacidade para se relacionar com terceiros e para exercer todas as atividades pertinentes à suas finalidades, inclusive administrativas, financeiras, judiciais e extrajudiciais, e firmar convênios com o Poder Público.
+
+**Cláusula primeira:** 
+
+A principal finalidade desta Associação é facilitar o acesso ao direito fundamental da propriedade privada, apresentando soluções aos casos de regularização fundiária e a titularização de imóveis urbanos e rurais no Brasil, utilizando a Mediação e conciliação através da Arbitragem Lei 9.307/96 aos conflitos fundiários, promover a inclusão digital, a Preservação do Meio Ambiente, e o acesso às informações no que diz respeito sobre suas propriedades.
 
 O objeto social da ASPPIBRA, é garantir e ampliar o direito dos seus associados ao acesso ao solo urbano e rural, bem como o direito à exploração sustentável de seus recursos hídricos e minerais, E tem por finalidade institucional, a representação e defesa dos interesses dos seus associados nas esferas públicas e privadas, inclusive nas autarquias, no que diz respeito ao direito possessório.
 
-Cláusula segunda: Para atender aos objetivos socioeconômicos, culturais, sociais e ambientais dos cidadãos, além de manter um projeto de orientação jurídica gratuita, a ASSOCIAÇÃO será representada por sua Diretoria, Conselho Fiscal e todos integrantes previamente autorizados.
-I – defender o direito à propriedade privada, o direito de posse e o direito de uso de bens imóveis perante o Poder Público e o Poder Judiciário;
-II – representar, institucionalmente, os seus associados perante o Poder Judiciário.
-III – congregar os proprietários e possuidores de bens imóveis, urbanos e rurais, inclusive os condomínios, para fins de representação, defesa, orientação e promoção dos seus interesses;
-IV – difundir a cultura da propriedade privada;
-V – incentivar o acesso à propriedade urbana e rural;
-VI – estimular a discussão de questões fundamentais relacionadas com a propriedade urbana e rural, inclusive a regularização fundiária, visando elevar o nível de conhecimento e a consciência pública acerca da importância da função social da propriedade;
-VII – propor, elaborar e fomentar estudos, levantamentos e pesquisas concernentes à propriedade urbana e rural e às suas relações com o meio ambiente, o uso sustentável de seus recursos, a urbanização, a regularização fundiária e a política habitacional;
-VIII – promover, realizar e manter programas de capacitação, instrutivos e de orientação profissional sobre questões relacionadas à propriedade urbana e rural e às suas relações com o meio ambiente;
-IX – manter convênios ou parcerias com entidades de classe, associações civis, profissionais ou comunitárias, públicas ou privadas, nacionais ou estrangeiras, visando à consecução de seus objetivos sociais;
-X – editar e publicar periódicos, manuais, documentos, estudos e pesquisas de caráter técnico ou científico, bem como livros e outras publicações, na área de sua competência;
+**Cláusula segunda:** 
 
-XI – realizar, incentivar e apoiar, no âmbito de sua circunscrição territorial, convenções, congressos, seminários, simpósios, encontros, jornadas, palestras, exposições e outras atividades afins;
-XII – administrar, fundos, criar e manter serviços, programas e atividades voltados à consecução dos objetivos estatutários;
-XIII – manter relações de amizade e cooperação com entidades de caráter nacional ou internacional;
-XIV – solicitar aos poderes públicos, em geral, e às autoridades competentes, em particular, a formulação e a execução de políticas públicas que visem à consecução dos objetivos sociais;
-XV – praticar outras atividades compatíveis com a natureza e os fins da associação, que contribuam para o alcance de seus objetivos.
-XVI – representar o produtor rural, o minerador e o proprietário de imóveis urbanos e rurais perante o poder público e os órgãos competentes;
-XVII – prestar assessoria técnica, administrativa, jurídica e outras a seus associados fazendo uso da mediação e conciliação através da arbitragem ;
-XVIII – elaborar programas de incentivo as atividades de serviços ambientais e a exploração de recursos minerais, de forma sustentável, por estudos de caráter econômico, jurídico, técnico e ambiental;
-XIX – viabilizar parcerias financeiras e estruturais para implementação de projetos na área de atuação do associado;
-XX – apoiar a padronização da documentação referente as atividades mencionadas no Parágrafo único, a fim de facilitar o seu conhecimento por parte de todos, conferindo-lhe claridade, segurança e transparência tanto nas relações internas quanto nas externas;
-XXI – elaborar estudos, propor e implementar soluções em resposta às demandas, necessidades e anseios dos associados quanto às suas atividades;
-XXII – incentivar o acesso ao conhecimento e à disseminação de técnicas e processos inovadores por meio de campanhas educativas e de comunicação;
-XXIII – apoiar a formação de mão-de-obra especializada, bem como a capacitação e aperfeiçoamento profissional de seus associados, objetivando a melhoria de sua produtividade e a ampliação de sua participação no mercado de trabalho;
-XXIV – incentivar o uso sustentável dos recursos naturais, visando à conservação do meio ambiente;
+Para atender aos objetivos socioeconômicos, culturais, sociais e ambientais dos cidadãos, além de manter um projeto de orientação jurídica gratuita, a ASSOCIAÇÃO será representada por sua Diretoria, Conselho Fiscal e todos integrantes previamente autorizados.
+- I – defender o direito à propriedade privada, o direito de posse e o direito de uso de bens imóveis perante o Poder Público e o Poder Judiciário;
+- II – representar, institucionalmente, os seus associados perante o Poder Judiciário.
+- III – congregar os proprietários e possuidores de bens imóveis, urbanos e rurais, inclusive os condomínios, para fins de representação, defesa, orientação e promoção dos seus interesses;
+- IV – difundir a cultura da propriedade privada;
+- V – incentivar o acesso à propriedade urbana e rural;
+- VI – estimular a discussão de questões fundamentais relacionadas com a propriedade urbana e rural, inclusive a regularização fundiária, visando elevar o nível de conhecimento e a consciência pública acerca da importância da função social da propriedade;
+- VII – propor, elaborar e fomentar estudos, levantamentos e pesquisas concernentes à propriedade urbana e rural e às suas relações com o meio ambiente, o uso sustentável de seus recursos, a urbanização, a regularização fundiária e a política habitacional;
+- VIII – promover, realizar e manter programas de capacitação, instrutivos e de orientação profissional sobre questões relacionadas à propriedade urbana e rural e às suas relações com o meio ambiente;
+- IX – manter convênios ou parcerias com entidades de classe, associações civis, profissionais ou comunitárias, públicas ou privadas, nacionais ou estrangeiras, visando à consecução de seus objetivos sociais;
+- X – editar e publicar periódicos, manuais, documentos, estudos e pesquisas de caráter técnico ou científico, bem como livros e outras publicações, na área de sua competência;
+- XI – realizar, incentivar e apoiar, no âmbito de sua circunscrição territorial, convenções, congressos, seminários, simpósios, encontros, jornadas, palestras, exposições e outras atividades afins;
+- XII – administrar, fundos, criar e manter serviços, programas e atividades voltados à consecução dos objetivos estatutários;
+- XIII – manter relações de amizade e cooperação com entidades de caráter nacional ou internacional;
+- XIV – solicitar aos poderes públicos, em geral, e às autoridades competentes, em particular, a formulação e a execução de políticas públicas que visem à consecução dos objetivos sociais;
+- XV – praticar outras atividades compatíveis com a natureza e os fins da associação, que contribuam para o alcance de seus objetivos.
+- XVI – representar o produtor rural, o minerador e o proprietário de imóveis urbanos e rurais perante o poder público e os órgãos competentes;
+- XVII – prestar assessoria técnica, administrativa, jurídica e outras a seus associados fazendo uso da mediação e conciliação através da arbitragem ;
+- XVIII – elaborar programas de incentivo as atividades de serviços ambientais e a exploração de recursos minerais, de forma sustentável, por estudos de caráter econômico, jurídico, técnico e ambiental;
+- XIX – viabilizar parcerias financeiras e estruturais para implementação de projetos na área de atuação do associado;
+- XX – apoiar a padronização da documentação referente as atividades mencionadas no Parágrafo único, a fim de facilitar o seu conhecimento por parte de todos, conferindo-lhe claridade, segurança e transparência tanto nas relações internas quanto nas externas;
+- XXI – elaborar estudos, propor e implementar soluções em resposta às demandas, necessidades e anseios dos associados quanto às suas atividades;
+- XXII – incentivar o acesso ao conhecimento e à disseminação de técnicas e processos inovadores por meio de campanhas educativas e de comunicação;
+- XXIII – apoiar a formação de mão-de-obra especializada, bem como a capacitação e aperfeiçoamento profissional de seus associados, objetivando a melhoria de sua produtividade e a ampliação de sua participação no mercado de trabalho;
+- XXIV – incentivar o uso sustentável dos recursos naturais, visando à conservação do meio ambiente;
+- XXV – apoiar a geração de emprego e a renda nas comunidades rurais;
+- XXVI – apoiar os pequenos produtores rurais, a fim de facilitar o seu acesso aos programas de crédito, com garantias reais, oferecidos pelo Banco Nacional de Desenvolvimento Econômico e Social – BNDES;
+- XXVII – apoiar a geração de energia elétrica a partir de fontes renováveis de energia, visando à sustentabilidade do meio ambiente.
 
-XXV – apoiar a geração de emprego e a renda nas comunidades rurais;
-XXVI – apoiar os pequenos produtores rurais, a fim de facilitar o seu acesso aos programas de crédito, com garantias reais, oferecidos pelo Banco Nacional de Desenvolvimento Econômico e Social – BNDES;
-XXVII – apoiar a geração de energia elétrica a partir de fontes renováveis de energia, visando à sustentabilidade do meio ambiente.
+### DURAÇÃO:
 
-DURAÇÃO:
+**Art.4°** 
 
-Art. 4° A duração da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL será por tempo indeterminado.
+A duração da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL será por tempo indeterminado.
 
-CAPÍTULO II:
+## CAPÍTULO II:
 
-Art. 5° A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL não possui patrimônio para declarar.
-Art. 6° Em caso de extinção da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, o patrimônio adquirido será dividido de forma igual a todos os associados em dia com suas obrigações junto a associação, conforme inciso VI, artigo 46 do Código Civil brasileiro.
-Art. 7° Admitirão novos associados em concordância aos artigos do Estatuto e do Regime Interno, podendo os associados ser desligados quando não mais proceder em concordância aos artigos do Estatuto e do Regime Interno e sendo os associados excluídos se cometerem algum ato ilícito, sendo a admissão, demissão e exclusão estabelecidas em Assembleia Geral, conforme inciso II do artigo 54 do Código Civil brasileiro. Requisitos mínimos para se associar; inscrição feita pelo site ou em uma unidade de atendimento, que sejam pessoas idôneas, e tenha como objetivo os mesmos da associação, idade superior aos 18 anos que tenha capacidades físicas e biológicas de responder por suas escolhas e atitudes.
-Art. 8° Os associados têm o dever de estar em dia com suas mensalidades estabelecidas no Estatuto e Regimento Interno, e de se comportar conforme está previsto nos mesmos, e tem o direito de ser ouvido de votar e ser votado, conforme inciso III do art. 54 do Código Civil brasileiro.
+**Art.5°** 
 
-Art. 9° Os recursos para manutenção da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL serão provenientes das mensalidades dos associados estabelecidas no Regime Interno, conforme inciso IV do art. 54 do Código Civil brasileiro.
+A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL não possui patrimônio para declarar.
+
+**Art.6°** 
+
+Em caso de extinção da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL, o patrimônio adquirido será dividido de forma igual a todos os associados em dia com suas obrigações junto a associação, conforme inciso VI, artigo 46 do Código Civil brasileiro.
+
+**Art. 7°** 
+
+Admitirão novos associados em concordância aos artigos do Estatuto e do Regime Interno, podendo os associados ser desligados quando não mais proceder em concordância aos artigos do Estatuto e do Regime Interno e sendo os associados excluídos se cometerem algum ato ilícito, sendo a admissão, demissão e exclusão estabelecidas em Assembleia Geral, conforme inciso II do artigo 54 do Código Civil brasileiro. Requisitos mínimos para se associar; inscrição feita pelo site ou em uma unidade de atendimento, que sejam pessoas idôneas, e tenha como objetivo os mesmos da associação, idade superior aos 18 anos que tenha capacidades físicas e biológicas de responder por suas escolhas e atitudes.
+
+**Art.8°** 
+
+Os associados têm o dever de estar em dia com suas mensalidades estabelecidas no Estatuto e Regimento Interno, e de se comportar conforme está previsto nos mesmos, e tem o direito de ser ouvido de votar e ser votado, conforme inciso III do art. 54 do Código Civil brasileiro.
+
+**Art.9°** 
+
+Os recursos para manutenção da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL serão provenientes das mensalidades dos associados estabelecidas no Regime Interno, conforme inciso IV do art. 54 do Código Civil brasileiro.
 Art. 10  Será admitido o direito de defesa e recurso do associado excluído por justa causa, conforme artigo 57 do Código Civil brasileiro.
 
-CAPÍTULO III:
+## CAPÍTULO III:
 
-Art. 11 A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL tem como órgãos deliberativos e administrativos a Assembleia Geral, a Diretoria e o Conselho Fiscal.
-Art. 12 A Assembleia Geral, órgão soberano da entidade, será constituída por todos os associados em pleno gozo de seus direitos estatutários.
-Art. 13 São atribuições da Assembleia Geral:
-I – eleger os membros da Diretoria e do Conselho Fiscal e seus respectivos suplentes, como destituí-los;
-II – elaborar e aprovar o Regimento Interno da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL;
-III – deliberar sobre o orçamento anual e sobre o programa de trabalho elaborado pela Diretoria, ouvido previamente quanto aquele, o Conselho Fiscal;
-IV- examinar o relatório da Diretoria e deliberar sobre o balanço e as contas, após parecer do Conselho Fiscal;
-V – deliberar sobre a conveniência de aquisição, alienação ou oneração de bens pertencentes a Associação;
-VI – decidir sobre a reforma do presente Estatuto;
-VII – deliberar sobre proposta de absorção ou incorporação de outras entidades a Associação;
-VIII – autorizar a celebração de convênios e acordos com entidades públicas ou privadas.
-IX – decidir sobre a extinção - dissolução da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL e o destino do patrimônio;
-Art. 14 A Assembleia Geral se reunirá extraordinariamente quando convocada:
+**Art.11** 
+
+A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL tem como órgãos deliberativos e administrativos a Assembleia Geral, a Diretoria e o Conselho Fiscal.
+
+**Art.12** 
+
+A Assembleia Geral, órgão soberano da entidade, será constituída por todos os associados em pleno gozo de seus direitos estatutários.
+
+**Art.13** 
+
+São atribuições da Assembleia Geral:
+- I – eleger os membros da Diretoria e do Conselho Fiscal e seus respectivos suplentes, como destituí-los;
+- II – elaborar e aprovar o Regimento Interno da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL;
+- III – deliberar sobre o orçamento anual e sobre o programa de trabalho elaborado pela Diretoria, ouvido previamente quanto aquele, o Conselho Fiscal;
+- IV- examinar o relatório da Diretoria e deliberar sobre o balanço e as contas, após parecer do Conselho Fiscal;
+- V – deliberar sobre a conveniência de aquisição, alienação ou oneração de bens pertencentes a Associação;
+- VI – decidir sobre a reforma do presente Estatuto;
+- VII – deliberar sobre proposta de absorção ou incorporação de outras entidades a Associação;
+- VIII – autorizar a celebração de convênios e acordos com entidades públicas ou privadas.
+- IX – decidir sobre a extinção - dissolução da ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRASIL e o destino do patrimônio;
+
+**Art.14** 
+
+A Assembleia Geral se reunirá extraordinariamente quando convocada:
 I – por seu Presidente;
 II – pela Diretoria;
 III – por 1/5 (um quinto) de seus membros associados;
