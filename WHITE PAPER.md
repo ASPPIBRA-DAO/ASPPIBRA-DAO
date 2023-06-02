@@ -10,18 +10,18 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 
 **O whitepaper deve incluir seções como:**
 
-- Introdução e Resumo Executivo
-- Declaração do problema
-- Solução
-- Tokenômica
-- Tecnologia e Arquitetura
-- Governança e Consenso
-- Roteiro e marcos
-- Equipe e Parcerias
-- Venda e Alocação de Tokens
-- Conformidade Legal e Regulamentar
-- Fatores de risco e desafios
-- Termos e Condições de Venda de Tokens
+- Introdução e Resumo Executivo [ESTATUTO](https://www.asppibra.com.br/)
+- Declaração do problema [ESTATUTO](https://www.asppibra.com.br/)
+- Solução [ESTATUTO](https://www.asppibra.com.br/)
+- Tokenômica [ESTATUTO](https://www.asppibra.com.br/)
+- Tecnologia e Arquitetura [ESTATUTO](https://www.asppibra.com.br/)
+- Governança e Consenso [ESTATUTO](https://www.asppibra.com.br/)
+- Roteiro e marcos [ESTATUTO](https://www.asppibra.com.br/)
+- Equipe e Parcerias [ESTATUTO](https://www.asppibra.com.br/)
+- Venda e Alocação de Tokens [ESTATUTO](https://www.asppibra.com.br/)
+- Conformidade Legal e Regulamentar [ESTATUTO](https://www.asppibra.com.br/)
+- Fatores de risco e desafios [ESTATUTO](https://www.asppibra.com.br/)
+- Termos e Condições de Venda de Tokens [ESTATUTO](https://www.asppibra.com.br/)
 
 >## O que deve ser incluído na seção Tokenomics? 
 
