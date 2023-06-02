@@ -10,18 +10,18 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 
 **O whitepaper deve incluir seções como:**
 
-- Introdução e Resumo Executivo [ESTATUTO](https://www.asppibra.com.br/)
-- Declaração do problema [ESTATUTO](https://www.asppibra.com.br/)
-- Solução [ESTATUTO](https://www.asppibra.com.br/)
-- Tokenômica [ESTATUTO](https://www.asppibra.com.br/)
-- Tecnologia e Arquitetura [ESTATUTO](https://www.asppibra.com.br/)
-- Governança e Consenso [ESTATUTO](https://www.asppibra.com.br/)
-- Roteiro e marcos [ESTATUTO](https://www.asppibra.com.br/)
-- Equipe e Parcerias [ESTATUTO](https://www.asppibra.com.br/)
-- Venda e Alocação de Tokens [ESTATUTO](https://www.asppibra.com.br/)
-- Conformidade Legal e Regulamentar [ESTATUTO](https://www.asppibra.com.br/)
-- Fatores de risco e desafios [ESTATUTO](https://www.asppibra.com.br/)
-- Termos e Condições de Venda de Tokens [ESTATUTO](https://www.asppibra.com.br/)
+- [Introdução e Resumo Executivo](https://www.asppibra.com.br/)
+- [Declaração do problema](https://www.asppibra.com.br/)
+- [Solução](https://www.asppibra.com.br/)
+- [Tokenômica](https://www.asppibra.com.br/)
+- [Tecnologia e Arquitetura](https://www.asppibra.com.br/)
+- [Governança e Consenso](https://www.asppibra.com.br/)
+- [Roteiro e marcos](https://www.asppibra.com.br/)
+- [Equipe e Parcerias](https://www.asppibra.com.br/)
+- [Venda e Alocação de Tokens](https://www.asppibra.com.br/)
+- [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
+- [Fatores de risco e desafios](https://www.asppibra.com.br/)
+- [Termos e Condições de Venda de Tokens](https://www.asppibra.com.br/)
 
 >## O que deve ser incluído na seção Tokenomics? 
 
