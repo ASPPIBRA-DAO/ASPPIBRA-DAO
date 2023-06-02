@@ -1,12 +1,15 @@
-White paper é um documento informativo que busca descrever as características e promover um produto, serviço ou solução que uma determinada entidade oferece ou pretende oferecer.
+>## O que é um whitepaper?
+
+- Um whitepaper é um documento abrangente que descreve os detalhes e os principais componentes de um projeto, produto ou conceito. É normalmente usado na indústria de tecnologia, incluindo o espaço de criptomoeda e blockchain, para apresentar uma explicação detalhada de uma ideia, solução ou inovação específica.
 
 Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura de um whitepaper para o Projeto Crypto Mundo Digital:
 
->## Qual é a finalidade do whitepaper para o projeto Crypto Mundo Digital? 
+>## Qual é a finalidade do whitepaper? 
 
 - O whitepaper serve como um documento abrangente que descreve os objetivos, soluções, tokennomics, tecnologia, roteiro e equipe do projeto. Ele fornece aos potenciais investidores e membros da comunidade uma compreensão detalhada da visão, funcionalidade e valor potencial do projeto.
 
->## Quais seções devem ser incluídas no whitepaper para o projeto Crypto Mundo Digital? 
+>## Quais seções devem ser incluídas no whitepaper?
+
 
 **O whitepaper deve incluir seções como:**
 
