@@ -21,7 +21,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Governança e Consenso](https://www.asppibra.com.br/)
 - [Roteiro e marcos](https://www.asppibra.com.br/)
 - [Equipe e Parcerias](https://www.asppibra.com.br/)
-- [Venda e Alocação de Tokens](https://www.asppibra.com.br/)
+- [Venda e Alocação de Tokens](https://github.com/ASPPIBRA-DAO/TOKEN{Alocação de Fundos})
 - [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
 - [Fatores de risco e desafios](https://www.asppibra.com.br/)
 - [Termos e Condições de Venda de Tokens](https://www.asppibra.com.br/)
