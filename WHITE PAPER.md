@@ -15,18 +15,19 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 
 **O whitepaper deve incluir seções como:**
 
-- [Introdução e Resumo Executivo](https://www.asppibra.com.br/)
+- [Introdução](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#introdu%C3%A7%C3%A3o)
 - [Declaração do problema](https://www.asppibra.com.br/)
 - [Solução](https://www.asppibra.com.br/)
-- [Tokenômica](https://www.asppibra.com.br/)
+- [Tokenomics](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#tokenomics)
 - [Tecnologia e Arquitetura](https://www.asppibra.com.br/)
 - [Governança e Consenso](https://www.asppibra.com.br/)
-- [Roteiro e marcos](https://www.asppibra.com.br/)
-- [Equipe e Parcerias](https://www.asppibra.com.br/)
-- [Venda e Alocação de Tokens](https://www.asppibra.com.br/)
+- [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md)
+- [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)
+- [Parcerias](https://www.asppibra.com.br/)
+- [Venda e Alocação de Tokens](https://github.com/ASPPIBRA-DAO/TOKEN)
 - [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
-- [Fatores de risco e desafios](https://www.asppibra.com.br/)
-- [Termos e Condições de Venda de Tokens](https://www.asppibra.com.br/)
+- [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#fatores-de-riscos-e-desafios)
+- [Termos e Condições de Venda de Tokens](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
 
 >## O que deve ser incluído na seção Tokenomics? 
 
