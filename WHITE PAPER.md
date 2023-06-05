@@ -23,7 +23,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Equipe e Parcerias](https://www.asppibra.com.br/)
 - [Venda e Alocação de Tokens](https://github.com/ASPPIBRA-DAO/TOKEN)
 - [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
-- [Fatores de risco e desafios](https://www.asppibra.com.br/)
+- [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#riscos)
 - [Termos e Condições de Venda de Tokens](https://www.asppibra.com.br/)
 
 >## O que deve ser incluído na seção Tokenomics? 
