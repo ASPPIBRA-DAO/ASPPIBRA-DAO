@@ -1,4 +1,4 @@
-# [WHITE PAPER] (https://www.asppibra.com.br/)
+# [WHITE PAPER](https://www.asppibra.com.br/)
 
 >## O que é um whitepaper?
 
