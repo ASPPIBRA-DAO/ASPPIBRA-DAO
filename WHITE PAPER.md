@@ -1,3 +1,5 @@
+# [WHITE PAPER] (https://www.asppibra.com.br/)
+
 >## O que é um whitepaper?
 
 - Um whitepaper é um documento abrangente que descreve os detalhes e os principais componentes de um projeto, produto ou conceito. É normalmente usado na indústria de tecnologia, incluindo o espaço de criptomoeda e blockchain, para apresentar uma explicação detalhada de uma ideia, solução ou inovação específica.
