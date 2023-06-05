@@ -13,7 +13,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 
 **O whitepaper deve incluir seções como:**
 
-- [Introdução e Resumo Executivo](https://www.asppibra.com.br/)
+- [Introdução](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#introdu%C3%A7%C3%A3o)
 - [Declaração do problema](https://www.asppibra.com.br/)
 - [Solução](https://www.asppibra.com.br/)
 - [Tokenomics](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#tokenomics)
