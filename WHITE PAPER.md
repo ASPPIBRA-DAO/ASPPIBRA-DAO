@@ -19,7 +19,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Tokenômica](https://github.com/ASPPIBRA-DAO/TOKEN)
 - [Tecnologia e Arquitetura](https://www.asppibra.com.br/)
 - [Governança e Consenso](https://www.asppibra.com.br/)
-- [Roteiro e marcos](https://www.asppibra.com.br/)
+- [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md)
 - [Equipe e Parcerias](https://www.asppibra.com.br/)
 - [Venda e Alocação de Tokens](https://github.com/ASPPIBRA-DAO/TOKEN)
 - [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
