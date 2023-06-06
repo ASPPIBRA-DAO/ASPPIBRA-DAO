@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+```
 <html>
 <head>
     <title>Github README Button</title>
@@ -71,3 +72,4 @@
     </script>
 </body>
 </html>
+```
