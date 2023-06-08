@@ -2,6 +2,10 @@ Apresentando o Mundo Digital: Junte-se ao Movimento pelo Agronegócio Sustentáv
 
 Faça parte de algo extraordinário - junte-se a nós no empolgante projeto de integração digital que está acontecendo no Brasil! Estamos criando um aplicativo revolucionário que transformará a maneira como apoiamos o agronegócio sustentável, o reflorestamento, o registro imobiliário, a energia verde e o financiamento descentralizado. Ao se associar ao Mundo Digital, você contribui para um futuro sustentável e empodera o agronegócio e os produtores rurais.
 
+# Problemas: 
+
+# Soluções:
+
 Nosso projeto engloba múltiplos aspectos cruciais, combinando a força do agronegócio com tecnologias inovadoras:
 
 Agronegócio Sustentável: Temos como objetivo fortalecer todos os aspectos do agronegócio, fornecendo recursos financeiros descentralizados de parceiros comerciais e usuários de aplicativos. Ao alavancar nossa plataforma, garantimos a transparência nos títulos imobiliários, abrindo portas para a confiança global. Esse fideicomisso possibilita a auditoria de informações e dá acesso a recursos financeiros essenciais para os produtores rurais.
