@@ -22,11 +22,11 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 ### Reflorestamento: 
 
-- Dedicamo-nos a restaurar áreas degradadas e promover práticas sustentáveis ​​de manejo da terra. Ao integrar esforços de reflorestamento sustentável em nosso projeto, criamos um ambiente mais saudável e contribuímos para o uso responsável dos recursos naturais.
+- Dedicamo-nos a restaurar áreas degradadas que não podem sustentar a produção agrícola. Através de esforços sustentáveis ​​de reflorestamento visando a geração de créditos de carbono certificados, vamos trazer essas áreas de volta à vida e criar um ambiente mais saudável. Ao usar nosso aplicativo, os proprietários de terras tem incentivos a participar de atividades de reflorestamento e contribuirem para um mundo mais verde.
 
 ### Cadastro Imobiliário Digital: 
 
-- Cadastro Digital de Imóveis: Estamos revolucionando o registro de imóveis por meio da digitalização usando a tecnologia Blockchain. Ao garantir títulos imobiliários como Non-Fungible Tokens (NFTs), garantimos transparência, imutabilidade e acessibilidade para as partes interessadas do agronegócio em todo o mundo.
+- Temos a missão de digitalizar o registro de imóveis urbanos e rurais usando o poder da tecnologia Blockchain. Aproveitando o Blockchain, podemos transformar títulos imobiliários em tokens não fungíveis (NFTs) que armazenam com segurança todas as informações dos proprietarios e detalhes das propriedades. Essa abordagem inovadora garante transparência, eficiência e imutabilidade nas transações imobiliárias.
 
 ### Geração de energia: 
 
@@ -34,7 +34,7 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 ### Finanças descentralizadas (DeFi): 
 
-- Finanças descentralizadas: ao integrar os princípios de finanças descentralizadas em nossa plataforma, possibilitamos inclusão financeira e acessibilidade para as partes interessadas do agronegócio. Por meio de nosso aplicativo, parceiros comerciais e usuários podem participar do ecossistema financeiro descentralizado, fomentando o crescimento econômico das comunidades do agronegócio.
+- Ao integrar os princípios de finanças descentralizadas em nossa plataforma, possibilitamos inclusão financeira e acessibilidade para as partes interessadas. Por meio de nosso aplicativo, parceiros comerciais e usuários podem participar do ecossistema financeiro descentralizado, fomentando o crescimento econômico das comunidades que utilizarem nosso App.
 
 Juntos, esses aspectos formam a abordagem abrangente do Mundo Digital, onde agronegócio sustentável, reflorestamento, transparência imobiliária, energia verde, finanças descentralizadas e exploração mineral sustentável convergem para um futuro mais brilhante e sustentável.
 
