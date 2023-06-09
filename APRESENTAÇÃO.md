@@ -14,23 +14,27 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 ## Agronegócio: 
 
-Visamos fortalecer o setor de exploração mineral por meio do fornecimento de informações validadas sobre os solos de propriedades privadas vinculadas ao Projeto Mundo Digital. Ao alavancar nossa plataforma, garantimos o acesso a dados precisos e confiáveis ​​que suportam práticas sustentáveis ​​de exploração mineral.
+- Temos como objetivo fortalecer todos os aspectos do agronegócio, fornecendo recursos financeiros descentralizados de parceiros comerciais e usuários de aplicativos. Ao alavancar nossa plataforma, garantimos a transparência nos títulos imobiliários, abrindo portas para a confiança global. Esse fideicomisso possibilita a auditoria de informações e dá acesso a recursos financeiros essenciais para os produtores rurais.
+
+# Exploração mineral sustentável:
+
+- Visamos fortalecer o setor de exploração mineral por meio do fornecimento de informações validadas sobre os solos de propriedades privadas vinculadas ao Projeto Mundo Digital. Ao alavancar nossa plataforma, garantimos o acesso a dados precisos e confiáveis ​​que suportam práticas sustentáveis ​​de exploração mineral.
 
 ## Reflorestamento: 
 
-Dedicamo-nos a restaurar áreas degradadas e promover práticas sustentáveis ​​de manejo da terra. Ao integrar esforços de reflorestamento sustentável em nosso projeto, criamos um ambiente mais saudável e contribuímos para o uso responsável dos recursos naturais.
+- Dedicamo-nos a restaurar áreas degradadas e promover práticas sustentáveis ​​de manejo da terra. Ao integrar esforços de reflorestamento sustentável em nosso projeto, criamos um ambiente mais saudável e contribuímos para o uso responsável dos recursos naturais.
 
 ## Cadastro Digital Imobiliário: 
 
-Por meio da digitalização com tecnologia Blockchain, revolucionamos o registro imobiliário, garantindo transparência, segurança e rastreabilidade da propriedade imobiliária. Isso fornece uma base sólida para atividades de exploração mineral sustentável, permitindo serviços de licenciamento e suporte para propriedades privadas.
+- Cadastro Digital de Imóveis: Estamos revolucionando o registro de imóveis por meio da digitalização usando a tecnologia Blockchain. Ao garantir títulos imobiliários como Non-Fungible Tokens (NFTs), garantimos transparência, imutabilidade e acessibilidade para as partes interessadas do agronegócio em todo o mundo.
 
 ## Geração de energia: 
 
-em parceria com a Turbulent, estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis ​​de exploração mineral e reduzimos o impacto ambiental das atividades de mineração.
+- em parceria com a Turbulent, estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis ​​de exploração mineral e reduzimos o impacto ambiental das atividades de mineração.
 
-## Finanças descentralizadas: 
+## Finanças descentralizadas (DeFi): 
 
-nossa plataforma integra princípios de finanças descentralizadas, fornecendo suporte financeiro e recursos para iniciativas sustentáveis ​​de exploração mineral. Por meio de nosso aplicativo, facilitamos serviços de licenciamento e suporte, garantindo que os recursos naturais sejam explorados de forma responsável e sustentável.
+- Finanças descentralizadas: ao integrar os princípios de finanças descentralizadas em nossa plataforma, possibilitamos inclusão financeira e acessibilidade para as partes interessadas do agronegócio. Por meio de nosso aplicativo, parceiros comerciais e usuários podem participar do ecossistema financeiro descentralizado, fomentando o crescimento econômico das comunidades do agronegócio.
 
 Juntos, esses aspectos formam a abordagem abrangente do Mundo Digital, onde agronegócio sustentável, reflorestamento, transparência imobiliária, energia verde, finanças descentralizadas e exploração mineral sustentável convergem para um futuro mais brilhante e sustentável.
 
