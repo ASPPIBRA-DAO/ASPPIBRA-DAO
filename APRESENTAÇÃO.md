@@ -30,7 +30,7 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 ## Geração de energia: 
 
-- em parceria com a Turbulent, estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis ​​de exploração mineral e reduzimos o impacto ambiental das atividades de mineração.
+- em parceria com a Turbulent, buscamos implementação de projeto hidrelétrico no Rio Paraíba do Sul, fortalecendo a produção de energia para cidades ribeirinhas e utilizando recursos para mineração de Bitcoin estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis e reduzimos o impacto ambiental nas atividades Geração de energia.
 
 ## Finanças descentralizadas (DeFi): 
 
