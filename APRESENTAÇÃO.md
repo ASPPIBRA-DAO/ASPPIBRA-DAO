@@ -40,7 +40,7 @@ Juntos, esses aspectos formam a abordagem abrangente do Mundo Digital, onde agro
 
 # Veja como você pode contribuir: 
 
-Ao aderir ao Projeto Mundo Digital, você pode doar no mínimo 50 reais ou 10 dólares. Sua contribuição não apenas nos ajudará a arrecadar os fundos iniciais necessários para concluir a inscrição, mas também lhe dará uma valiosa recompensa. Como sinal de nossa gratidão, forneceremos tokens de governança do projeto chamados ASPPBR proporcionalmente à sua doação. Esses tokens têm valor real e podem ser trocados por meio de plataformas amigáveis, como o PancakeSwap DEX.
+Ao aderir ao Projeto Mundo Digital, você pode doar no mínimo 50 reais ou 10 dólares. Sua contribuição não apenas nos ajudará a arrecadar os fundos iniciais necessários para concluir o desenvolvimento do App, mas também lhe dará uma valiosa recompensa. Como sinal de nossa gratidão, forneceremos tokens de governança do projeto chamados **ASPPBR** proporcionalmente à sua doação. Esses tokens têm valor real e podem ser trocados por meio de plataformas amigáveis, como o PancakeSwap DEX.
 
 Ao participar do Mundo Digital, você não está apenas investindo no sucesso financeiro; você está apoiando práticas sustentáveis ​​de exploração mineral, promovendo o manejo responsável da terra e contribuindo para um futuro sustentável para todos.
 
