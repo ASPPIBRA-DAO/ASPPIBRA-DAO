@@ -16,7 +16,7 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 - Temos como objetivo fortalecer todos os aspectos do agronegócio, fornecendo recursos financeiros descentralizados de parceiros comerciais e usuários de aplicativos. Ao alavancar nossa plataforma, garantimos a transparência nos títulos imobiliários, abrindo portas para a confiança global. Esse fideicomisso possibilita a auditoria de informações e dá acesso a recursos financeiros essenciais para os produtores rurais.
 
-### Exploração mineral sustentável:
+### Exploração mineral:
 
 - Visamos fortalecer o setor de exploração mineral por meio do fornecimento de informações validadas sobre os solos de propriedades privadas vinculadas ao Projeto Mundo Digital. Ao alavancar nossa plataforma, garantimos o acesso a dados precisos e confiáveis ​​que suportam práticas sustentáveis ​​de exploração mineral.
 
@@ -24,7 +24,7 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 - Dedicamo-nos a restaurar áreas degradadas e promover práticas sustentáveis ​​de manejo da terra. Ao integrar esforços de reflorestamento sustentável em nosso projeto, criamos um ambiente mais saudável e contribuímos para o uso responsável dos recursos naturais.
 
-### Cadastro Digital Imobiliário: 
+### Cadastro Imobiliário Digital: 
 
 - Cadastro Digital de Imóveis: Estamos revolucionando o registro de imóveis por meio da digitalização usando a tecnologia Blockchain. Ao garantir títulos imobiliários como Non-Fungible Tokens (NFTs), garantimos transparência, imutabilidade e acessibilidade para as partes interessadas do agronegócio em todo o mundo.
 
