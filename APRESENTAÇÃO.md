@@ -12,27 +12,27 @@ Faça parte de algo extraordinário - junte-se a nós no empolgante projeto de i
 
 Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a exploração mineral sustentável:
 
-## Agronegócio: 
+### Agronegócio: 
 
 - Temos como objetivo fortalecer todos os aspectos do agronegócio, fornecendo recursos financeiros descentralizados de parceiros comerciais e usuários de aplicativos. Ao alavancar nossa plataforma, garantimos a transparência nos títulos imobiliários, abrindo portas para a confiança global. Esse fideicomisso possibilita a auditoria de informações e dá acesso a recursos financeiros essenciais para os produtores rurais.
 
-# Exploração mineral sustentável:
+### Exploração mineral sustentável:
 
 - Visamos fortalecer o setor de exploração mineral por meio do fornecimento de informações validadas sobre os solos de propriedades privadas vinculadas ao Projeto Mundo Digital. Ao alavancar nossa plataforma, garantimos o acesso a dados precisos e confiáveis ​​que suportam práticas sustentáveis ​​de exploração mineral.
 
-## Reflorestamento: 
+### Reflorestamento: 
 
 - Dedicamo-nos a restaurar áreas degradadas e promover práticas sustentáveis ​​de manejo da terra. Ao integrar esforços de reflorestamento sustentável em nosso projeto, criamos um ambiente mais saudável e contribuímos para o uso responsável dos recursos naturais.
 
-## Cadastro Digital Imobiliário: 
+### Cadastro Digital Imobiliário: 
 
 - Cadastro Digital de Imóveis: Estamos revolucionando o registro de imóveis por meio da digitalização usando a tecnologia Blockchain. Ao garantir títulos imobiliários como Non-Fungible Tokens (NFTs), garantimos transparência, imutabilidade e acessibilidade para as partes interessadas do agronegócio em todo o mundo.
 
-## Geração de energia: 
+### Geração de energia: 
 
 - em parceria com a Turbulent, buscamos implementação de projeto hidrelétrico no Rio Paraíba do Sul, fortalecendo a produção de energia para cidades ribeirinhas e utilizando recursos para mineração de Bitcoin estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis e reduzimos o impacto ambiental nas atividades Geração de energia.
 
-## Finanças descentralizadas (DeFi): 
+### Finanças descentralizadas (DeFi): 
 
 - Finanças descentralizadas: ao integrar os princípios de finanças descentralizadas em nossa plataforma, possibilitamos inclusão financeira e acessibilidade para as partes interessadas do agronegócio. Por meio de nosso aplicativo, parceiros comerciais e usuários podem participar do ecossistema financeiro descentralizado, fomentando o crescimento econômico das comunidades do agronegócio.
 
