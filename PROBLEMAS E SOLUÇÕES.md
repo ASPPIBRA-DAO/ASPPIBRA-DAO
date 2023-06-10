@@ -1,7 +1,6 @@
-# Problemas: 
+# [PROBLEMAS](https://www.asppibra.com.br/)
 
-
-- Cadastro Imobiliário:
+### Cadastro Imobiliário:
 
 Falta de transparência: 
 
@@ -51,10 +50,10 @@ Falta de fiscalização e fiscalização:
 - Geração de energia:
 - Serviços Finaçeiros:
 
+# [SOLUÇÕES](https://www.asppibra.com.br/)
 
-# Soluções:
 
-- Cadastro Imobiliário:
+### Cadastro Imobiliário:
 
 O projeto Mundo Digital pode oferecer diversas soluções para resolver a questão dos títulos de propriedade no Brasil usando a tecnologia blockchain e Tokens Não Fungíveis (NFTs) para títulos de propriedade digital. Aqui está uma lista de possíveis soluções:
 
