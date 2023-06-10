@@ -1,16 +1,25 @@
 # Problemas: 
 
 
-
+- Cadastro Imobiliário:
+- Reflorestamento:
+- Agronegócio:
+- Exploração mineral:
+- Geração de energia:
+- Serviços Finaçeiros:
 
 
 # Soluções:
 
-
+- Cadastro Imobiliário:
+- Reflorestamento:
+- Agronegócio:
+- Exploração mineral:
+- Geração de energia:
+- Serviços Finaçeiros:
 
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
-
 
 
 <div style="display: inline_block"><br>
