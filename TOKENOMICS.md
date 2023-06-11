@@ -15,7 +15,7 @@
 - Permissão para criar novos tokens: Não
 - Quantidade (Supply): 21.000.000
 - Quantidade Total (Max Supply): 21.000.000
-- Explorador (Explorer): Binance Smart Chain (https://bscscan.com/)
+- Explorador (Explorer): Binance Smart Chain (https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F#code#L1)
 - Contrato: 0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C
 
 >### Divisão de Recompensas:
