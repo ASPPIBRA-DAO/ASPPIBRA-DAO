@@ -1,0 +1,40 @@
+{
+  "Hash_image": "QmX8MdbNj8DBe2ekYZdE3KSXJBaW1tnDsM9gbBs64jTUhm",
+  "name": "Tree #14",
+  "description": "Mining a Green World. and an initiative to exploit the CO² Credit Market and sustainable energy generation. our NFT collection and to finance the implementation of the Project. All Wallets that have one or more NFTs from this collection will receive Airdrop from the Project's native token, and many other benefits.///Minerando um Mundo Verde. e uma iniciativa para explorar o Mercado de Crédito CO² e geração sustentável de energia. nossa coleção NFT e para financiar a implementação do Projeto. Todas as Wallets que tiverem um ou mais NFTs desta coleção receberão Airdrop do token nativo do Projeto, e muitos outros benefícios.",
+  "Collection":"#Tree of Life",
+  "image": "https://ipfs.io/ipfs/QmX8MdbNj8DBe2ekYZdE3KSXJBaW1tnDsM9gbBs64jTUhm?filename=14.png",
+  "attributes": [
+    {
+      "trait_type": "Stars",
+      "value": "#05"
+    },
+    {
+      "trait_type": "Replicas",
+      "value": "#0"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#Electric Nebula"
+    },
+    {
+      "trait_type": "Tree",
+      "value": "#silver tree"
+    },
+    {
+      "trait_type": "Earth",
+      "value": "#Earth Ruby"
+    },
+    {
+      "trait_type": "Solar system",
+      "value": "#Júpiter"
+    },
+    {
+      "trait_type": "Clouds",
+      "value": "#Rainbow in starry clouds"
+    }
+  ],
+  "category": "Collectibles",
+  "wallet_creator": "0x208bA54E9e35eBBAC73FCa9071C155724a56e014",
+  "royalty_creator": "10%"
+}

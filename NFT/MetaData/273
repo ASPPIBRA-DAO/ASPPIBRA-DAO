@@ -1,0 +1,30 @@
+{
+  "dna": "d344ce8c4ad02032d64aff30b2694356",
+  "name": "Mining a Green World #273",
+  "description": "Mining a Green World. and an initiative to exploit the CO² Credit Market and sustainable energy generation. our NFT collection and to finance the implementation of the Project. All Wallets that have one or more NFTs from this collection will receive Airdrop from the Project's native token, and many other benefits.///Minerando um Mundo Verde. e uma iniciativa para explorar o Mercado de Crédito CO² e geração sustentável de energia. nossa coleção NFT e para financiar a implementação do Projeto. Todas as Wallets que tiverem um ou mais NFTs desta coleção receberão Airdrop do token nativo do Projeto, e muitos outros benefícios.",
+  "image": "REPLACE-THIS-WITH-YOUR-URL/273.png",
+  "date": 1652288747643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "#Blue stars in space"
+    },
+    {
+      "trait_type": "Tree",
+      "value": "#silver tree"
+    },
+    {
+      "trait_type": "Earth",
+      "value": "#Earth Ruby"
+    },
+    {
+      "trait_type": "Solar system",
+      "value": "#Sun"
+    },
+    {
+      "trait_type": "Clouds",
+      "value": "#Sun and Moon in clouds braca and starry ash"
+    }
+  ],
+  "compiler": "mintables.club"
+}
