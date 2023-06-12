@@ -224,7 +224,7 @@ O exercício financeiro da Associação coincidirá com o ano civil.
 Os associados se responsabilizarão com pagamento anualmente estipulado no Regimento Interno da Associação.
 
 **Art.34** 
-Os casos omissos serão resolvidos pela Diretoria e referendados pela Assembleia Geral, ficando estabelecido que a ação será apreciada ou realizada através da Arbitragem Lei n° 9.307 de 1996 e este Estatuto e Regimento Interno valerá como título executivo, para sanar possíveis dúvidas.
+Os casos omissos serão resolvidos pela Diretoria e referendados pela Assembleia Geral, ficando estabelecido que a ação será apreciada ou realizada através da Arbitragem **Lei n° 9.307** de 1996 e este Estatuto e Regimento Interno valerá como título executivo, para sanar possíveis dúvidas.
 
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
