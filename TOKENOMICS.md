@@ -10,8 +10,7 @@
 - Símbolo: “ASPPBR”
 - Casa Decimais: 18
 - Quantidade em Circulação:
-- Pool de Liquidez V2 (Biswap) ASPPBR-BUSD: 110 tokens
-- Pool de Liquidez V2 (pancakeswap) ASPPBR-BUSD: 804 tokens
+- Pool de Liquidez V2 (pancakeswap) ASPPBR-BTCB: 927 tokens
 - Permissão para criar novos tokens: Não
 - Quantidade (Supply): 21.000.000
 - Quantidade Total (Max Supply): 21.000.000
