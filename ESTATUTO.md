@@ -24,7 +24,7 @@ A ASPPIBRA – ASSOCIAÇÃO DOS PROPRIETÁRIOS E POSSUIDORES DE IMÓVEIS NO BRAS
 
 **Cláusula primeira:** 
 
-A principal finalidade desta Associação é facilitar o acesso ao direito fundamental da propriedade privada, apresentando soluções aos casos de regularização fundiária e a titularização de imóveis urbanos e rurais no Brasil, utilizando a Mediação e conciliação através da Arbitragem, **Lei 9.307/96** aos conflitos fundiários, promover a inclusão digital, a Preservação do Meio Ambiente, e o acesso às informações no que diz respeito sobre suas propriedades.
+A principal finalidade desta Associação é facilitar o acesso ao direito fundamental da propriedade privada, apresentando soluções aos casos de regularização fundiária e a titularização de imóveis urbanos e rurais no Brasil, utilizando a Mediação e conciliação através da Arbitragem Lei 9.307/96 aos conflitos fundiários, promover a inclusão digital, a Preservação do Meio Ambiente, e o acesso às informações no que diz respeito sobre suas propriedades.
 
 O objeto social da ASPPIBRA, é garantir e ampliar o direito dos seus associados ao acesso ao solo urbano e rural, bem como o direito à exploração sustentável de seus recursos hídricos e minerais, E tem por finalidade institucional, a representação e defesa dos interesses dos seus associados nas esferas públicas e privadas, inclusive nas autarquias, no que diz respeito ao direito possessório.
 
