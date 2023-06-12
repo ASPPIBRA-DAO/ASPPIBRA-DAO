@@ -8,7 +8,7 @@ Na observância dos direitos e deveres dos associados, a ASPPIBRA disponibiliza 
 Para o cumprimento do conjunto de diretrizes e princípios previstos no estatuto social da ASPPIBRA, no Art. 7°, ficam estabelecidos as seguintes regras de organização e funcionamento, aplicáveis ao conjunto de associados e integrantes.
 
 **Art. 2º** 
-São instâncias consultivas e deliberativas da ASPPIBRA.**
+São instâncias consultivas e deliberativas da ASPPIBRA.
 
 - I - A assembleia-geral;
 - II - A diretoria executiva;
