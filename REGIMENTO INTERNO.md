@@ -45,8 +45,8 @@ O conselho fiscal reunirá ordinária ou extraordinariamente, conforme determina
 **Art. 8º** 
 Para o exercício de suas funções o Conselho Fiscal poderá:
 
-- I- Requerer a qualquer tempo à apresentação dos relatórios, balancetes, extratos e contratos bancários e demais documentos financeiros necessários à elaboração de seu relatório de análise das contas;
-- II- Requerer a participação do Presidente, e do Tesoureiro ou de qualquer outro integrante da Diretoria Executiva para obter esclarecimentos acerca de omissões, obscuridades ou contradições dos documentos financeiros da Associação.
+- I - Requerer a qualquer tempo à apresentação dos relatórios, balancetes, extratos e contratos bancários e demais documentos financeiros necessários à elaboração de seu relatório de análise das contas;
+- II - Requerer a participação do Presidente, e do Tesoureiro ou de qualquer outro integrante da Diretoria Executiva para obter esclarecimentos acerca de omissões, obscuridades ou contradições dos documentos financeiros da Associação.
 Dos Associados 
 
 **Art. 9º** 
@@ -78,9 +78,9 @@ Parágrafo Primeiro: Advertência; aplicável as infrações consideradas leves,
 - I - Reincidência em advertência.
 - § 3° Exclusão da condição de associado; Aplicável às infrações consideradas graves, assim consideradas sem prejuízo de outros que se possa verificar:
 
-- I- Reincidência em suspensão;
-- II- Tentativa ou participação individual, ou em conluio, destinado a lesar os interesses da associação, ou dos demais associados;
-- III- Descumprimentos das cláusulas estatutárias ou legais.
+- I - Reincidência em suspensão;
+- II - Tentativa ou participação individual, ou em conluio, destinado a lesar os interesses da associação, ou dos demais associados;
+- III - Descumprimentos das cláusulas estatutárias ou legais.
 
 **Art. 14** 
 Após a abertura de procedimento disciplinar, deverá ocorrer comunicação escrita ao associado envolvido, onde deverá constar a infração que lhe é atribuída, o prazo – nunca inferior a 03 três dias e o local onde deverá apresentar a sua defesa.
@@ -113,10 +113,7 @@ O prazo para apresentação de recurso será até 24 horas após o encerramento 
 **Art. 21** 
 Os casos omissos, controversos e as dúvidas surgidas na aplicação deste Regimento Interno, serão solucionados por deliberação da diretoria executiva, em qualquer de suas reuniões, por maioria dos membros presentes, “para referendo da primeira Assembléia subsequente”.
 
-
-
 ## <h2 align="center">🎁 Donate Crypto:</h2>
-
 
 
 <div style="display: inline_block"><br>
