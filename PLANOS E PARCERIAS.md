@@ -52,7 +52,7 @@
 - Valor total dos royalties: R$ 119.880,00
 - Bônus: 50% das taxas cobradas por serviços e consultas através do aplicativo.
 
-**Observe:**
+**Observação:**
 
 - Cada opção permite pagamento mensal ou anual.
 - Os usuários não são obrigados a aderir ou permanecer associados contra sua vontade.
