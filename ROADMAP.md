@@ -104,24 +104,7 @@ Nosso roteiro é uma lista de tarefas, em ordem específica, com cronograma espe
 - 1° Centro de treinamento e Inclusão Digital (ASPPBR).
 - Lançamento da (Stablecoin) nativa do Projeto (MGW).
 
-
 <br />
-
-
-
-<br />
-
-
-> Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
-
-<br />
-
-<br />
-
-<br />
-
----
-
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
 
