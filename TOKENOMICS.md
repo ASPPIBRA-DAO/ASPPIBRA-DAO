@@ -19,7 +19,7 @@
 - Explorador (Explorer): Binance Smart Chain (https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F#code#L1)
 - Contrato: 0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C
 
->### Divisão de Recompensas:
+### Divisão de Recompensas:
 
 - A receita do projeto não é fixa, mas sustentável.
 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas.
@@ -29,14 +29,14 @@ Os royalties serão repartidos entre associados e profissionais que estejam em d
 - 30% serão mantidos como um fundo perpétuo.
 - Os 20% restantes serão destinados à equipe de desenvolvimento e ao setor de Recursos Humanos.
 
->### Pools de liquidez 
+### Pools de liquidez 
 
 - O objetivo é proporcionar um ambiente estável e seguro para usuarios, associados e profissionais se conectarem com pessoas que buscam parcerias, serviços e produtos. Para isso, o projeto desenvolve serviços descentralizados que oferecem segurança, transparência e precisão. O pool de liquidez descentralizado estará acessível a todos os participantes do processo e será respaldado por 6.300.000 tokens alocados permanentemente para garantir liquidez infinita. Esta alocação inclui
 - 20% dos tokens pertencentes ao fundo perpétuo e 
 - 10% dos tokens destinados ao setor de RH. 
 Esses tokens serão bloqueados em um pool de liquidez para garantir taxas de rendimento para o fundo Mundo Verde
 
-># Distribuição dos Tokens:
+# Distribuição dos Tokens:
 
 Do total de 21.000.000 de tokens serão distribuido 60%, totalizando 12.600.000 tokens. 
 As distribuição de tokens serão realizadas em quatro fases: 
@@ -47,7 +47,7 @@ As distribuição de tokens serão realizadas em quatro fases:
 - 4ª Distribuição no 4º trimestre de 2024 com 4.200.000 tokens. 
 As datas específicas para cada fase de distribuição serão anunciadas posteriormente.
 
-># Alocação de Fundos:
+# Alocação de Fundos:
 
 - A distribuição primária irá gerar 100% dos recursos para o fundo **Mundo Verde**. O objetivo deste fundo é financiar as despesas de execução do projeto. Ele será reabastecido por meio de mensalidades dos membros, vendas de créditos de carbono, vendas de NFTs, taxas cobradas por meio do aplicativo e parcerias com o setor privado. A cada 5 anos, será feita uma grande distribuição de royalties, no valor de 70% do fundo Mundo Verde. Essa abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos na realização das atividades votadas pela comunidade. Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.
 
