@@ -1,4 +1,4 @@
-># Termos e Condições Gerais **TCGs**
+># [Termos e Condições Gerais TCGs](https://www.asppibra.com.br/)
 
 ### Preâmbulo 
 
