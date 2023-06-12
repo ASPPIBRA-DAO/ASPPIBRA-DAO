@@ -13,7 +13,9 @@ São instâncias consultivas e deliberativas da ASPPIBRA.
 - I - A assembleia-geral;
 - II - A diretoria executiva;
 - III - O conselho fiscal;
-- Parágrafo Único: As instâncias deliberativas são a Assembleia Geral e a Diretoria Executiva;
+
+**Parágrafo Primeiro:** 
+As instâncias deliberativas são a Assembleia Geral e a Diretoria Executiva;
 
 **Parágrafo segundo:** 
 As instâncias de caráter consultivo é o Conselho Fiscal.
@@ -26,7 +28,9 @@ Os trabalhos nas Assembleias obedecerão a seguinte ordem:
 
 - A discussão e aprovação da pauta do dia;
 - As decisões serão tomadas para quaisquer fins através de votação de forma física ou digital pela maioria dos associados presentes nas assembleias;
-- Parágrafo Único: Poderão ocorrer votações simbólicas, nominais ou por aclamação, abertas ou secretas, a critério dos presentes.
+
+**Parágrafo Único:** 
+Poderão ocorrer votações simbólicas, nominais ou por aclamação, abertas ou secretas, a critério dos presentes.
 
 **Art. 5º** 
 Para o exercício de suas competências estatutárias, a Assembleia Geral poderá:
