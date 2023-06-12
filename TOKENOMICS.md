@@ -39,6 +39,7 @@ Esses tokens serão bloqueados em um pool de liquidez para garantir taxas de ren
 
 Do total de 21.000.000 de tokens serão distribuido 60%, totalizando 12.600.000 tokens. 
 As distribuição de tokens serão realizadas em quatro fases: 
+
 - 1º Pré-Seeds em T2 2023 com 2.100.000 tokens, 
 - 2º Seeds no 4º trimestre de 2023 com 2.100.000 tokens, 
 - 3º Crowdfunding em T2 2024 com 4.200.000 tokens e 
