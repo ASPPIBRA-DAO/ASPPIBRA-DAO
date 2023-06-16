@@ -1,1 +1,0 @@
-# [GOVERNANÇA E CONSENSO](https://www.asppibra.com.br/)

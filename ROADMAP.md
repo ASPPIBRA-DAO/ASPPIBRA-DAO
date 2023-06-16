@@ -7,14 +7,45 @@ Nosso roteiro é uma lista de tarefas, em ordem específica, com cronograma espe
 <br />
 
 > Desenvolvimento Geral:
+## 2016
+Montamos a composição da diretoria.
+Fundação da associação.
 
 ## 2017
+1° trimestre: Elaboração dos serviços a ser oferecidos e prestados.
+
+2° trimestre: Planos e parcerias de associados.
+
+3° trimestre: Lançamento da divulgação de nossos serviços, escritório fixo.
+
+4° trimestre: Planos em execução, prestação de serviços em andamento, interação com novos associados, mudança da diretoria.
 
 ## 2018
+1° trimestre: Serviços em andamento, meta alcançada novos associados.
+
+2° trimestre: Êxito nos serviços em execução.
+
+3° trimestre: Aprimoramento dos nossos serviços, inclusão de um sistema de interação digital visando facilitar comunicação com os associados.
+
+4° trimestre: Expandimos os conhecimentos em tecnologia e moeda digital.
 
 ## 2019
+1° trimestre: Mudamos a associação para um endereço próprio, serviços em andamento.
+
+2° trimestre: Começamos a aprimorar nossa visão e pensamentos para o mundo digital , buscando melhoria e evolução.
+
+3° trimestre: Serviços em andamento, estávamos no final do trâmite de conclusão do nosso primeiro registro de escritura.
+
+4° trimestre: Interação com Bitcoin, se aprimorando nos conhecimentos do mundo digital, serviços de regularização fundiária em andamento.
 
 ## 2020
+1° trimestre: Interação com o Bitcoin.
+
+2° trimestre: Processo de regularização fundiária em andamento.
+
+3° trimestre: Encaminhamento dos associados para dar início aos trâmites de regularização fundiária.
+
+4° trimestre: Migração do sistema da associação para inclusão ao mundo digital.
 
 ## 2021
 
