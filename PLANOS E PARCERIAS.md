@@ -4,7 +4,7 @@
 
 ## Introdução:
 
-Um conceito é uma ideia abstrata ou geral que representa uma categoria de objetos, eventos ou fenômenos. É uma representação mental que nos ajuda a entender, categorizar e comunicar sobre o mundo ao nosso redor. Os conceitos nos permitem organizar e dar sentido às informações, identificando semelhanças, padrões e relacionamentos. Aqui está uma breve descrição do conceito de governança e consenso.
+Um conceito é uma ideia abstrata ou geral que representa uma categoria de objetos, eventos ou fenômenos. É uma representação mental que nos ajuda a entender, categorizar e comunicar sobre o mundo ao nosso redor. Os conceitos nos permitem organizar e dar sentido às informações, identificando semelhanças, padrões e relacionamentos. Aqui está uma breve descrição do conceito de Payback Brekyeve.
 
 
 ## Temos 5 opções de Parcerias exclusivas disponíveis para nossos usuários e associados:
