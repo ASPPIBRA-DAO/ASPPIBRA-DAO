@@ -2,6 +2,12 @@
 
 ![Governança Mundo Digital](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/544905f6-0742-45cf-abda-04ff975a9391)
 
+
+
+**Governança:** Governança refere-se ao sistema e processos através dos quais as decisões são tomadas, a autoridade é exercida e as ações são tomadas dentro de uma organização ou comunidade. Abrange os mecanismos, estruturas e relacionamentos que determinam como o poder é distribuído, como as decisões são tomadas e como a responsabilidade é assegurada.
+
+**Consenso:** O consenso é um processo de tomada de decisão que visa alcançar um acordo ou aceitação generalizada entre um grupo de indivíduos. Envolve buscar ativamente informações e opiniões de todas as partes relevantes e trabalhar em direção a uma solução que seja aceitável para todos, ou pelo menos para a maioria.
+
 ## Introdução:
 
 O Digital World Project descreve a estrutura de tecnologia de governança inovadora e os processos de tomada de decisão que moldarão o futuro do nosso ecossistema. Aproveitando o poder dos princípios da organização autônoma descentralizada (DAO) e da tecnologia blockchain, pretendemos promover inclusão, transparência e participação global na governança e trajetória da ASPPIBRA.
