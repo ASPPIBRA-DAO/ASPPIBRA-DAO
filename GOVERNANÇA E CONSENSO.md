@@ -2,7 +2,7 @@
 
 ![Governança Mundo Digital](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/544905f6-0742-45cf-abda-04ff975a9391)
 
-
+Um conceito é uma ideia abstrata ou geral que representa uma categoria de objetos, eventos ou fenômenos. É uma representação mental que nos ajuda a entender, categorizar e comunicar sobre o mundo ao nosso redor. Os conceitos nos permitem organizar e dar sentido às informações, identificando semelhanças, padrões e relacionamentos. aqui está uma breve descrição do conceito de governança e consenso.
 
 **Governança:** Governança refere-se ao sistema e processos através dos quais as decisões são tomadas, a autoridade é exercida e as ações são tomadas dentro de uma organização ou comunidade. Abrange os mecanismos, estruturas e relacionamentos que determinam como o poder é distribuído, como as decisões são tomadas e como a responsabilidade é assegurada.
 
