@@ -4,7 +4,7 @@
 
 ## Introdução:
 
-Um conceito é uma ideia abstrata ou geral que representa uma categoria de objetos, eventos ou fenômenos. É uma representação mental que nos ajuda a entender, categorizar e comunicar sobre o mundo ao nosso redor. Os conceitos nos permitem organizar e dar sentido às informações, identificando semelhanças, padrões e relacionamentos. Aqui está uma breve descrição do conceito de governança e consenso.
+Um conceito serve como uma noção abstrata ou ampla que representa um grupo de objetos, eventos ou fenômenos. Atua como uma estrutura cognitiva que auxilia nossa compreensão, classificação e comunicação sobre o mundo em que habitamos. Ao identificar semelhanças, padrões e conexões, os conceitos nos permitem organizar e compreender informações. Vamos nos aprofundar em uma explicação concisa do conceito de governança e consenso.
 
 **Governança:** Governança refere-se ao sistema e processos através dos quais as decisões são tomadas, a autoridade é exercida e as ações são tomadas dentro de uma organização ou comunidade. Abrange os mecanismos, estruturas e relacionamentos que determinam como o poder é distribuído, como as decisões são tomadas e como a responsabilidade é assegurada.
 
