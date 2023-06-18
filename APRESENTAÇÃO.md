@@ -16,27 +16,27 @@ Nosso projeto abrange uma ampla gama de aspectos essenciais, incluindo a explora
 
 ### Agronegócio: 
 
-- Temos como objetivo fortalecer todos os aspectos do agronegócio, fornecendo recursos financeiros descentralizados de parceiros comerciais e usuários de aplicativos. Ao alavancar nossa plataforma, garantimos a transparência nos títulos imobiliários, abrindo portas para a confiança global. Esse fideicomisso possibilita a auditoria de informações e dá acesso a recursos financeiros essenciais para os produtores rurais.
+Temos como objetivo fortalecer todos os aspectos do agronegócio, fornecendo recursos financeiros descentralizados de parceiros comerciais e usuários de aplicativos. Ao alavancar nossa plataforma, garantimos a transparência nos títulos imobiliários, abrindo portas para a confiança global. Esse fideicomisso possibilita a auditoria de informações e dá acesso a recursos financeiros essenciais para os produtores rurais.
 
 ### Exploração mineral:
 
-- Visamos fortalecer o setor de exploração mineral por meio do fornecimento de informações validadas sobre os solos de propriedades privadas vinculadas ao Projeto Mundo Digital. Ao alavancar nossa plataforma, garantimos o acesso a dados precisos e confiáveis ​​que suportam práticas sustentáveis ​​de exploração mineral.
+Visamos fortalecer o setor de exploração mineral por meio do fornecimento de informações validadas sobre os solos de propriedades privadas vinculadas ao Projeto Mundo Digital. Ao alavancar nossa plataforma, garantimos o acesso a dados precisos e confiáveis ​​que suportam práticas sustentáveis ​​de exploração mineral.
 
 ### Reflorestamento: 
 
-- Dedicamo-nos a restaurar áreas degradadas que não podem sustentar a produção agrícola. Através de esforços sustentáveis ​​de reflorestamento visando a geração de créditos de carbono certificados, vamos trazer essas áreas de volta à vida e criar um ambiente mais saudável. Ao usar nosso aplicativo, os proprietários de terras tem incentivos a participar de atividades de reflorestamento e contribuirem para um mundo mais verde.
+Dedicamo-nos a restaurar áreas degradadas que não podem sustentar a produção agrícola. Através de esforços sustentáveis ​​de reflorestamento visando a geração de créditos de carbono certificados, vamos trazer essas áreas de volta à vida e criar um ambiente mais saudável. Ao usar nosso aplicativo, os proprietários de terras tem incentivos a participar de atividades de reflorestamento e contribuirem para um mundo mais verde.
 
 ### Cadastro Imobiliário Digital: 
 
-- Temos a missão de digitalizar o registro de imóveis urbanos e rurais usando o poder da tecnologia Blockchain. Aproveitando o Blockchain, podemos transformar títulos imobiliários em tokens não fungíveis (NFTs) que armazenam com segurança todas as informações dos proprietarios e detalhes das propriedades. Essa abordagem inovadora garante transparência, eficiência e imutabilidade nas transações imobiliárias.
+Temos a missão de digitalizar o registro de imóveis urbanos e rurais usando o poder da tecnologia Blockchain. Aproveitando o Blockchain, podemos transformar títulos imobiliários em tokens não fungíveis (NFTs) que armazenam com segurança todas as informações dos proprietarios e detalhes das propriedades. Essa abordagem inovadora garante transparência, eficiência e imutabilidade nas transações imobiliárias.
 
 ### Geração de energia: 
 
-- em parceria com a Turbulent, buscamos implementação de projeto hidrelétrico no Rio Paraíba do Sul, fortalecendo a produção de energia para cidades ribeirinhas e utilizando recursos para mineração de Bitcoin estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis e reduzimos o impacto ambiental nas atividades Geração de energia.
+Em parceria com a Turbulent, buscamos implementação de projeto hidrelétrico no Rio Paraíba do Sul, fortalecendo a produção de energia para cidades ribeirinhas e utilizando recursos para mineração de Bitcoin estamos comprometidos em implementar projetos de energia verde que impulsionam a sustentabilidade. Ao aproveitar fontes de energia limpas e renováveis, apoiamos práticas sustentáveis e reduzimos o impacto ambiental nas atividades Geração de energia.
 
 ### Finanças descentralizadas (DeFi): 
 
-- Ao integrar os princípios de finanças descentralizadas em nossa plataforma, possibilitamos inclusão financeira e acessibilidade para as partes interessadas. Por meio de nosso aplicativo, parceiros comerciais e usuários podem participar do ecossistema financeiro descentralizado, fomentando o crescimento econômico das comunidades que utilizarem nosso App.
+Ao integrar os princípios de finanças descentralizadas em nossa plataforma, possibilitamos inclusão financeira e acessibilidade para as partes interessadas. Por meio de nosso aplicativo, parceiros comerciais e usuários podem participar do ecossistema financeiro descentralizado, fomentando o crescimento econômico das comunidades que utilizarem nosso App.
 
 Juntos, esses aspectos formam a abordagem abrangente do Mundo Digital, onde agronegócio sustentável, reflorestamento, transparência imobiliária, energia verde, finanças descentralizadas e exploração mineral sustentável convergem para um futuro mais brilhante e sustentável.
 
