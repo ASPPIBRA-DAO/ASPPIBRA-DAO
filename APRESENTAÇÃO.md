@@ -1,5 +1,7 @@
 # [APRESENTAÇÃO](https://www.asppibra.com.br/)
 
+![Apresentação](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/ec9a64a2-d514-4960-8aeb-54db047bbb88)
+
 - Seja Bem-vindo ao emocionante **Mundo Digital**, uma iniciativa pioneira preparada para revolucionar e capacitar indivíduos em todo o mundo. Nossa principal missão é promover a inclusão digital em massa da população brasileira e mundial, garantindo o acesso universal à segurança financeira e defendendo a preservação ambiental por meio de práticas sustentáveis.
 
 - Ao aproveitar o imenso potencial de tecnologias inovadoras, como blockchain e web 3, estamos na vanguarda da criação de um caminho para um futuro caracterizado pela exploração sustentável de recursos hídricos e minerais, bem como pelo florescimento da geração de energia limpa. Além disso, o Projeto Mundo Digital adota uma abordagem proativa para enfrentar o desafio da regularização fundiária, reduzindo efetivamente a distância entre áreas urbanas e rurais. Ao oferecer incentivos financeiros atraentes, incentivamos ativamente a adoção de práticas agrícolas sustentáveis e a restauração de áreas degradadas, dando vida nova ao meio ambiente.
