@@ -1,6 +1,6 @@
 # [APRESENTAÇÃO](https://www.asppibra.com.br/)
 
-![Apresentação](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/ec9a64a2-d514-4960-8aeb-54db047bbb88)
+![Apresentação_P](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/8fe797b9-2876-4240-8d05-87634eacb196)
 
 Seja Bem-vindo ao emocionante **Mundo Digital**, uma iniciativa pioneira preparada para revolucionar e capacitar indivíduos em todo o mundo. Nossa principal missão é promover a inclusão digital em massa da população brasileira e mundial, garantindo o acesso universal à segurança financeira e defendendo a preservação ambiental por meio de práticas sustentáveis.
 
