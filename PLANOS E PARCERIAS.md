@@ -1,6 +1,7 @@
 # [Planos e Parcerias](https://www.asppibra.com.br/)
 
 
+![Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/c7540411-23ec-466d-bc25-f5ca047107e4)
 
 ## Introdução: 
 
