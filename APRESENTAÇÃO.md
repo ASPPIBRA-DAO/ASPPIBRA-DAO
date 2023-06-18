@@ -2,6 +2,8 @@
 
 ![Apresentação_P](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/8fe797b9-2876-4240-8d05-87634eacb196)
 
+## Introdução
+
 Seja Bem-vindo ao emocionante **Mundo Digital**, uma iniciativa pioneira preparada para revolucionar e capacitar indivíduos em todo o mundo. Nossa principal missão é promover a inclusão digital em massa da população brasileira e mundial, garantindo o acesso universal à segurança financeira e defendendo a preservação ambiental por meio de práticas sustentáveis.
 
 Ao aproveitar o imenso potencial de tecnologias inovadoras, como blockchain e web 3, estamos na vanguarda da criação de um caminho para um futuro caracterizado pela exploração sustentável de recursos hídricos e minerais, bem como pelo florescimento da geração de energia limpa. Além disso, o Projeto Mundo Digital adota uma abordagem proativa para enfrentar o desafio da regularização fundiária, reduzindo efetivamente a distância entre áreas urbanas e rurais. Ao oferecer incentivos financeiros atraentes, incentivamos ativamente a adoção de práticas agrícolas sustentáveis e a restauração de áreas degradadas, dando vida nova ao meio ambiente.
@@ -40,7 +42,7 @@ Ao integrar os princípios de finanças descentralizadas em nossa plataforma, po
 
 Juntos, esses aspectos formam a abordagem abrangente do Mundo Digital, onde agronegócio sustentável, reflorestamento, transparência imobiliária, energia verde, finanças descentralizadas e exploração mineral sustentável convergem para um futuro mais brilhante e sustentável.
 
-# Veja como você pode contribuir: 
+## Veja como você pode contribuir: 
 
 Ao aderir ao Projeto Mundo Digital, você pode doar no mínimo 50 reais ou 10 dólares. Sua contribuição não apenas nos ajudará a arrecadar os fundos iniciais necessários para concluir o desenvolvimento do App, mas também lhe dará uma valiosa recompensa. Como sinal de nossa gratidão, forneceremos tokens de governança do projeto chamados **ASPPBR** proporcionalmente à sua doação. Esses tokens têm valor real e podem ser trocados por meio de plataformas amigáveis, como o PancakeSwap DEX.
 
