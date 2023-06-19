@@ -1,6 +1,6 @@
 # [GOVERNANÇA E CONSENSO](https://www.asppibra.com.br/)
 
-![Governança Mundo Digital](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/544905f6-0742-45cf-abda-04ff975a9391)
+![Governança Mundo Digital](https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Bitcoin/Governan%C3%A7a%20Mundo%20Digital.svg)
 
 ## Introdução:
 
