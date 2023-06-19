@@ -1,5 +1,5 @@
 
-## co-fundador:
+## Co-fundador:
 
 - Sandro Antunes (Rio de Janeiro)
 - Ana Amorim (Rio de Janeiro)
