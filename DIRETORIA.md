@@ -1,5 +1,24 @@
 
+## co-fundador:
 
+- Sandro Antunes (Rio de Janeiro)
+- Ana Amorim (Rio de Janeiro)
+
+## Embaixador:
+
+- Carlos (Rio de Janeiro)
+- Ygor (Acre)
+- Andre (ceara)
+
+## Colaboradores:
+
+- Rodrigo (Rio de Janeiro)
+- Neuceli (Rio de Janeiro)
+- Cassio (Rio de Janeiro)
+- Fabiana (Rio de Janeiro)
+- Mauricio (Rio de Janeiro)
+- Gustavo (São Paulo)
+- Marcos (Rio de Janeiro)
 
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
