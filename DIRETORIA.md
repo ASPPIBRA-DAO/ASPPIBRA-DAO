@@ -6,19 +6,19 @@
 
 ## Embaixador:
 
-- Carlos (Rio de Janeiro)
-- Ygor (Acre)
-- Andre (ceara)
+- Carlos Roberto (Rio de Janeiro)
+- Ygor Airton (Acre)
+- Andreison de Castro (Ceará)
 
 ## Colaboradores:
 
-- Rodrigo (Rio de Janeiro)
-- Neuceli (Rio de Janeiro)
-- Cassio (Rio de Janeiro)
-- Fabiana (Rio de Janeiro)
-- Mauricio (Rio de Janeiro)
-- Gustavo (São Paulo)
-- Marcos (Rio de Janeiro)
+- Rodrigo Gonçalves (Rio de Janeiro)
+- Neuceli Rodrigues (Rio de Janeiro)
+- Cassio Rodrigues (Rio de Janeiro)
+- Fabiana Fróes (Rio de Janeiro)
+- Mauricio Braga (Rio de Janeiro)
+- Gustavo Novais (São Paulo)
+- Marco Antônio (Rio de Janeiro)
 
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
