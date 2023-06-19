@@ -30,11 +30,17 @@ JavaScript é uma linguagem de programação que adiciona interatividade e compo
 
 Front-end frameworks são bibliotecas pré-construídas ou conjuntos de ferramentas que fornecem estrutura, padrões e componentes reutilizáveis para o desenvolvimento de aplicativos da web. Essas estruturas simplificam os processos de desenvolvimento, melhoram a organização do código e aumentam a produtividade. Algumas estruturas de front-end populares incluem:
 
-React: React é uma biblioteca JavaScript para construir interfaces de usuário. Ele segue uma abordagem baseada em componentes, onde os elementos da interface do usuário são divididos em componentes reutilizáveis ​​que gerenciam seu próprio estado e podem ser compostos para criar estruturas de interface do usuário complexas. O React utiliza um DOM virtual para renderização e atualizações eficientes, resultando em aplicativos da Web de alto desempenho.
+#### React: 
 
-Angular: Angular é um framework front-end completo desenvolvido pelo Google. Ele fornece um conjunto robusto de ferramentas e recursos para criar aplicativos da web complexos. Angular segue uma arquitetura baseada em componentes e incorpora recursos como vinculação de dados, injeção de dependência e desenvolvimento modular. Ele também inclui uma poderosa CLI (Command-Line Interface) para scaffolding e gerenciamento da estrutura do projeto.
+React é uma biblioteca JavaScript para construir interfaces de usuário. Ele segue uma abordagem baseada em componentes, onde os elementos da interface do usuário são divididos em componentes reutilizáveis ​​que gerenciam seu próprio estado e podem ser compostos para criar estruturas de interface do usuário complexas. O React utiliza um DOM virtual para renderização e atualizações eficientes, resultando em aplicativos da Web de alto desempenho.
 
-Vue.js: Vue.js é uma estrutura JavaScript progressiva que enfatiza a simplicidade e a facilidade de uso. Ele oferece uma abordagem flexível e intuitiva para criar componentes de interface do usuário e gerenciar dados. O Vue.js fornece recursos como renderização declarativa, vinculação de dados bidirecional e reutilização de componentes. Pode ser adotado de forma incremental, tornando-o adequado para projetos de pequena escala e aplicações de grande escala.
+#### Angular: 
+
+Angular é um framework front-end completo desenvolvido pelo Google. Ele fornece um conjunto robusto de ferramentas e recursos para criar aplicativos da web complexos. Angular segue uma arquitetura baseada em componentes e incorpora recursos como vinculação de dados, injeção de dependência e desenvolvimento modular. Ele também inclui uma poderosa CLI (Command-Line Interface) para scaffolding e gerenciamento da estrutura do projeto.
+
+#### Vue.js: 
+
+Vue.js é uma estrutura JavaScript progressiva que enfatiza a simplicidade e a facilidade de uso. Ele oferece uma abordagem flexível e intuitiva para criar componentes de interface do usuário e gerenciar dados. O Vue.js fornece recursos como renderização declarativa, vinculação de dados bidirecional e reutilização de componentes. Pode ser adotado de forma incremental, tornando-o adequado para projetos de pequena escala e aplicações de grande escala.
 
 ### Conclusão: 
 
