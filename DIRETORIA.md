@@ -12,13 +12,17 @@
 
 ## Colaboradores:
 
+- Tarcísio Quintilhiano (Rio de Janeiro)
 - Rodrigo Gonçalves (Rio de Janeiro)
 - Neuceli Rodrigues (Rio de Janeiro)
 - Cassio Rodrigues (Rio de Janeiro)
 - Fabiana Fróes (Rio de Janeiro)
 - Mauricio Braga (Rio de Janeiro)
 - Gustavo Novais (São Paulo)
-- Marco Antônio (Rio de Janeiro)
+- Marco Antonio (Rio de Janeiro)
+- Paulo Roberto (Rio de Janeiro)
+- José Batista (Rio de Janeiro)
+- César Marcos (Rio de Janeiro)
 
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
