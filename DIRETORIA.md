@@ -1,8 +1,10 @@
+![Diretoria](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/559090e5-a962-465d-aa02-3a7c547a899e)
 
 ## Co-fundador:
 
 - Sandro Antunes (Rio de Janeiro)
 - Ana Amorim (Rio de Janeiro)
+
 
 ## Embaixador:
 
