@@ -1,5 +1,6 @@
 # [SOLUÇÕES](https://www.asppibra.com.br/)
 
+![Solução](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/383ea135-f511-4b16-bcb3-b5c0c5830398)
 
 ### Cadastro Imobiliário:
 
