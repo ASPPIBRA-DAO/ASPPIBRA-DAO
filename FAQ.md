@@ -1,6 +1,8 @@
 # [FAQ](https://www.asppibra.com.br/)
 
 <div>
+![Perguntas frequentes](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/c89d0afc-2998-49ee-a46d-285376d61d65)
+
 </div>
 
 >### Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?
