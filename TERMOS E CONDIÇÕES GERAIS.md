@@ -1,6 +1,8 @@
 # [Termos e Condições Gerais TCGs](https://www.asppibra.com.br/)
 
-### Preâmbulo 
+![Termos e Condições Gerais](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/5f752284-918a-43d1-8e96-5ddfab12f09c)
+
+### Preâmbulo
 
 - Os Termos e Condições Gerais **TCGs** descritos a seguir regem a relação entre a **Associação dos Proprietário e Possuidores de Imóveis no Brasil**, doravante denominada **ASPPIBRA-DAO** e qualquer pessoa física ou jurídica que atenda aos critérios estabelecidos no **Estatuto e Regimento interno** e aceite as condições aqui contidas, referido-se como associado ou usuário.
 
