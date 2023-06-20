@@ -1,5 +1,6 @@
 # Tecnologia e Arquitetura
 
+![Tecnologia](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/9614eaaf-98b2-454c-b7b7-4afe50902230)
 
 
 ## Infraestrutura Tecnológica de uma Aplicação Web: 
