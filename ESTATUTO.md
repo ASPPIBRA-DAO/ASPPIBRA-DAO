@@ -1,6 +1,9 @@
 # [ESTATUTO](https://www.asppibra.com.br/)
 
+![Estatuto](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/0c3c60b8-e3c4-4508-82f3-894a0b33e93e)
+
 ## CAPÍTULO I
+
 
 ### DENOMINAÇÃO:
 
