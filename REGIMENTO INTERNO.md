@@ -12,9 +12,9 @@ Para o cumprimento do conjunto de diretrizes e princípios previstos no estatuto
 **Art. 2º** 
 São instâncias consultivas e deliberativas da ASPPIBRA.
 
-- I - A assembleia-geral;
-- II - A diretoria executiva;
-- III - O conselho fiscal;
+I - A assembleia-geral;
+II - A diretoria executiva;
+III - O conselho fiscal;
 
 **Parágrafo Primeiro:** 
 As instâncias deliberativas são a Assembleia Geral e a Diretoria Executiva;
@@ -28,8 +28,8 @@ A Assembleia será coordenada pelo Presidente, Pelo Vice-presidente ou por algu�
 **Art. 4º** 
 Os trabalhos nas Assembleias obedecerão a seguinte ordem:
 
-- A discussão e aprovação da pauta do dia;
-- As decisões serão tomadas para quaisquer fins através de votação de forma física ou digital pela maioria dos associados presentes nas assembleias;
+A discussão e aprovação da pauta do dia;
+As decisões serão tomadas para quaisquer fins através de votação de forma física ou digital pela maioria dos associados presentes nas assembleias;
 
 **Parágrafo Único:** 
 Poderão ocorrer votações simbólicas, nominais ou por aclamação, abertas ou secretas, a critério dos presentes.
@@ -37,10 +37,10 @@ Poderão ocorrer votações simbólicas, nominais ou por aclamação, abertas ou
 **Art. 5º** 
 Para o exercício de suas competências estatutárias, a Assembleia Geral poderá:
 
-- I - Requisitar informações a qualquer Associado;
-- II - Determinar a continuidade, suspensão, conclusão de estudos ou atividades de interesse da entidade no seu coletivo;
-- III - Analisar recursos e pedidos de reconsideração;
-- IV - Peticionar aos Órgãos Públicos ou Privados.
+I - Requisitar informações a qualquer Associado;
+II - Determinar a continuidade, suspensão, conclusão de estudos ou atividades de interesse da entidade no seu coletivo;
+III - Analisar recursos e pedidos de reconsideração;
+IV - Peticionar aos Órgãos Públicos ou Privados.
 
 **Art. 6°** 
 A diretoria executiva sempre que reunida, deliberará sobre questões previamente estabelecidas por edital eletrônico de convocação.
@@ -51,8 +51,8 @@ O conselho fiscal reunirá ordinária ou extraordinariamente, conforme determina
 **Art. 8º** 
 Para o exercício de suas funções o Conselho Fiscal poderá:
 
-- I - Requerer a qualquer tempo à apresentação dos relatórios, balancetes, extratos e contratos bancários e demais documentos financeiros necessários à elaboração de seu relatório de análise das contas;
-- II - Requerer a participação do Presidente, e do Tesoureiro ou de qualquer outro integrante da Diretoria Executiva para obter esclarecimentos acerca de omissões, obscuridades ou contradições dos documentos financeiros da Associação.
+I - Requerer a qualquer tempo à apresentação dos relatórios, balancetes, extratos e contratos bancários e demais documentos financeiros necessários à elaboração de seu relatório de análise das contas;
+II - Requerer a participação do Presidente, e do Tesoureiro ou de qualquer outro integrante da Diretoria Executiva para obter esclarecimentos acerca de omissões, obscuridades ou contradições dos documentos financeiros da Associação.
 Dos Associados 
 
 **Art. 9º** 
@@ -64,7 +64,7 @@ Todos os associados da ASPPIBRA, terão uma Conta registrada em BlokChain com su
 **Art. 10** 
 Os associados terão uma mensalidade no valor de R$ 84,00 (Oitenta e Quatro Reais) mensais, correspondendo a R$ 1.008,00 (mil e oito reais) anuais, que serão pagas até o dia 1° de janeiro de cada ano correspondente.
 
-- I - Os associados só poderão utilizar as instalações e participar das reuniões , eventos e direito de voto com as mensalidades em dia
+I - Os associados só poderão utilizar as instalações e participar das reuniões , eventos e direito de voto com as mensalidades em dia
 
 **Art. 11** 
 Na hipótese de descumprimentos das obrigações sociais e financeira pre definida no Estatuto Social e Regimento Interno da ASPPIBRA, por decisão da assembleia Geral, ou da Diretoria Executiva, será iniciado o procedimento disciplinar, visando apurar o fato determinado e aplicar as sanções adequadas.
@@ -76,17 +76,17 @@ Os procedimentos disciplinares serão conduzidos por comissões criadas especifi
 Conforme a gravidade da infração cometida, poderá o associado sofrer as seguintes sanções:
 Parágrafo Primeiro: Advertência; aplicável as infrações consideradas leves, assim consideradas sem prejuízo de outros que se possa verificar:
 
-- I - Ausências ou atrasos reiterados e injustificados em atividades da associação;
-- II - Briga, desentendimentos, falta de urbanidade para com os demais associados;
-- III - Desrespeito para com os demais Associados;
-- IV - Conduta duvidosa e descumprimento com o Estatuto Social vigente.
-- § 2° Suspensão da condição de associado; aplicável às infrações de naturezas graves assim consideradas, sem prejuízo de outros que se possa verificar;
-- I - Reincidência em advertência.
-- § 3° Exclusão da condição de associado; Aplicável às infrações consideradas graves, assim consideradas sem prejuízo de outros que se possa verificar:
+I - Ausências ou atrasos reiterados e injustificados em atividades da associação;
+II - Briga, desentendimentos, falta de urbanidade para com os demais associados;
+III - Desrespeito para com os demais Associados;
+IV - Conduta duvidosa e descumprimento com o Estatuto Social vigente.
+§ 2° Suspensão da condição de associado; aplicável às infrações de naturezas graves assim consideradas, sem prejuízo de outros que se possa verificar;
+I - Reincidência em advertência.
+§ 3° Exclusão da condição de associado; Aplicável às infrações consideradas graves, assim consideradas sem prejuízo de outros que se possa verificar:
 
-- I - Reincidência em suspensão;
-- II - Tentativa ou participação individual, ou em conluio, destinado a lesar os interesses da associação, ou dos demais associados;
-- III - Descumprimentos das cláusulas estatutárias ou legais.
+I - Reincidência em suspensão;
+II - Tentativa ou participação individual, ou em conluio, destinado a lesar os interesses da associação, ou dos demais associados;
+III - Descumprimentos das cláusulas estatutárias ou legais.
 
 **Art. 14** 
 Após a abertura de procedimento disciplinar, deverá ocorrer comunicação escrita ao associado envolvido, onde deverá constar a infração que lhe é atribuída, o prazo – nunca inferior a 03 três dias e o local onde deverá apresentar a sua defesa.
@@ -94,9 +94,9 @@ Após a abertura de procedimento disciplinar, deverá ocorrer comunicação escr
 **Parágrafo Primeiro:** 
 A recusa ao recebimento, a não apresentação de defesa, a apresentação de defesa genérica ou relativa a fato diverso do contido na comunicação, implica em confissão e nos efeitos da revelia;
 
-- § 2° As decisões serão materializadas em pareceres, que poderão determinar a aplicação ou não da sanção, sua natureza, bem como o prazo de sua vigência;
-- § 3° As sanções de advertência e suspensão poderão ser aplicadas liminarmente pelo Presidente, cabendo recurso de sua decisão – cujo efeito será meramente devolutivo – à Diretoria ou à primeira Assembleia Geral subsequentes;
-- § 4° A sanção de exclusão poderá ser aplicada pela diretoria executiva, cabendo recurso de sua decisão – cujo efeito será meramente devolutivo – a primeira assembleia Geral Subsequente do processo Eleitoral.
+§ 2° As decisões serão materializadas em pareceres, que poderão determinar a aplicação ou não da sanção, sua natureza, bem como o prazo de sua vigência;
+§ 3° As sanções de advertência e suspensão poderão ser aplicadas liminarmente pelo Presidente, cabendo recurso de sua decisão – cujo efeito será meramente devolutivo – à Diretoria ou à primeira Assembleia Geral subsequentes;
+§ 4° A sanção de exclusão poderá ser aplicada pela diretoria executiva, cabendo recurso de sua decisão – cujo efeito será meramente devolutivo – a primeira assembleia Geral Subsequente do processo Eleitoral.
 
 **Art. 15** 
 A eleição da diretoria executiva e do conselho Fiscal será convocada pelo Presidente em exercício da Entidade ou seu substituto legal, ou ainda mais em última hipótese por seus associados, nos termos do Estatuto social vigente antes do término do mandato da Diretoria.
@@ -135,4 +135,3 @@ Os casos omissos, controversos e as dúvidas surgidas na aplicação deste Regim
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
 </div>
-
