@@ -13,7 +13,9 @@ Para o cumprimento do conjunto de diretrizes e princípios previstos no estatuto
 São instâncias consultivas e deliberativas da ASPPIBRA.
 
 I - A assembleia-geral;
+
 II - A diretoria executiva;
+
 III - O conselho fiscal;
 
 **Parágrafo Primeiro:** 
@@ -38,8 +40,11 @@ Poderão ocorrer votações simbólicas, nominais ou por aclamação, abertas ou
 Para o exercício de suas competências estatutárias, a Assembleia Geral poderá:
 
 I - Requisitar informações a qualquer Associado;
+
 II - Determinar a continuidade, suspensão, conclusão de estudos ou atividades de interesse da entidade no seu coletivo;
+
 III - Analisar recursos e pedidos de reconsideração;
+
 IV - Peticionar aos Órgãos Públicos ou Privados.
 
 **Art. 6°** 
@@ -52,6 +57,7 @@ O conselho fiscal reunirá ordinária ou extraordinariamente, conforme determina
 Para o exercício de suas funções o Conselho Fiscal poderá:
 
 I - Requerer a qualquer tempo à apresentação dos relatórios, balancetes, extratos e contratos bancários e demais documentos financeiros necessários à elaboração de seu relatório de análise das contas;
+
 II - Requerer a participação do Presidente, e do Tesoureiro ou de qualquer outro integrante da Diretoria Executiva para obter esclarecimentos acerca de omissões, obscuridades ou contradições dos documentos financeiros da Associação.
 Dos Associados 
 
@@ -77,15 +83,23 @@ Conforme a gravidade da infração cometida, poderá o associado sofrer as segui
 Parágrafo Primeiro: Advertência; aplicável as infrações consideradas leves, assim consideradas sem prejuízo de outros que se possa verificar:
 
 I - Ausências ou atrasos reiterados e injustificados em atividades da associação;
+
 II - Briga, desentendimentos, falta de urbanidade para com os demais associados;
+
 III - Desrespeito para com os demais Associados;
+
 IV - Conduta duvidosa e descumprimento com o Estatuto Social vigente.
+
 § 2° Suspensão da condição de associado; aplicável às infrações de naturezas graves assim consideradas, sem prejuízo de outros que se possa verificar;
+
 I - Reincidência em advertência.
+
 § 3° Exclusão da condição de associado; Aplicável às infrações consideradas graves, assim consideradas sem prejuízo de outros que se possa verificar:
 
 I - Reincidência em suspensão;
+
 II - Tentativa ou participação individual, ou em conluio, destinado a lesar os interesses da associação, ou dos demais associados;
+
 III - Descumprimentos das cláusulas estatutárias ou legais.
 
 **Art. 14** 
@@ -95,7 +109,9 @@ Após a abertura de procedimento disciplinar, deverá ocorrer comunicação escr
 A recusa ao recebimento, a não apresentação de defesa, a apresentação de defesa genérica ou relativa a fato diverso do contido na comunicação, implica em confissão e nos efeitos da revelia;
 
 § 2° As decisões serão materializadas em pareceres, que poderão determinar a aplicação ou não da sanção, sua natureza, bem como o prazo de sua vigência;
+
 § 3° As sanções de advertência e suspensão poderão ser aplicadas liminarmente pelo Presidente, cabendo recurso de sua decisão – cujo efeito será meramente devolutivo – à Diretoria ou à primeira Assembleia Geral subsequentes;
+
 § 4° A sanção de exclusão poderá ser aplicada pela diretoria executiva, cabendo recurso de sua decisão – cujo efeito será meramente devolutivo – a primeira assembleia Geral Subsequente do processo Eleitoral.
 
 **Art. 15** 
