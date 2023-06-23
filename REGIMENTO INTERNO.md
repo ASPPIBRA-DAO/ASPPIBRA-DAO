@@ -59,7 +59,7 @@ Dos Associados
 Os Associados, além de submeterem a este Regimento Interno, deverão ter ciência de seus direitos e deveres conforme o Estatuto Social vigente da ASPPIBRA.
 
 **Parágrafo Único:** 
-Todos os associados da ASPPIBRA, terão um cartão registrado em BlokChain com suas chaves pública e privada, e um endereço de carteira nativa, os associados poderão exercer seus direitos de voto portando esse cartão, e será utilizado para identificação dos associados dentro e fora das instalações e nas reuniões de Assembleia da Entidade.
+Todos os associados da ASPPIBRA, terão uma Conta registrada em BlokChain com suas chaves pública e privada, os associados poderão exercer seus direitos de voto Utilizando os Tokens de governaça adquiridos atraves de Mensalidades e doações esse Tokens, são utilizados para identificação dos associados dentro e fora das instalações e nas reuniões de Assembleia da Entidade.
 
 **Art. 10** 
 Os associados terão uma mensalidade no valor de R$ 84,00 (Oitenta e Quatro Reais) mensais, correspondendo a R$ 1.008,00 (mil e oito reais) anuais, que serão pagas até o dia 1° de janeiro de cada ano correspondente.
