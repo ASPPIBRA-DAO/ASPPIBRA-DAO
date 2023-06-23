@@ -65,8 +65,4 @@ Não perca esta incrível oportunidade de fazer parte de uma das iniciativas mai
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
-<<<<<<< HEAD
-=======
- 
->>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa
 </div>

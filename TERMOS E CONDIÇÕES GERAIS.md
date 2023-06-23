@@ -201,7 +201,10 @@ Ao receber o Token **ASPPBR**, o usuario ou associado declara e garante que:
 
 - A implementação bem-sucedida do **ASPPBR** depende de várias tecnologias existentes, incluindo linguagens de programação, estruturas, protocolos de rede, sistemas criptográficos e algoritmos de consenso. É importante reconhecer que essas tecnologias podem apresentar vulnerabilidades de segurança inerentes ou outras falhas, individualmente ou em sua composição. Embora as auditorias de segurança possam ajudar a mitigar esses riscos até certo ponto, é crucial entender que alcançar segurança absoluta em ciência da computação e criptografia é um desafio.
 
-Existem dois cenários específicos que podem impactar significativamente o preço de **ASPPBR**. 
+Existem dois cenários específicos que podem impactar significativamente o preço de 
+
+**ASPPBR**. 
+
 - Em primeiro lugar, um colapso do sistema criptográfico representa um risco grave. Na pior das hipóteses, um ator mal-intencionado pode obter acesso completo a um número substancial de tokens **ASPPBR**, tornando-os essencialmente inúteis ou levando a uma queda de preço substancial e sustentada. 
 
 - Em segundo lugar, um "ataque DDoS" prolongado que imobiliza os servidores por um longo período sem uma solução imediata também pode resultar em uma queda de preço a longo prazo. Para minimizar a probabilidade desses cenários, precauções técnicas avançadas estão sendo implementadas.

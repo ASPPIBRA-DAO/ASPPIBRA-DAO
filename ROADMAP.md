@@ -1,15 +1,10 @@
 # [ROAD MAP](https://www.asppibra.com.br/)
 
-
 ![Roadmap](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/7c62d331-d11e-48f7-8884-ef71995c40f1)
-
-
 
 Nosso roteiro é uma lista de tarefas, em ordem específica, com cronograma específico. É assim que trabalhamos, de forma organizada e o mais rápido possível para entregar a melhor qualidade nos serviços e produtos oferecidos pela **ASPPIBRA-DAO**.
 
-<br />
-
-> Desenvolvimento Geral:
+## Desenvolvimento Geral:
 ## 2016
 Montamos a composição da diretoria.
 Fundação da associação.

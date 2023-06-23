@@ -1,6 +1,5 @@
 # [Planos e Parcerias](https://www.asppibra.com.br/)
 
-
 ![Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/c7540411-23ec-466d-bc25-f5ca047107e4)
 
 ## Introdução: 
@@ -16,7 +15,6 @@ O cálculo do retorno envolve a soma das entradas líquidas de caixa geradas pel
 Embora o payback ofereça uma medida direta de liquidez e avaliação de risco, ele possui certas limitações. Ele desconsidera o valor do dinheiro no tempo e a lucratividade além do período de retorno, negligenciando o potencial de ganhos de longo prazo. Portanto, o retorno é frequentemente usado em conjunto com outras métricas financeiras para formar uma análise abrangente da viabilidade de um investimento.
 
 Em suma, o retorno é uma ferramenta valiosa que ajuda indivíduos e organizações a avaliar o tempo necessário para recuperar seus investimentos iniciais. Ele fornece informações sobre a dinâmica do fluxo de caixa e os riscos potenciais associados a um projeto ou oportunidade de investimento.
-
 
 ## Temos 5 opções de Parcerias exclusivas disponíveis para nossos usuários e associados:
 

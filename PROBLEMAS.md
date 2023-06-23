@@ -110,7 +110,6 @@ Impacto internacional:
 
 Abordar esses problemas requer uma abordagem abrangente que inclua aplicação da lei mais rígida, práticas sustentáveis ​​de uso da terra, apoio aos direitos indígenas e colaboração internacional para proteger as florestas do Brasil e os ecossistemas vitais que elas abrangem.
 
-
 ### Agronegócio:
 
 Desmatamento: 
@@ -187,8 +186,6 @@ Práticas sustentáveis ​​e responsabilidade social: A promoção de prátic
 
 É importante observar que embora esses sejam problemas comuns encontrados no Brasil em relação à exploração mineral, esforços estão sendo feitos pelo governo, indústria e sociedade civil para abordar e mitigar esses problemas.
 
-
-
 ### Geração de energia:
 
 Dependência de energia hidrelétrica: 
@@ -253,8 +250,6 @@ Investimento insuficiente em pesquisa e desenvolvimento:
 
 Vale a pena notar que, embora esta lista abranja vários problemas significativos encontrados no Brasil em relação à geração de energia, ela pode não ser exaustiva e pode variar ao longo do tempo à medida que o cenário energético do país evolui.
 
-
-
 ### Serviços Finaçeiros:
 
 Os problemas no Brasil em relação aos Serviços Financeiros para a população em geral e nas áreas rurais podem variar entre diferentes regiões e grupos socioeconômicos. No entanto, aqui estão alguns desafios comuns enfrentados:
@@ -316,9 +311,4 @@ Vale a pena notar que esforços têm sido feitos pelo governo e instituições f
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
-<<<<<<< HEAD
 </div>
-=======
- 
-</div>
->>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa
