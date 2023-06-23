@@ -1,7 +1,20 @@
 # [GOVERNANÇA E CONSENSO](https://www.asppibra.com.br/)
 
+<<<<<<< HEAD
 ## Introdução:
 
+=======
+![Governança Mundo Digital](https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Bitcoin/Governan%C3%A7a%20Mundo%20Digital.svg)
+
+## Introdução:
+
+Um conceito serve como uma noção abstrata ou ampla que representa um grupo de objetos, eventos ou fenômenos. Atua como uma estrutura cognitiva que auxilia nossa compreensão, classificação e comunicação sobre o mundo em que habitamos. Ao identificar semelhanças, padrões e conexões, os conceitos nos permitem organizar e compreender informações. Vamos nos aprofundar em uma explicação concisa do conceito de governança e consenso.
+
+**Governança:** Governança refere-se ao sistema e processos através dos quais as decisões são tomadas, a autoridade é exercida e as ações são tomadas dentro de uma organização ou comunidade. Abrange os mecanismos, estruturas e relacionamentos que determinam como o poder é distribuído, como as decisões são tomadas e como a responsabilidade é assegurada.
+
+**Consenso:** O consenso é um processo de tomada de decisão que visa alcançar um acordo ou aceitação generalizada entre um grupo de indivíduos. Envolve buscar ativamente informações e opiniões de todas as partes relevantes e trabalhar em direção a uma solução que seja aceitável para todos, ou pelo menos para a maioria.
+
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa
 O Digital World Project descreve a estrutura de tecnologia de governança inovadora e os processos de tomada de decisão que moldarão o futuro do nosso ecossistema. Aproveitando o poder dos princípios da organização autônoma descentralizada (DAO) e da tecnologia blockchain, pretendemos promover inclusão, transparência e participação global na governança e trajetória da ASPPIBRA.
 
 ### Governança baseada em DAO:
@@ -24,6 +37,7 @@ No cerne da estrutura de governança da ASPPIBRA-DAO no projeto Mundo Digital es
 
 O consenso e a governança do projeto Mundo Digital descrevem uma abordagem pioneira de governança baseada no sistema DAO e alimentada pela tecnologia blockchain. Ao distribuir direitos de governança por meio de tokens ASPPBR, alavancar um sistema de votação transparente e promover a inclusão digital global, pretendemos construir um ecossistema digital resiliente e inclusivo. Juntos, vamos forjar o futuro do mundo digital com transparência, acessibilidade e tomada de decisão coletiva em seu núcleo.
 
+<<<<<<< HEAD
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
 <div style="display: inline_block"><br>
@@ -32,6 +46,19 @@ O consenso e a governança do projeto Mundo Digital descrevem uma abordagem pion
 <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
+=======
+
+## <h2 align="center">🎁 Donate Crypto:</h2>
+
+
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
+ <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
+ <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+ 
+ ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/asppibra-dao/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asppibra/) 
@@ -39,4 +66,10 @@ O consenso e a governança do projeto Mundo Digital descrevem uma abordagem pion
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
+<<<<<<< HEAD
 </div>
+=======
+ 
+</div>
+
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa

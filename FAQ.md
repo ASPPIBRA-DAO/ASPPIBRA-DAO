@@ -1,6 +1,14 @@
 # [FAQ](https://www.asppibra.com.br/)
 
+<<<<<<< HEAD
 ### Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?
+=======
+![Perguntas frequentes](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/c89d0afc-2998-49ee-a46d-285376d61d65)
+
+</div>
+
+>### Quando foi fundada a ASPPIBRA? Qual é o seu principal objetivo?
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa
 
 - A Associação dos Proprietários e Possuidores de Imóveis no Brasil (ASPPIBRA) foi fundada em setembro de 2016 no município de Maricá, Rio de Janeiro. O principal objetivo da ASPPIBRA é resolver o problema antigo da posse irregular de terras no Brasil, tanto em áreas urbanas quanto rurais. Por meio da integração dos cadastros imobiliários com a tecnologia blockchain, a ASPPIBRA visa possibilitar a regularização de imóveis para a população, reduzindo a informalidade a zero e garantindo maior transparência nas informações. Em última análise, a ASPPIBRA busca promover o crescimento do setor, fornecendo uma solução abrangente para o problema da regularização fundiária no Brasil.
 

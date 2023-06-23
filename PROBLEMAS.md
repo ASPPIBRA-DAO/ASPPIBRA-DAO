@@ -1,5 +1,7 @@
 # [PROBLEMAS](https://www.asppibra.com.br/)
 
+![Problema](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/907fa856-fb34-44c2-b780-5f430c37884d)
+
 ### Cadastro Imobiliário:
 
 Falta de transparência: 
@@ -314,4 +316,9 @@ Vale a pena notar que esforços têm sido feitos pelo governo e instituições f
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
+<<<<<<< HEAD
 </div>
+=======
+ 
+</div>
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa

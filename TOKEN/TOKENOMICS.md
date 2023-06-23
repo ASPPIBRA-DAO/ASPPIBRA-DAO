@@ -1,7 +1,7 @@
 # [Tokenomics](https://www.asppibra.com.br/)
 
+![Crowdfunding ](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/3dcfdc5b-42cc-4916-b7fd-435b89722d1e)
 
-![launchpad PancakeSwap](https://user-images.githubusercontent.com/80177249/201450427-403692e0-dee8-406c-a88d-f9e717ea41d6.png)
  
 
 - O token **ASPPBR**, um token utilitário seguro e criptografado, foi criado na rede Binance SmartChain **BSC** com um suprimento total de 21 milhões de tokens. Esses tokens servirão como tokens de utilidade e poderão ser utilizados para realizar negociações Swap para obtenção de liquidez, produtos e serviços prestados pela **ASPPIBRA-DAO**.

@@ -1,5 +1,6 @@
 # [SOLUÇÕES](https://www.asppibra.com.br/)
 
+![Solução](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/383ea135-f511-4b16-bcb3-b5c0c5830398)
 
 ### Cadastro Imobiliário:
 
@@ -280,4 +281,9 @@ Estrutura regulatória e proteção ao consumidor:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
+<<<<<<< HEAD
 </div>
+=======
+ 
+</div>
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa

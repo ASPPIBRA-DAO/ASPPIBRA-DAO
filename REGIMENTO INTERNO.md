@@ -1,5 +1,8 @@
 # [REGIMENTO INTERNO](https://www.asppibra.com.br/)
 
+![Regimento](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/5f55721c-698b-4aa1-a552-26b519775f24)
+
+
 ## Regimento Interno, obedecendo o Art. 7 do Estatuto Social vigente.
 
 Na observância dos direitos e deveres dos associados, a ASPPIBRA disponibiliza este regimento Interno em conformidade ao estatuto social vigente, o mesmo, entra em vigor na data de 28 de novembro de 2016 e todos os associados deverão cumprir com as determinações contidas neste e ao recebimento deste deverá ser assinado pelo associado titular, de forma física ou digital assinalando o pleno conhecimento em concordância com os termos contidos nesse regimento Interno.
@@ -132,4 +135,9 @@ Os casos omissos, controversos e as dúvidas surgidas na aplicação deste Regim
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
+<<<<<<< HEAD
 </div>
+=======
+ 
+</div>
+>>>>>>> 04ed05e89e1b660f24b1f866b108e98fb3e3dfaa
