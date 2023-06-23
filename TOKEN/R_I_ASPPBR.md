@@ -22,23 +22,24 @@ Dentro do BEP20Tokencontrato, existem várias variáveis ​​de estado privada
 - _decimals: O número de decimais para o token.
 - _symbol: O símbolo do token.
 - _name: O nome do token.
+
 A função do construtor é chamada quando o contrato é implantado. Ele inicializa o nome, o símbolo, os decimais e o suprimento total do token. O fornecimento total é atribuído ao endereço do implantador do contrato.
 
-- A getOwnerfunção retorna o endereço do proprietário do token.
+- A **getOwner** função retorna o endereço do proprietário do token.
 
-- As funções decimals, symbole nameretornam os respectivos metadados do token.
+- As funções **decimals, symbol e name** retornam os respectivos metadados do token.
 
-- A totalSupplyfunção retorna o fornecimento total do token.
+- A **totalSupply** função retorna o fornecimento total do token.
 
-- A balanceOffunção retorna o saldo do token de um endereço específico.
+- A **balanceOf** função retorna o saldo do token de um endereço específico.
 
-- A transferfunção transfere tokens da conta do chamador para um destinatário especificado.
+- A **transfer** função transfere tokens da conta do chamador para um destinatário especificado.
 
-- A allowancefunção retorna o número restante de tokens que um gastador pode gastar em nome do proprietário.
+- A **allowance** função retorna o número restante de tokens que um gastador pode gastar em nome do proprietário.
 
-- A approvefunção define a permissão para um gastador gastar uma certa quantidade de tokens em nome do chamador.
+- A **approve** função define a permissão para um gastador gastar uma certa quantidade de tokens em nome do chamador.
 
-- O código também inclui algumas funções auxiliares internas como _transfer, _approve, e _transferOwnershipque são usadas internamente dentro do contrato.
+- O código também inclui algumas funções auxiliares internas como **_transfer, _approve, e _transferOwnership** que são usadas internamente dentro do contrato.
 
 No geral, esse código fornece uma implementação básica de um token BEP-20 com funcionalidades como transferências de token, permissões, consultas de saldo e gerenciamento de propriedade.
 
