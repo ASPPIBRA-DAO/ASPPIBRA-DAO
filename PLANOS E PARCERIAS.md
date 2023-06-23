@@ -103,20 +103,14 @@ Além disso, o DRE é frequentemente usado em conjunto com outras métricas, com
 Além disso, o DRE pode ser útil na previsão de receita futura e na definição de metas de desempenho. Ao extrapolar a estimativa de receita diária, as empresas podem projetar suas metas de receita mensal ou anual e desenvolver estratégias para alcançá-las. Ele também permite o acompanhamento em tempo real do progresso em relação às metas de receita, facilitando a identificação de lacunas e a tomada de ações corretivas, se necessário.
 
 No geral, o DRE é uma métrica financeira valiosa que fornece às empresas uma compreensão clara do desempenho diário de sua receita. Ao monitorar essa métrica regularmente e aproveitá-la juntamente com outros indicadores-chave de desempenho, as empresas podem obter insights acionáveis, tomar decisões informadas e otimizar seu potencial de geração de receita para o sucesso a longo prazo.
-
-
-
-
-## <h2 align="center">🎁 Donate Crypto:</h2>
-
-
+## <h2 align="center">🎁 Doe Crypto:</h2>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
- <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
- <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
- 
- ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
+<img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
+<img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
+<img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/asppibra-dao/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asppibra/) 
@@ -124,5 +118,4 @@ No geral, o DRE é uma métrica financeira valiosa que fornece às empresas uma 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
 
- 
 </div>
