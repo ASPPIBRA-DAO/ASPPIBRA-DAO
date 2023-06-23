@@ -1,15 +1,59 @@
-Relatório de Auditoria: 
+RELATÓRIO DE INFORMAÇÕES DO TOKEN ASPPBR:
+
+Este código é um contrato Solidity que implementa um token BEP-20. Vamos passar por cada parte do código e explicar o que ele faz:
+
+O código começa com alguns cabeçalhos de comentários mencionando a verificação e as informações de contato do token.
+
+A IBEP20interface define as funções e eventos que um contrato de token BEP-20 deve implementar.
+
+O Contextcontrato fornece informações sobre o contexto de execução atual, como o remetente da transação e seus dados.
+
+A SafeMathbiblioteca contém operações aritméticas com verificações de estouro adicionadas para evitar erros comuns relacionados a estouros aritméticos.
+
+O Ownablecontrato é um módulo que fornece um mecanismo básico de controle de acesso. Permite definir um proprietário que tenha acesso exclusivo a funções específicas.
+
+O BEP20Tokencontrato é o contrato principal que implementa o token BEP-20. Ele herda de Context, IBEP20e Ownable.
+
+Dentro do BEP20Tokencontrato, existem várias variáveis ​​de estado privadas:
+
+_balances: Um mapeamento que armazena os saldos de token de cada endereço.
+_allowances: um mapeamento que armazena as permissões aprovadas para transferências de token.
+_totalSupply: O fornecimento total do token.
+_decimals: O número de decimais para o token.
+_symbol: O símbolo do token.
+_name: O nome do token.
+A função do construtor é chamada quando o contrato é implantado. Ele inicializa o nome, o símbolo, os decimais e o suprimento total do token. O fornecimento total é atribuído ao endereço do implantador do contrato.
+
+A getOwnerfunção retorna o endereço do proprietário do token.
+
+As funções decimals, symbole nameretornam os respectivos metadados do token.
+
+A totalSupplyfunção retorna o fornecimento total do token.
+
+A balanceOffunção retorna o saldo do token de um endereço específico.
+
+A transferfunção transfere tokens da conta do chamador para um destinatário especificado.
+
+A allowancefunção retorna o número restante de tokens que um gastador pode gastar em nome do proprietário.
+
+A approvefunção define a permissão para um gastador gastar uma certa quantidade de tokens em nome do chamador.
+
+O código também inclui algumas funções auxiliares internas como _transfer, _approve, e _transferOwnershipque são usadas internamente dentro do contrato.
+
+No geral, esse código fornece uma implementação básica de um token BEP-20 com funcionalidades como transferências de token, permissões, consultas de saldo e gerenciamento de propriedade.
+
+## Relatório de Auditoria: 
 
 Código de Contrato Inteligente
 
-Resumo: 
+### Resumo: 
 
 O código do contrato inteligente è uma interface para um token BEP20. 
 Ele fornece funções e eventos padrão para transferências e permissões de token. 
 No geral, o código parece bem estruturado e segue o padrão de token BEP20. 
 No entanto, uma análise mais aprofundada é necessária para identificar potenciais fatores de segurança e vulnerabilidades.
 
-Descobertas:
+### Descobertas:
 
 Falta de implementação: o código fornecido é uma interface e não contém a lógica de implementação do contrato de token. Portanto, não é possível avaliar a segurança da funcionalidade do token real sem revisar o código de implementação.
 
@@ -33,7 +77,7 @@ Dependência de carimbo de data/hora: o código não incorpora nenhuma funcional
 
 Falta de casos de teste abrangentes: é importante ter um conjunto abrangente de casos de teste para garantir a correção e a segurança da implementação. Sem revisar os casos de teste, é um desafio determinar a robustez do contrato de token.
 
-Recomendações:
+### Recomendações:
 
 Revisar o código de implementação: faça uma revisão e auditoria completas do código de implementação para avaliar sua segurança, correção e adesão às melhores práticas.
 
@@ -54,8 +98,3 @@ Emitir Eventos de Aprovação: Adicione a emissão de um Approvalevento quando o
 Cobertura de teste: Desenvolva e execute um conjunto abrangente de casos de teste para verificar a correção e a segurança da implementação do contrato de token.
 
 Observe que este relatório de auditoria é baseado apenas no código fornecido e não considera os detalhes reais da implementação. Uma revisão completa do código de implementação é necessária para fornecer uma avaliação completa dos fatores de segurança e vulnerabilidades.
-
-
-
-
-
