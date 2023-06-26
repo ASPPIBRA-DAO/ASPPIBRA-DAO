@@ -41,7 +41,7 @@ O surgimento das entidades do terceiro setor nos países em desenvolvimento est�
 - A atuação do terceiro setor propicia uma sociedade civil ativa e participativa, que busca o interesse público e proporciona melhores serviços à comunidade. Além disso, a sociedade civil consequentemente se torna mais engajada e interessada na participação das decisões do Estado.
 
 
-## Texto constitucional promulgado em 5 de outubro de 1988, Compilado até a Emenda Constitucional no 114/2021.
+## Texto constitucional promulgado em 5 de outubro de 1988.
 
 ### Título I – Dos Princípios Fundamentais:
 
