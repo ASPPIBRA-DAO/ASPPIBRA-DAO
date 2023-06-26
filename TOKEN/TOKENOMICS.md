@@ -26,6 +26,21 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 - Explorador Binance Smart Chain:
 - (https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c)
 
+## Distribuição dos Tokens:
+
+Do total de 21.000.000 de tokens serão distribuido 60%, totalizando 12.600.000 tokens. 
+As distribuição de tokens serão realizadas em quatro fases: 
+
+- 1º Pré-Seeds em T2 2023 com 2.100.000 tokens, 
+- 2º Seeds no 4º trimestre de 2023 com 2.100.000 tokens, 
+- 3º Crowdfunding em T2 2024 com 4.200.000 tokens e 
+- 4ª Distribuição no 4º trimestre de 2024 com 4.200.000 tokens. 
+As datas específicas para cada fase de distribuição serão anunciadas posteriormente.
+
+## Alocação de Fundos:
+
+- A distribuição primária irá gerar 100% dos recursos para o fundo **Mundo Verde**. O objetivo deste fundo é financiar as despesas de execução do projeto. Ele será reabastecido por meio de mensalidades dos membros, vendas de créditos de carbono, vendas de NFTs, taxas cobradas por meio do aplicativo e parcerias com o setor privado. A cada 5 anos, será feita uma grande distribuição de royalties, no valor de 70% do fundo Mundo Verde. Essa abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos na realização das atividades votadas pela comunidade. Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.
+
 ### Divisão de Recompensas:
 
 - A receita do projeto não é fixa, mas sustentável.
@@ -43,20 +58,6 @@ Os royalties serão repartidos entre associados e profissionais que estejam em d
 - 10% dos tokens destinados ao setor de RH. 
 Esses tokens serão bloqueados em um pool de liquidez para garantir taxas de rendimento para o fundo Mundo Verde
 
-# Distribuição dos Tokens:
-
-Do total de 21.000.000 de tokens serão distribuido 60%, totalizando 12.600.000 tokens. 
-As distribuição de tokens serão realizadas em quatro fases: 
-
-- 1º Pré-Seeds em T2 2023 com 2.100.000 tokens, 
-- 2º Seeds no 4º trimestre de 2023 com 2.100.000 tokens, 
-- 3º Crowdfunding em T2 2024 com 4.200.000 tokens e 
-- 4ª Distribuição no 4º trimestre de 2024 com 4.200.000 tokens. 
-As datas específicas para cada fase de distribuição serão anunciadas posteriormente.
-
-## Alocação de Fundos:
-
-- A distribuição primária irá gerar 100% dos recursos para o fundo **Mundo Verde**. O objetivo deste fundo é financiar as despesas de execução do projeto. Ele será reabastecido por meio de mensalidades dos membros, vendas de créditos de carbono, vendas de NFTs, taxas cobradas por meio do aplicativo e parcerias com o setor privado. A cada 5 anos, será feita uma grande distribuição de royalties, no valor de 70% do fundo Mundo Verde. Essa abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos na realização das atividades votadas pela comunidade. Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
