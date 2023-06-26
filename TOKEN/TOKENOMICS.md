@@ -2,9 +2,16 @@
 
 ![Crowdfunding ](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/3dcfdc5b-42cc-4916-b7fd-435b89722d1e)
 
- 
+ ## Introdução:
 
-- O token **ASPPBR**, um token utilitário seguro e criptografado, foi criado na rede Binance SmartChain **BSC** com um suprimento total de 21 milhões de tokens. Esses tokens servirão como tokens de utilidade e poderão ser utilizados para realizar negociações Swap para obtenção de liquidez, produtos e serviços prestados pela **ASPPIBRA-DAO**.
+Bem-vindo à introdução do token ASPPBR. Este token serve como uma ferramenta segura e criptografada para governança e trocas descentralizadas. 
+O Token foi construído na rede Binance SmartChain ( BSC ) e possui um suprimento total de 21 milhões de tokens.
+
+O token ASPPBR tem uma variedade de usos práticos dentro do ecossistema blockchain. Ele pode ser usado em sistemas de votação digital para garantir justiça e transparência. Isso significa que os detentores de tokens têm voz nos processos de tomada de decisão e podem contribuir para o desenvolvimento do ecossistema.
+
+Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os usuários acessem liquidez, produtos e serviços. Por meio da ASPPIBRA-DAO.
+
+O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.
 
 - Token Bep-20
 - Etiqueta (Tags): PLATAFORMA, DAO, DEFI, NFT.
@@ -47,7 +54,7 @@ As distribuição de tokens serão realizadas em quatro fases:
 - 4ª Distribuição no 4º trimestre de 2024 com 4.200.000 tokens. 
 As datas específicas para cada fase de distribuição serão anunciadas posteriormente.
 
-# Alocação de Fundos:
+## Alocação de Fundos:
 
 - A distribuição primária irá gerar 100% dos recursos para o fundo **Mundo Verde**. O objetivo deste fundo é financiar as despesas de execução do projeto. Ele será reabastecido por meio de mensalidades dos membros, vendas de créditos de carbono, vendas de NFTs, taxas cobradas por meio do aplicativo e parcerias com o setor privado. A cada 5 anos, será feita uma grande distribuição de royalties, no valor de 70% do fundo Mundo Verde. Essa abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos na realização das atividades votadas pela comunidade. Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.
 
