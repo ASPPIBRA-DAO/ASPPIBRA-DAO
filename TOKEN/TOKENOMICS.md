@@ -28,14 +28,20 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 
 ## Distribuição dos Tokens:
 
-Do total de 21.000.000 de tokens serão distribuido 60%, totalizando 12.600.000 tokens. 
-As distribuição de tokens serão realizadas em quatro fases: 
+Distribuição de Tokens: Da oferta total de 21.000.000 de tokens, destinamos 60% para distribuição, totalizando 12.600.000 de tokens. A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:
 
-- 1º Pré-Seeds em T2 2023 com 2.100.000 tokens, 
-- 2º Seeds no 4º trimestre de 2023 com 2.100.000 tokens, 
-- 3º Crowdfunding em T2 2024 com 4.200.000 tokens e 
-- 4ª Distribuição no 4º trimestre de 2024 com 4.200.000 tokens. 
-As datas específicas para cada fase de distribuição serão anunciadas posteriormente.
+- Fase de pré-sementes (2º trimestre de 2023) - 2.100.000 tokens: durante a primeira fase, distribuiremos 2.100.000 tokens para os primeiros apoiadores e parceiros estratégicos. Esta fase visa gerar interesse inicial e estabelecer uma base sólida para o token ASPPBR.
+
+- Fase de sementes (4º trimestre de 2024) - 2.100.000 tokens: A segunda fase, programada para o quarto trimestre de 2024, envolverá a distribuição de 2.100.000 tokens adicionais. Esta fase visa um público mais amplo, permitindo que mais indivíduos participem da venda de tokens.
+
+- Fase da Série A (2º trimestre de 2025) - 4.200.000 Tokens: Na terceira fase, planejada para o segundo trimestre de 2025, realizaremos uma campanha da Série A para promover ainda mais o token ASPPBR e atrair uma gama mais ampla de investidores. Um total de 4.200.000 tokens serão disponibilizados para compra durante esta fase.
+
+- Fase da Série B (4º trimestre de 2026) - 4.200.000 Tokens: A fase final está programada para o quarto trimestre de 2026, onde os 4.200.000 tokens restantes serão distribuídos. Esta fase visa facilitar a compra de tokens adicionais e garantir a ampla propriedade de tokens dentro da comunidade.
+
+Observe que as datas específicas para cada fase de distribuição serão anunciadas com bastante antecedência, garantindo transparência e permitindo que os participantes interessados ​​se planejem adequadamente. Estamos empenhados em conduzir o processo de venda de tokens com justiça e integridade, proporcionando igualdade de oportunidades para todos os participantes.
+
+Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero em torno do token ASPPBR, permitindo que indivíduos e organizações se envolvam ativamente no projeto Mundo Digital e contribuam para seu sucesso a longo prazo.
+
 
 ## Alocação de Fundos:
 
