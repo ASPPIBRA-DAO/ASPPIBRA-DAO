@@ -2,14 +2,6 @@
  *Submitted for verification at BscScan.com on 2021-08-04
 */
 
-/**
-
- * Web: https://asppibra.com.br
- * Telegram: https://t.me/MGWBR
- * Twitter: https://twitter.com/asppibra
- *
- *
- */
 pragma solidity 0.5.16;
 
 interface IBEP20 {
