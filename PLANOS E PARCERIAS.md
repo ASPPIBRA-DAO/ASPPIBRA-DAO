@@ -20,36 +20,32 @@ In short, payback is a valuable tool that helps individuals and organizations as
 
 ### Seed  🌱
 
-- Royalties: 100%
-- Interest: 20% per year
+- Royalties: 100 %
+- Interest: 20 % per year
 - Contract: 60 months.
 - Total contract value: BRL 5.040,00
 - Total amount of royalties: BRL 5.040,00
-- Bonus: 50% of fees charged for services and inquiries through the app.
 
 ### Bronze  🥉
 
-- Royalties: 50%
-- Initial monthly fee: From BRL 500.00
-- Interest: 16.6% per year
-- Contract: 3 years
-- Total value of the contract: BRL 18,000.00
-- Total amount of royalties: BRL 2,988.00
-- Bonus: 50% of the fees charged for services and consultations through the application.
+- Royalties: 150 %
+- Interest: 21,4 % per year
+- Contract: 84 months.
+- Total value of the contract: BRL 35.000,00
+- Total amount of royalties: BRL 52.500,00
 
 ### Silver  🥈
 
-- Royalties: 100%
+- Royalties: 200%
 - Initial monthly fee: From BRL 1,000.00
 - Interest: 25% per year
 - Contract: 4 years
 - Total value of the contract: BRL 48,000.00
 - Total amount of royalties: BRL 12,000.00
-- Bonus: 50% of the fees charged for services and consultations through the application.
 
 ### Gold  🥇
 
-- Royalties: 150%
+- Royalties: 250%
 - Initial monthly fee: From BRL 2,500.00
 - Interest: 30% per annum
 - Contract: 5 years
@@ -59,7 +55,7 @@ In short, payback is a valuable tool that helps individuals and organizations as
 
 ### Diamond  💎
 
-- Royalties: 200%
+- Royalties: 400%
 - Initial monthly fee: From BRL 5,000.00
 - Interest: 33.3% per year
 - Contract: 6 years
