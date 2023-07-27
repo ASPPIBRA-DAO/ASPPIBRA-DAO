@@ -106,7 +106,6 @@ Applicable to companies involved in manufacturing or distribution, this process 
 
 **Sales and Marketing:** 
 
-These processes focus on promoting and selling products or services to customers. They involve market research, lead generation, advertising, sales strategies, customer relationship management (CRM) and sales tracking.
 
 <br />
 
