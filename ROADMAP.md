@@ -2,7 +2,7 @@
 
 ![Roadmap](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/7c62d331-d11e-48f7-8884-ef71995c40f1)
 
-Our roadmap is a list of tasks, in a specific order, with a specific timeline. This is how we work, in an organized way and as quickly as possible to deliver the best quality in the services and products offered by **ASPPIBRA-DAO**.
+Our roadmap is a list of tasks in a specific order, with a specific timeline. This is how we work, in an organized way and as quickly as possible to deliver the best quality in the services and products offered by **ASPPIBRA-DAO**.
 Within a company, several core development processes are essential to its growth, efficiency, and success. These processes often differ based on company size, industry and specific needs. Here are some common types of core development processes that **ASPPIBRA-DAO** has applied:
 
 ## 2016
