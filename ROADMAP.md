@@ -4,108 +4,38 @@
 
 Nosso roteiro é uma lista de tarefas, em ordem específica, com cronograma específico. É assim que trabalhamos, de forma organizada e o mais rápido possível para entregar a melhor qualidade nos serviços e produtos oferecidos pela **ASPPIBRA-DAO**.
 
-## Desenvolvimento Geral:
 ## 2016
-Montamos a composição da diretoria.
-Fundação da associação.
 
-## 2017
-1° trimestre: Elaboração dos serviços a ser oferecidos e prestados.
+**Fundação da associação.**  ✅
 
-2° trimestre: Planos e parcerias de associados.
+## 2017/2018
 
-3° trimestre: Lançamento da divulgação de nossos serviços, escritório fixo.
+**Compliance and Regulatory Processes:**  ✅
 
-4° trimestre: Planos em execução, prestação de serviços em andamento, interação com novos associados, mudança da diretoria.
+Businesses need to adhere to various laws, regulations, and industry standards. Compliance processes ensure that the company operates legally and ethically.
 
-## 2018
-1° trimestre: Serviços em andamento, meta alcançada novos associados.
+**Product Development:**  ✅
 
-2° trimestre: Êxito nos serviços em execução.
+This process involves the conception, design and creation of new products or services. It includes market research, ideation, prototyping, testing and final implementation. Product development aims to meet customer needs, remain competitive and drive innovation.
 
-3° trimestre: Aprimoramento dos nossos serviços, inclusão de um sistema de interação digital visando facilitar comunicação com os associados.
-
-4° trimestre: Expandimos os conhecimentos em tecnologia e moeda digital.
-
-## 2019
+## 2019/2020
 1° trimestre: Mudamos a associação para um endereço próprio, serviços em andamento.
 
-2° trimestre: Começamos a aprimorar nossa visão e pensamentos para o mundo digital , buscando melhoria e evolução.
 
-3° trimestre: Serviços em andamento, estávamos no final do trâmite de conclusão do nosso primeiro registro de escritura.
+## 2021/2022
 
-4° trimestre: Interação com Bitcoin, se aprimorando nos conhecimentos do mundo digital, serviços de regularização fundiária em andamento.
+**Software Development:**  ✅
 
-## 2020
-1° trimestre: Interação com o Bitcoin.
+Specifically applicable to companies that develop software or technology products, this process involves planning, coding, testing and releasing applications or software updates. Software development usually follows methodologies such as Agile, Scrum or DevOps to ensure efficient and collaborative development.
 
-2° trimestre: Processo de regularização fundiária em andamento.
-
-3° trimestre: Encaminhamento dos associados para dar início aos trâmites de regularização fundiária.
-
-4° trimestre: Migração do sistema da associação para inclusão ao mundo digital.
-
-## 2021
-
-**4° Trimestre:**
-
-- Pré venda. **Não**
-- Desenvolvimento Central. **OK**
-- Campanhas de Marketing. **Não**
-- Integração aos Sistemas de Checklist. **Não**
-- Currency, Block Chain Explorer e Coin Wallet. **OK**
-- 1° Fase do Airdrop. Não
-- Inscrição para embaixadores e cargos executivos. **OK**
-
-## 2022
+## 2023  🚧🚧  👷🏾👷🏻‍♂️👷‍♀️
 
 **1° Trimestre:**
 
-- Parcerias. **OK**
-- Listagem em Exchanges. **Não**
-- 2° Fase de Venda dos Tokens. **Não**
-- Marketing em Larga Escala. **Não**
-- Venda dos Primeiros NFTs (CO²). **Não**
-- Documentário Sobre os Parques Nacionais Brasileiros. **Não**
-- Documentário Sobre o Agronegócio no Brasil. **Não**
-- Documentário Sobre a Exploração Mineral no Brasil. **Não**
-
-**2° Trimestre:**
-
-- Upgrade site. OK
-- Carteira nativa (ASPPBR). Não
-- Inicio dos Staking e da Pool. Não
-- Implantação do sistema de votação e governança. Não
-- Lançamento de rede test net (Privado). Não
-- 2° Fase do Airdrop. Não
-- Evento test net. Não
-
-**3° Trimestre:**
-
-- Lançamento publico test net. Não
-- Lançamento do 1° Dapp. Não
-- Integração do sistema MGW. Não
-- Auditoria. Não
-- Código aberto. Não
-- Relatório dos resultados inicias. OK
-
-**4° Trimestre:**
-
-- Balanço patrimonial. OK
-- 1° Fase de votação, cargos executivos, secretario, tesoureiro, conselho fiscal e seus suplentes. OK
-- 1° Fase de implementação do sistema de Cofre para (Stablecoin) nativa do projeto. Não
-
-## 2023
-
-**1° Trimestre:**
-
-- Publicação do modelo oficial, Econômico e Governamental. Não
-- 1° Fase Smart Contrat.  Não
-- 1° Fase Defi. Não
+- Publicação do modelo oficial, Econômico e Governamental. 
+- 1° Fase Smart Contrat. V2
+- 1° Fase Defi. ok
 - 1° Fase de implementação sistema DAO. Não
-- 3° Fase de venda dos tokens (ASPPBR). Não
-- 3° Fase do Airdrop. Não
-- Bloco Gêneses. Não
 
 **2° Trimestre:**
 
@@ -117,21 +47,34 @@ Fundação da associação.
 
 **3° Trimestre:**
 
+- Upgrade site. 
 - 1° Fase de implementação do sistema de identidade Digital.
-- interoperabilidade da rede.
-- 4° Fase de venda dos Tokens (ASPPBR).
-- Implementação final do sistema (DAO).
-- Ultima fase do Airdrop.
+- 1° Fase de venda dos Tokens Sementes (ASPPBR).
+- Inscrição para embaixadores e cargos executivos. **OK**
+- Implementação do sistema (DAO).
+- Votação dos cargos executivos e seus suplentes.
 
 **4° Trimestre:**
 
 - Auditoria.
 - Balanço patrimonial.
-- Publicação do relatório com os resultados.
-- 2° Fase de implementação do sistema de Cofre para (Stablecoin) nativa do projeto
+- Código aberto. 
+- Publicação do relatório com os resultados inicias..
+- Centro de treinamento e Inclusão Digital.
 
-- 1° Centro de treinamento e Inclusão Digital (ASPPBR).
-- Lançamento da (Stablecoin) nativa do Projeto (MGW).
+
+## 2024
+
+**1° Trimestre:**
+
+- Parcerias. **OK**
+- Listagem em Exchanges. **Não**
+- 2° Fase de Venda dos Tokens. **Não**
+- Marketing em Larga Escala. **Não**
+- Venda dos Primeiros NFTs (CO²). **Não**
+- Documentário Sobre os Parques Nacionais Brasileiros. **Não**
+- Documentário Sobre o Agronegócio no Brasil. **Não**
+- Documentário Sobre a Exploração Mineral no Brasil. **Não**
 
 <br />
 
