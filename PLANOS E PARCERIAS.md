@@ -18,55 +18,56 @@ Em suma, o retorno é uma ferramenta valiosa que ajuda indivíduos e organizaç�
 
 ## Temos 5 opções de Parcerias exclusivas disponíveis para nossos usuários e associados:
 
-### Semente 🌱
+### Seed  🌱
 
+Seed 🌱
 - Royalties: 10%
-- Mensalidade inicial: A partir de R$ 65,00
-- Juros: 10% ao ano
-- Contrato: 5 anos
-- Valor total do contrato: R$ 3.900,00
-- Valor total dos royalties: R$ 390,00
-- Bônus: 50% das taxas cobradas por serviços e consultas através do aplicativo.
+- Initial monthly fee: From BRL 65.00
+- Interest: 10% per year
+- Contract: 5 years
+- Total contract value: BRL 3,900.00
+- Total amount of royalties: BRL 390.00
+- Bonus: 50% of fees charged for services and inquiries through the app.
 
-### Bronze 🥉
+### Bronze  🥉
 
 - Royalties: 50%
-- Mensalidade inicial: A partir de R$ 500,00
-- Juros: 16,6% ao ano
-- Contrato: 3 anos
-- Valor total do contrato: R$ 18.000,00
-- Valor total dos royalties: R$ 2.988,00
-- Bônus: 50% das taxas cobradas por serviços e consultas através do aplicativo.
+- Initial monthly fee: From BRL 500.00
+- Interest: 16.6% per year
+- Contract: 3 years
+- Total value of the contract: BRL 18,000.00
+- Total amount of royalties: BRL 2,988.00
+- Bonus: 50% of the fees charged for services and consultations through the application.
 
-### Prata 🥈
+### Silver  🥈
 
 - Royalties: 100%
-- Mensalidade inicial: A partir de R$ 1.000,00
-- Juros: 25% ao ano
-- Contrato: 4 anos
-- Valor total do contrato: R$ 48.000,00
-- Valor total dos royalties: R$ 12.000,00
-- Bônus: 50% das taxas cobradas por serviços e consultas através do aplicativo.
+- Initial monthly fee: From BRL 1,000.00
+- Interest: 25% per year
+- Contract: 4 years
+- Total value of the contract: BRL 48,000.00
+- Total amount of royalties: BRL 12,000.00
+- Bonus: 50% of the fees charged for services and consultations through the application.
 
-### Ouro 🥇
+### Gold  🥇
 
 - Royalties: 150%
-- Mensalidade inicial: A partir de R$ 2.500,00
-- Juros: 30% ao ano
-- Contrato: 5 anos
-- Valor total do contrato: R$ 150.000,00
-- Valor total dos royalties: R$ 45.000,00
-- Bônus: 50% das taxas cobradas por serviços e consultas através do aplicativo.
+- Initial monthly fee: From BRL 2,500.00
+- Interest: 30% per annum
+- Contract: 5 years
+- Total value of the contract: BRL 150,000.00
+- Total amount of royalties: BRL 45,000.00
+- Bonus: 50% of the fees charged for services and consultations through the application.
 
-### Diamante 💎
+### Diamond  💎
 
 - Royalties: 200%
-- Mensalidade inicial: A partir de R$ 5.000,00
-- Juros: 33,3% ao ano
-- Contrato: 6 anos
-- Valor total do contrato: R$ 360.000,00
-- Valor total dos royalties: R$ 119.880,00
-- Bônus: 50% das taxas cobradas por serviços e consultas através do aplicativo.
+- Initial monthly fee: From BRL 5,000.00
+- Interest: 33.3% per year
+- Contract: 6 years
+- Total value of the contract: BRL 360,000.00
+- Total amount of royalties: BRL 119,880.00
+- Bonus: 50% of the fees charged for services and consultations through the application.
 
 **Observação:**
 
