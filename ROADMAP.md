@@ -2,11 +2,12 @@
 
 ![Roadmap](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/7c62d331-d11e-48f7-8884-ef71995c40f1)
 
-Nosso roteiro é uma lista de tarefas, em ordem específica, com cronograma específico. É assim que trabalhamos, de forma organizada e o mais rápido possível para entregar a melhor qualidade nos serviços e produtos oferecidos pela **ASPPIBRA-DAO**.
+Our roadmap is a list of tasks, in a specific order, with a specific timeline. This is how we work, in an organized way and as quickly as possible to deliver the best quality in the services and products offered by **ASPPIBRA-DAO**.
+Within a company, several core development processes are essential to its growth, efficiency, and success. These processes often differ based on company size, industry and specific needs. Here are some common types of core development processes that **ASPPIBRA-DAO** has applied:
 
 ## 2016
 
-**Fundação da associação.**  ✅
+**Foundation of the association.**  ✅
 
 ## 2017/2018
 
@@ -47,53 +48,65 @@ Specifically applicable to companies that develop software or technology product
 
 Providing excellent customer support is crucial to retaining customers and ensuring their satisfaction. Customer support processes include problem resolution, ticket systems, feedback collection, and continuous improvement.
 
-## 2023  🚧  👷🏾 👷🏻‍♂️ 👷‍♀️  🚧
+## 2023/2024  🚧  👷🏾 👷🏻‍♂️ 👷‍♀️  🚧
 
-**1° Trimestre:**
+**Sales and Marketing:** 
 
-- Publicação do modelo oficial, Econômico e Governamental. 
-- 1° Fase Smart Contrat. V2
-- 1° Fase Defi. ok
-- 1° Fase de implementação sistema DAO. Não
+These processes focus on promoting and selling products or services to customers. They involve market research, lead generation, advertising, sales strategies, customer relationship management (CRM) and sales tracking.
 
-**2° Trimestre:**
+**1st Quarter:**
 
-- 2° Fase Smart Contrat.
-- 2° Fase Defi (Swap).
-- 2° Fase de votação, cargos executivos, Presidência, Vice Presidência e suplentes.
-- Publicação de todos integrantes dos cargos executivos e suplentes.
+- Publication of the official model, Economic and Governmental.
+- 1st Phase Smart Contract. V2
+- 1st Definitive Phase.
+- 1st phase of DAO system implementation.
 
+**2nd Quarter:**
 
-**3° Trimestre:**
-
-- Upgrade site. 
-- 1° Fase de implementação do sistema de identidade Digital.
-- 1° Fase de venda dos Tokens Sementes (ASPPBR).
-- Inscrição para embaixadores e cargos executivos. **OK**
-- Implementação do sistema (DAO).
-- Votação dos cargos executivos e seus suplentes.
-
-**4° Trimestre:**
-
-- Auditoria.
-- Balanço patrimonial.
-- Código aberto. 
-- Publicação do relatório com os resultados inicias..
-- Centro de treinamento e Inclusão Digital.
+- 2nd Phase Smart Contract.
+- 2nd Defi Phase (Swap).
+- 2nd Round of voting, executive positions, Presidency, Vice Presidency and substitutes.
+- Publication of all members of executive positions and alternates.
 
 
-## 2024
+**3rd Quarter:**
 
-**1° Trimestre:**
+- Upgrade site.
+- 1st Phase of implementation of the Digital identity system.
+- 1st Sale of Seed Tokens (ASPPBR).
+- Registration for ambassadors and executive positions.
+- Implementation of the system (DAO).
+- Voting for executive positions and their alternates.
 
-- Parcerias. **OK**
-- Listagem em Exchanges. **Não**
-- 2° Fase de Venda dos Tokens. **Não**
-- Marketing em Larga Escala. **Não**
-- Venda dos Primeiros NFTs (CO²). **Não**
-- Documentário Sobre os Parques Nacionais Brasileiros. **Não**
-- Documentário Sobre o Agronegócio no Brasil. **Não**
-- Documentário Sobre a Exploração Mineral no Brasil. **Não**
+**4th Quarter:**
+
+- Partnerships.
+- Audit.
+- Open code.
+- Balance sheet.
+- Listing on Exchanges.
+- Publication of the report with the initial results.
+- Training and Digital Inclusion Center.
+- 2nd Token Sale Phase.
+- Large Scale Marketing.
+- Sale of the First NFTs (CO²).
+- Documentary About Brazilian National Parks.
+- Documentary About Agribusiness in Brazil.
+- Documentary About Mineral Exploitation in Brazil.
+
+## 2025/2026
+
+**Quality Assurance and Testing:** 
+
+This process ensures that products or services meet specified quality standards. It involves rigorous testing, bug reporting and feedback loops to improve the overall quality of deliverables.
+
+**Supply Chain Management:** 
+
+Applicable to companies involved in manufacturing or distribution, this process deals with sourcing, procurement, inventory management, logistics and distribution to ensure smooth operations and cost efficiency.
+
+**Sales and Marketing:** 
+
+These processes focus on promoting and selling products or services to customers. They involve market research, lead generation, advertising, sales strategies, customer relationship management (CRM) and sales tracking.
 
 <br />
 
