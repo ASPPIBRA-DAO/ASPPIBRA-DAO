@@ -39,6 +39,10 @@ This process involves planning, organizing and executing projects to achieve spe
 
 Specifically applicable to companies that develop software or technology products, this process involves planning, coding, testing and releasing applications or software updates. Software development usually follows methodologies such as Agile, Scrum or DevOps to ensure efficient and collaborative development.
 
+**Customer Support and Service:**  ✅
+
+Providing excellent customer support is crucial to retaining customers and ensuring their satisfaction. Customer support processes include problem resolution, ticket systems, feedback collection, and continuous improvement.
+
 ## 2023  🚧  👷🏾 👷🏻‍♂️ 👷‍♀️  🚧
 
 **1° Trimestre:**
