@@ -22,10 +22,10 @@ In short, payback is a valuable tool that helps individuals and organizations as
 
 Seed 🌱
 - Royalties: 10%
-- Initial monthly fee: From BRL 65.00
+- Initial monthly fee: From BRL 84,00
 - Interest: 10% per year
-- Contract: 5 years
-- Total contract value: BRL 3,900.00
+- Contract: 60 months/5 years
+- Total contract value: BRL 5.040,00
 - Total amount of royalties: BRL 390.00
 - Bonus: 50% of fees charged for services and inquiries through the app.
 
