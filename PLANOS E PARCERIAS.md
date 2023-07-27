@@ -69,12 +69,12 @@ Seed 🌱
 - Total amount of royalties: BRL 119,880.00
 - Bonus: 50% of the fees charged for services and consultations through the application.
 
-**Observação:**
+**Observation:**
 
-- Cada opção permite pagamento mensal ou anual.
-- Os usuários não são obrigados a aderir ou permanecer associados contra sua vontade.
-- Nosso plano de parceria exclusivo não é uma oferta de investimento e não deve ser considerado como tal.
-- No caso de recebimento antecipado dos Royalties, o valor será reduzido pela metade, e o prazo mínimo para solicitação de saque não poderá ser inferior a 1/3 do prazo inicial da opção escolhida.
+- Each option allows monthly or annual payment.
+- Users are not obligated to join or remain associated against their will.
+- Our exclusive partnership plan is not an investment offer and should not be considered as such.
+- In the case of early receipt of Royalties, the amount will be reduced by half, and the minimum period for requesting a withdrawal cannot be less than 1/3 of the initial period of the chosen option.
 
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
