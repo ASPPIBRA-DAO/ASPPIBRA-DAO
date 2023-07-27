@@ -14,21 +14,32 @@ Nosso roteiro é uma lista de tarefas, em ordem específica, com cronograma espe
 
 Businesses need to adhere to various laws, regulations, and industry standards. Compliance processes ensure that the company operates legally and ethically.
 
+**Research and Development (R&D):**  ✅
+
+R&D processes focus on exploring new technologies, innovations and improvements in existing products or services. It stimulates creativity and helps the company stay ahead of the competition.
+
+## 2019/2020
+
+**Talent Development:**  ✅
+
+Companies need to invest in the growth and development of their employees. Talent development processes include training, workshops, mentoring, performance reviews and career planning to help employees reach their full potential.
+
 **Product Development:**  ✅
 
 This process involves the conception, design and creation of new products or services. It includes market research, ideation, prototyping, testing and final implementation. Product development aims to meet customer needs, remain competitive and drive innovation.
 
-## 2019/2020
-1° trimestre: Mudamos a associação para um endereço próprio, serviços em andamento.
-
 
 ## 2021/2022
+
+**Project Management:**  ✅
+
+This process involves planning, organizing and executing projects to achieve specific objectives within defined constraints, such as time, budget and resources. Project management helps ensure that projects are completed successfully and on time.
 
 **Software Development:**  ✅
 
 Specifically applicable to companies that develop software or technology products, this process involves planning, coding, testing and releasing applications or software updates. Software development usually follows methodologies such as Agile, Scrum or DevOps to ensure efficient and collaborative development.
 
-## 2023  🚧🚧  👷🏾👷🏻‍♂️👷‍♀️
+## 2023  🚧  👷🏾 👷🏻‍♂️ 👷‍♀️  🚧
 
 **1° Trimestre:**
 
