@@ -36,16 +36,15 @@ In short, payback is a valuable tool that helps individuals and organizations as
 
 ### Silver  🥈
 
-- Royalties: 200%
-- Initial monthly fee: From BRL 1,000.00
+- Royalties: 250 %
 - Interest: 25% per year
-- Contract: 4 years
-- Total value of the contract: BRL 48,000.00
-- Total amount of royalties: BRL 12,000.00
+- Contract: 108 months.
+- Total value of the contract: BRL 70.000,00
+- Total amount of royalties: BRL 245.000,00
 
 ### Gold  🥇
 
-- Royalties: 250%
+- Royalties: 350 %
 - Initial monthly fee: From BRL 2,500.00
 - Interest: 30% per annum
 - Contract: 5 years
@@ -55,7 +54,7 @@ In short, payback is a valuable tool that helps individuals and organizations as
 
 ### Diamond  💎
 
-- Royalties: 400%
+- Royalties: 500%
 - Initial monthly fee: From BRL 5,000.00
 - Interest: 33.3% per year
 - Contract: 6 years
