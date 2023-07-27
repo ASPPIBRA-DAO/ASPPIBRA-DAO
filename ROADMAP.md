@@ -35,6 +35,10 @@ This process involves the conception, design and creation of new products or ser
 
 This process involves planning, organizing and executing projects to achieve specific objectives within defined constraints, such as time, budget and resources. Project management helps ensure that projects are completed successfully and on time.
 
+**Financial Management:**  ✅
+
+This process involves managing the company's finances, including budgeting, financial planning, accounting, and financial reporting. Proper financial management ensures the stability and growth of the company.
+
 **Software Development:**  ✅
 
 Specifically applicable to companies that develop software or technology products, this process involves planning, coding, testing and releasing applications or software updates. Software development usually follows methodologies such as Agile, Scrum or DevOps to ensure efficient and collaborative development.
