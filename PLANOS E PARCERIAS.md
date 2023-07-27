@@ -1,4 +1,4 @@
-# [Planos e Parcerias](https://www.asppibra.com.br/)
+# [Plans and Partnerships](https://www.asppibra.com.br/)
 
 ![Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/c7540411-23ec-466d-bc25-f5ca047107e4)
 
@@ -16,7 +16,7 @@ Embora o payback ofereça uma medida direta de liquidez e avaliação de risco, 
 
 Em suma, o retorno é uma ferramenta valiosa que ajuda indivíduos e organizações a avaliar o tempo necessário para recuperar seus investimentos iniciais. Ele fornece informações sobre a dinâmica do fluxo de caixa e os riscos potenciais associados a um projeto ou oportunidade de investimento.
 
-## Temos 5 opções de Parcerias exclusivas disponíveis para nossos usuários e associados:
+## We have 5 exclusive Partnership options available to our users and associates:
 
 ### Seed  🌱
 
