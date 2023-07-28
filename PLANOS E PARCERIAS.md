@@ -20,50 +20,50 @@ In short, payback is a valuable tool that helps individuals and organizations as
 
 
 ### Seed Modality:  🌱
-Royalties: 99.6%
-Monthly Interest: 1.66%
-Annual Interest: 19.92%
-Contract Duration: 60 months
-Total Amount of Royalties: 99.6% of the Total Contract Value
-Total Amount of Monthly Interest: 1.66% of the Total Contract Value for each month
-Total Amount of Annual Interest: 19.92% of the Total Contract Value for each year
+- Royalties: 99.6%
+- Monthly Interest: 1.66%
+- Annual Interest: 19.92%
+- Contract Duration: 60 months
+- Total Amount of Royalties: 99.6% of the Total Contract Value
+- Total Amount of Monthly Interest: 1.66% of the Total Contract Value for each month
+- Total Amount of Annual Interest: 19.92% of the Total Contract Value for each year
 
 
 ### Bronze Modality:  🥉
-Royalties: 249.6%
-Monthly Interest: 2.6%
-Annual Interest: 31.2%
-Contract Duration: 96 months
-Total Amount of Royalties: 249.6% of the Total Contract Value
-Total Amount of Monthly Interest: 2.6% of the Total Contract Value for each month
-Total Amount of Annual Interest: 31.2% of the Total Contract Value for each year
+- Royalties: 249.6%
+- Monthly Interest: 2.6%
+- Annual Interest: 31.2%
+- Contract Duration: 96 months
+- Total Amount of Royalties: 249.6% of the Total Contract Value
+- Total Amount of Monthly Interest: 2.6% of the Total Contract Value for each month
+- Total Amount of Annual Interest: 31.2% of the Total Contract Value for each year
 
 ### Silver Modality:  🥈
-Royalties: 349.8%
-Monthly Interest: 2.65%
-Annual Interest: 31.8%
-Contract Duration: 132 months
-Total Amount of Royalties: 349.8% of the Total Contract Value
-Total Amount of Monthly Interest: 2.65% of the Total Contract Value for each month
-Total Amount of Annual Interest: 31.8% of the Total Contract Value for each year
+- Royalties: 349.8%
+- Monthly Interest: 2.65%
+- Annual Interest: 31.8%
+- Contract Duration: 132 months
+- Total Amount of Royalties: 349.8% of the Total Contract Value
+- Total Amount of Monthly Interest: 2.65% of the Total Contract Value for each month
+- Total Amount of Annual Interest: 31.8% of the Total Contract Value for each year
 
 ### Gold Modality:  🥇
-Royalties: 448.56%
-Monthly Interest: 2.67%
-Annual Interest: 32.04%
-Contract Duration: 168 months
-Total Amount of Royalties: 448.56% of the Total Contract Value
-Total Amount of Monthly Interest: 2.67% of the Total Contract Value for each month
-Total Amount of Annual Interest: 32.04% of the Total Contract Value for each year
+- Royalties: 448.56%
+- Monthly Interest: 2.67%
+- Annual Interest: 32.04%
+- Contract Duration: 168 months
+- Total Amount of Royalties: 448.56% of the Total Contract Value
+- Total Amount of Monthly Interest: 2.67% of the Total Contract Value for each month
+- Total Amount of Annual Interest: 32.04% of the Total Contract Value for each year
 
 ### Diamond Modality:  💎
-Royalties: 599.93%
-Monthly Interest: 2.94%
-Annual Interest: 35.29%
-Contract Duration: 204 months
-Total Amount of Royalties: 599.93% of the Total Contract Value
-Total Amount of Monthly Interest: 2.94% of the Total Contract Value for each month
-Total Amount of Annual Interest: 35.29% of the Total Contract Value for each year
+- Royalties: 599.93%
+- Monthly Interest: 2.94%
+- Annual Interest: 35.29%
+- Contract Duration: 204 months
+- Total Amount of Royalties: 599.93% of the Total Contract Value
+- Total Amount of Monthly Interest: 2.94% of the Total Contract Value for each month
+- Total Amount of Annual Interest: 35.29% of the Total Contract Value for each year
 
 
 **Observation:**
