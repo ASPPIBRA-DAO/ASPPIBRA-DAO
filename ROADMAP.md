@@ -1,4 +1,4 @@
-# [ROAD MAP](https://www.asppibra.com.br/)
+# [ROADMAP](https://www.asppibra.com.br/)
 
 ![Roadmap](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/7c62d331-d11e-48f7-8884-ef71995c40f1)
 
@@ -87,7 +87,6 @@ These processes focus on promoting and selling products or services to customers
 - Listing on Exchanges.
 - Publication of the report with the initial results.
 - Training and Digital Inclusion Center.
-- 2nd Token Sale Phase.
 - Large Scale Marketing.
 - Sale of the First NFTs (CO²).
 - Documentary About Brazilian National Parks.
