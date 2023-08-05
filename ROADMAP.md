@@ -64,7 +64,7 @@ These processes focus on promoting and selling products or services to customers
 
 - 2nd Phase Smart Contract.
 - 2nd Defi Phase (Swap).
-- 2nd Round of voting, executive positions, Presidency, Vice Presidency and substitutes.
+- 1st Registration for ambassadors and executive positions.
 
 
 **3rd Quarter:**
@@ -72,7 +72,7 @@ These processes focus on promoting and selling products or services to customers
 - Upgrade site.
 - 1st Phase of implementation of the Digital identity system.
 - 1st Sale of Seed Tokens (ASPPBR).
-- Registration for ambassadors and executive positions.
+- 2nd Registration for ambassadors and executive positions.
 - Implementation of the system (DAO).
 - Voting for executive positions and their alternates.
 - Publication of all members of executive positions and alternates.
