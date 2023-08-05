@@ -58,7 +58,6 @@ These processes focus on promoting and selling products or services to customers
 
 - Publication of the official model, Economic and Governmental.
 - 1st Phase Smart Contract. V2
-- 1st Definitive Phase.
 - 1st phase of DAO system implementation.
 
 **2nd Quarter:**
@@ -66,7 +65,6 @@ These processes focus on promoting and selling products or services to customers
 - 2nd Phase Smart Contract.
 - 2nd Defi Phase (Swap).
 - 2nd Round of voting, executive positions, Presidency, Vice Presidency and substitutes.
-- Publication of all members of executive positions and alternates.
 
 
 **3rd Quarter:**
@@ -77,6 +75,7 @@ These processes focus on promoting and selling products or services to customers
 - Registration for ambassadors and executive positions.
 - Implementation of the system (DAO).
 - Voting for executive positions and their alternates.
+- Publication of all members of executive positions and alternates.
 
 **4th Quarter:**
 
