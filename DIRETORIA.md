@@ -13,43 +13,8 @@
 
 ## Colaboradores:
 
-- Tarcísio Quintilhiano (Rio de Janeiro)
-- Rodrigo Gonçalves (Rio de Janeiro)
-- Neuceli Rodrigues (Rio de Janeiro)
-- Cassio Rodrigues (Rio de Janeiro)
-- Fabiana Fróes (Rio de Janeiro)
-- Mauricio Braga (Rio de Janeiro)
 - Gustavo Novais (São Paulo)
-- Marco Antonio (Rio de Janeiro)
-- Paulo Roberto (Rio de Janeiro)
-- José Batista (Rio de Janeiro)
 - César Marcos (Rio de Janeiro)
-
-## Embaixador:
-
-- Carlos Roberto (Rio de Janeiro)
-- Ygor Airton (Acre)
-- Andreison de Castro (Ceará)
-
-## Colaboradores:
-
-- Tarcísio Quintilhiano (Rio de Janeiro)
-- Rodrigo Gonçalves (Rio de Janeiro)
-- Neuceli Rodrigues (Rio de Janeiro)
-- Cassio Rodrigues (Rio de Janeiro)
-- Fabiana Fróes (Rio de Janeiro)
-- Mauricio Braga (Rio de Janeiro)
-- Gustavo Novais (São Paulo)
-- Marco Antonio (Rio de Janeiro)
-- Paulo Roberto (Rio de Janeiro)
-- José Batista (Rio de Janeiro)
-- César Marcos (Rio de Janeiro)
-
-
-
-
-
-
 
 ### Diretor Executivo (CEO)
 Também conhecido como Diretor Geral, Presidente Executivo ou CEO, o Diretor Executivo, normalmente, é o cargo mais alto da hierarquia operacional de uma empresa.
