@@ -34,11 +34,9 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 
 ## Distribuição dos Tokens:
 
-Distribuição de Tokens: Da oferta total de 21.000.000 de tokens, destinamos 60% para distribuição, totalizando 12.600.000 de tokens. A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:
-
 | Distribuição de Tokens                       |                                                                                                                                                                                                                      |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Total de Tokens                              | 21.000.000                                                                                                                                                                                                          |
+| Oferta Total               | 21.000.000 de tokens                                                                                                                                                                                                         |
 | Distribuição               | Destinamos 60% para distribuição, totalizando 12.600.000 de tokens.                                                                                                                                                                                             |
 |                                                                                                             |                                                                                                                                                                                                                      |
 | Fases de Distribuição:                       | A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:                                                                                                                                                   |
