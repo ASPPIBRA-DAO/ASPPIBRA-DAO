@@ -72,15 +72,17 @@ Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero 
 
 - A distribuição primária irá gerar 100% dos recursos para o fundo **Mundo Verde**. O objetivo deste fundo é financiar as despesas de execução do projeto. Ele será reabastecido por meio de mensalidades dos membros, vendas de créditos de carbono, vendas de NFTs, taxas cobradas por meio do aplicativo e parcerias com o setor privado. A cada 5 anos, será feita uma grande distribuição de royalties, no valor de 70% do fundo Mundo Verde. Essa abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos na realização das atividades votadas pela comunidade. Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.
 
-### Divisão de Recompensas:
+## Divisão de Recompensas:
 
-- A receita do projeto não é fixa, mas sustentável.
-70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas.
-Os royalties serão repartidos entre associados e profissionais que estejam em dia com suas obrigações.
+| Divisão de Recompensas  |                                 |
+|--------------------------|---------------------------------|
+| Receita do Projeto       | Não fixa, mas sustentável.       |
+| Percentual de Taxas      | 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas. |
+| Royalties                | Serão repartidos entre associados e profissionais em dia com suas obrigações. |
+| Detentores de Tokens     | 50% das taxas irão para os detentores de tokens. |
+| Fundo Perpétuo           | 30% serão mantidos como um fundo perpétuo. |
+| Equipe de Desenvolvimento | Os 20% restantes serão destinados à equipe de desenvolvimento e ao setor de Recursos Humanos. |
 
-- 50% das taxas irão para os detentores de tokens.
-- 30% serão mantidos como um fundo perpétuo.
-- Os 20% restantes serão destinados à equipe de desenvolvimento e ao setor de Recursos Humanos.
 
 ## Pools de Liquidez:
 
@@ -99,18 +101,6 @@ Os royalties serão repartidos entre associados e profissionais que estejam em d
 | Objetivo do Fundo Mundo Verde  | Financiar despesas de execução do projeto |
 | Reabastecimento do Fundo | Mensalidades de membros, vendas de créditos de carbono, vendas de NFTs, taxas do aplicativo e parcerias privadas |
 | Distribuição de Royalties (A cada 5 anos)  | 70% do fundo Mundo Verde para a comunidade, 30% para liquidez |
-
-## Divisão de Recompensas:
-
-| Divisão de Recompensas |             |
-|-------------------------|-------------|
-| Receita do Projeto      | Não fixa, mas sustentável |
-| 70% de todas as taxas  | Distribuídas |
-| Royalties               | Entre associados e profissionais em dia com suas obrigações |
-| 50% das taxas para detentores de tokens |             |
-| 30% mantidos como fundo perpétuo  |             |
-| 20% destinados à equipe de desenvolvimento e RH  |             |
-
 
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
