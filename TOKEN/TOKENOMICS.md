@@ -13,7 +13,7 @@ Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os 
 
 O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.
 
-# <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
+# <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
 | Detalhes do Token                    |                                                       |
 |--------------------------------------|-------------------------------------------------------|
@@ -53,7 +53,7 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
     </a>
 </div>
 
-# <h2 align="center">📈 Distribuição dos Tokens:</h2>
+# <h2 align="center">Distribuição dos Tokens:</h2>
 
 | Distribuição de Tokens                       |                                                                                                                                                                                                                      |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
