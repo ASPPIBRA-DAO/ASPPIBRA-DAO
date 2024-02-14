@@ -109,12 +109,16 @@ Esses tokens serão bloqueados em um pool de liquidez para garantir taxas de ren
 | 30% mantidos como fundo perpétuo  |             |
 | 20% destinados à equipe de desenvolvimento e RH  |             |
 
+
 ## Pools de Liquidez:
 
-| Objetivo               | Ambiente estável e seguro para usuários, associados e profissionais se conectarem |
-|------------------------|-----------------|
-| Tokens Alocados        | 6.300.000 tokens permanentemente para liquidez |
-| Inclui                  | 20% do fundo perpétuo e 10% do setor de RH |
+| Objetivo            | Proporcionar um ambiente estável e seguro para usuários, associados e profissionais conectarem-se com aqueles que buscam parcerias, serviços e produtos. O projeto desenvolve serviços descentralizados para oferecer segurança, transparência e precisão. A Pool de Liquidez descentralizada estará acessível a todos os participantes, respaldada por 6.300.000 tokens permanentemente alocados para garantir liquidez infinita. Esta alocação inclui: |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tokens Alocados     | 6.300.000 tokens permanentemente alocados para liquidez.                                                                                                                                                                                                                                                                                    |
+| Inclui              | - 20% dos tokens do fundo perpétuo.                                                                                                                                                                                                                                                                                                          |
+|                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                                                                                                                                                                                                                                                                                |
+| Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                                                                                                                                                       |
+
 
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
