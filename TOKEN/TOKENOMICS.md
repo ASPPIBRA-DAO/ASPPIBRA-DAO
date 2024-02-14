@@ -1,6 +1,6 @@
 # [Tokenomics](https://www.asppibra.com.br/)
 
-![Crowdfunding ](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/3dcfdc5b-42cc-4916-b7fd-435b89722d1e)
+![Tokenomics](https://github.com/ASPPIBRA-DAO/Imagens/blob/95e4c54f8242f5aa36905615eb9e9c72001269c0/Svg/Tokenomics.svg)
 
  ## Introdução:
 
