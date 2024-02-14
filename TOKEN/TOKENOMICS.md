@@ -70,7 +70,18 @@ Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero 
 
 ## Alocação de Fundos:
 
-- A distribuição primária irá gerar 100% dos recursos para o fundo **Mundo Verde**. O objetivo deste fundo é financiar as despesas de execução do projeto. Ele será reabastecido por meio de mensalidades dos membros, vendas de créditos de carbono, vendas de NFTs, taxas cobradas por meio do aplicativo e parcerias com o setor privado. A cada 5 anos, será feita uma grande distribuição de royalties, no valor de 70% do fundo Mundo Verde. Essa abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos na realização das atividades votadas pela comunidade. Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.
+| Alocação de Fundos                                      |                                                                                                                                                                            |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Distribuição Primária                                   | 100% dos recursos gerados serão destinados ao fundo Mundo Verde.                                                                                                           |
+| Objetivo do Fundo Mundo Verde                            | Financiar as despesas de execução do projeto.                                                                                                                               |
+| Reabastecimento do Fundo                                | - Mensalidades dos membros.                                                                                                                                               |
+|                                                          | - Vendas de créditos de carbono.                                                                                                                                         |
+|                                                          | - Vendas de NFTs.                                                                                                                                                        |
+|                                                          | - Taxas cobradas por meio do aplicativo.                                                                                                                                |
+|                                                          | - Parcerias com o setor privado.                                                                                                                                        |
+| Distribuição de Royalties (A cada 5 anos)                | Uma grande distribuição de royalties será realizada a cada 5 anos, no valor de 70% do fundo Mundo Verde. Esta abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos nas atividades votadas pela comunidade. |
+| 30% Restantes para Liquidez                              | Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.                                                                |
+
 
 ## Divisão de Recompensas:
 
@@ -92,15 +103,6 @@ Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero 
 | Inclui              | - 20% dos tokens do fundo perpétuo.                                                                                                                                                                                                                                                                                                          |
 |                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                                                                                                                                                                                                                                                                                |
 | Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                                                                                                                                                       |
-
-## Alocação de Recursos:
-
-| Alocação de Recursos |             |
-|-------------------------|-------------|
-| Alocação Primária           | 100% para o fundo **Mundo Verde** |
-| Objetivo do Fundo Mundo Verde  | Financiar despesas de execução do projeto |
-| Reabastecimento do Fundo | Mensalidades de membros, vendas de créditos de carbono, vendas de NFTs, taxas do aplicativo e parcerias privadas |
-| Distribuição de Royalties (A cada 5 anos)  | 70% do fundo Mundo Verde para a comunidade, 30% para liquidez |
 
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
