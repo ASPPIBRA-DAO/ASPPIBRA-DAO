@@ -89,6 +89,33 @@ Os royalties serão repartidos entre associados e profissionais que estejam em d
 - 10% dos tokens destinados ao setor de RH. 
 Esses tokens serão bloqueados em um pool de liquidez para garantir taxas de rendimento para o fundo Mundo Verde
 
+## Alocação de Recursos:
+
+| Alocação de Recursos |             |
+|-------------------------|-------------|
+| Alocação Primária           | 100% para o fundo **Mundo Verde** |
+| Objetivo do Fundo Mundo Verde  | Financiar despesas de execução do projeto |
+| Reabastecimento do Fundo | Mensalidades de membros, vendas de créditos de carbono, vendas de NFTs, taxas do aplicativo e parcerias privadas |
+| Distribuição de Royalties (A cada 5 anos)  | 70% do fundo Mundo Verde para a comunidade, 30% para liquidez |
+
+## Divisão de Recompensas:
+
+| Divisão de Recompensas |             |
+|-------------------------|-------------|
+| Receita do Projeto      | Não fixa, mas sustentável |
+| 70% de todas as taxas  | Distribuídas |
+| Royalties               | Entre associados e profissionais em dia com suas obrigações |
+| 50% das taxas para detentores de tokens |             |
+| 30% mantidos como fundo perpétuo  |             |
+| 20% destinados à equipe de desenvolvimento e RH  |             |
+
+## Pools de Liquidez:
+
+| Objetivo               | Ambiente estável e seguro para usuários, associados e profissionais se conectarem |
+|------------------------|-----------------|
+| Tokens Alocados        | 6.300.000 tokens permanentemente para liquidez |
+| Inclui                  | 20% do fundo perpétuo e 10% do setor de RH |
+
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
