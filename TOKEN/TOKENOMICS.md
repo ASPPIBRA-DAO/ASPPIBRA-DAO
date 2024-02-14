@@ -36,35 +36,23 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 
 Distribuição de Tokens: Da oferta total de 21.000.000 de tokens, destinamos 60% para distribuição, totalizando 12.600.000 de tokens. A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:
 
-- Fase de pré-sementes (1º trimestre de 2024) - 2.100.000 tokens: durante a primeira fase, distribuiremos 2.100.000 tokens para os primeiros apoiadores e parceiros estratégicos. Esta fase visa gerar interesse inicial e estabelecer uma base sólida para o token ASPPBR.
-
-- Fase de sementes (4º trimestre de 2024) - 2.100.000 tokens: A segunda fase, programada para o quarto trimestre de 2024, envolverá a distribuição de 2.100.000 tokens adicionais. Esta fase visa um público mais amplo, permitindo que mais indivíduos participem da venda de tokens.
-
-- Fase da Série A (2º trimestre de 2025) - 4.200.000 Tokens: Na terceira fase, planejada para o segundo trimestre de 2025, realizaremos uma campanha da Série A para promover ainda mais o token ASPPBR e atrair uma gama mais ampla de investidores. Um total de 4.200.000 tokens serão disponibilizados para compra durante esta fase.
-
-- Fase da Série B (4º trimestre de 2026) - 4.200.000 Tokens: A fase final está programada para o quarto trimestre de 2026, onde os 4.200.000 tokens restantes serão distribuídos. Esta fase visa facilitar a compra de tokens adicionais e garantir a ampla propriedade de tokens dentro da comunidade.
-
-Observe que as datas específicas para cada fase de distribuição serão anunciadas com bastante antecedência, garantindo transparência e permitindo que os participantes interessados ​​se planejem adequadamente. Estamos empenhados em conduzir o processo de venda de tokens com justiça e integridade, proporcionando igualdade de oportunidades para todos os participantes.
-
-Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero em torno do token ASPPBR, permitindo que indivíduos e organizações se envolvam ativamente no projeto Mundo Digital e contribuam para seu sucesso a longo prazo.
-
-## Distribuição dos Tokens:
-
 | Distribuição de Tokens                       |                                                                                                                                                                                                                      |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Total de Tokens                              | 21.000.000                                                                                                                                                                                                          |
 | Alocados para Distribuição                   | 60% (12.600.000 tokens)                                                                                                                                                                                             |
 |                                                                                                             |                                                                                                                                                                                                                      |
 | Fases de Distribuição:                       |                                                                                                                                                                                                                      |
-| - Fase de pré-sementes (1º trimestre de 2024) | 2.100.000 tokens: Durante esta fase, distribuiremos 2.100.000 tokens para os primeiros apoiadores e parceiros estratégicos. Esta fase visa gerar interesse inicial e estabelecer uma base sólida para o token ASPPBR.             |
+| - Pré-sementes (1º trimestre de 2024) | 2.100.000 tokens: durante a primeira fase, distribuiremos 2.100.000 tokens para os primeiros apoiadores e parceiros estratégicos. Esta fase visa gerar interesse inicial e estabelecer uma base sólida para o token ASPPBR.             |
 |                                                                                                             |                                                                                                                                                                                                                      |
-| - Fase de sementes (4º trimestre de 2024)    | 2.100.000 tokens: A segunda fase, programada para o quarto trimestre de 2024, envolverá a distribuição de 2.100.000 tokens adicionais. Esta fase visa um público mais amplo, permitindo que mais indivíduos participem da venda de tokens. |
+| - sementes (4º trimestre de 2024)    | 2.100.000 tokens: A segunda fase, programada para o quarto trimestre de 2024, envolverá a distribuição de 2.100.000 tokens adicionais. Esta fase visa um público mais amplo, permitindo que mais indivíduos participem da venda de tokens. |
 |                                                                                                             |                                                                                                                                                                                                                      |
-| - Fase da Série A (2º trimestre de 2025)      | 4.200.000 Tokens: Na terceira fase, planejada para o segundo trimestre de 2025, realizaremos uma campanha da Série A para promover ainda mais o token ASPPBR e atrair uma gama mais ampla de investidores. Um total de 4.200.000 tokens serão disponibilizados para compra durante esta fase. |
+| - Série A (2º trimestre de 2025)      | 4.200.000 Tokens: Na terceira fase, planejada para o segundo trimestre de 2025, realizaremos uma campanha da Série A para promover ainda mais o token ASPPBR e atrair uma gama mais ampla de investidores. Um total de 4.200.000 tokens serão disponibilizados para compra durante esta fase. |
 |                                                                                                             |                                                                                                                                                                                                                      |
-| - Fase da Série B (4º trimestre de 2026)      | 4.200.000 Tokens: A fase final está programada para o quarto trimestre de 2026, onde os 4.200.000 tokens restantes serão distribuídos. Esta fase visa facilitar a compra de tokens adicionais e garantir a ampla propriedade de tokens dentro da comunidade. |
+| - Série B (4º trimestre de 2026)      | 4.200.000 Tokens: A fase final está programada para o quarto trimestre de 2026, onde os 4.200.000 tokens restantes serão distribuídos. Esta fase visa facilitar a compra de tokens adicionais e garantir a ampla propriedade de tokens dentro da comunidade. |
 
+Observe que as datas específicas para cada fase de distribuição serão anunciadas com bastante antecedência, garantindo transparência e permitindo que os participantes interessados ​​se planejem adequadamente. Estamos empenhados em conduzir o processo de venda de tokens com justiça e integridade, proporcionando igualdade de oportunidades para todos os participantes.
 
+Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero em torno do token ASPPBR, permitindo que indivíduos e organizações se envolvam ativamente no projeto Mundo Digital e contribuam para seu sucesso a longo prazo.
 
 ## Alocação de Fundos:
 
