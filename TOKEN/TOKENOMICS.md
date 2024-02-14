@@ -26,6 +26,22 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 - Explorador Binance Smart Chain:
 - (https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c)
 
+## Detalhes do Token:
+
+| Detalhes do Token      |                   |
+|------------------------|-------------------|
+| Padrão do Token         | BEP-20            |
+| Tags                   | DAPP, DAO, DEFI, NFT |
+| Nome do Token             | ASPPIBRA          |
+| Símbolo                 | ASPPBR            |
+| Casas Decimais               | 18                |
+| Quantidade em Circulação     | (Não especificado)   |
+| Pool de Liquidez         | ASPPBR-WBNB (pancakeswap): 424 tokens |
+| Permissão para criar novos tokens   | Não                |
+| Quantidade Total           | 21.000.000        |
+| Explorador BSC           | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
+
+
 ## Distribuição dos Tokens:
 
 Distribuição de Tokens: Da oferta total de 21.000.000 de tokens, destinamos 60% para distribuição, totalizando 12.600.000 de tokens. A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:
