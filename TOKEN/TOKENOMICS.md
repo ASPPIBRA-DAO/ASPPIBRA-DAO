@@ -13,19 +13,6 @@ Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os 
 
 O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.
 
-- Token Bep-20
-- Etiqueta (Tags): PLATAFORMA, DAO, DEFI, NFT.
-- Nome do Token: ASPPIBRA
-- Símbolo: “ASPPBR”
-- Casa Decimais: 18
-- Quantidade em Circulação:
-- Pool de Liquidez V2 (pancakeswap) ASPPBR-WBNB: 424 tokens
-- Permissão para criar novos tokens: Não
-- Quantidade (Supply): 21.000.000
-- Quantidade Total (Max Supply): 21.000.000
-- Explorador Binance Smart Chain:
-- (https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c)
-
 ## Detalhes do Token:
 
 | Detalhes do Token      |                   |
@@ -35,11 +22,33 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 | Nome do Token             | ASPPIBRA          |
 | Símbolo                 | ASPPBR            |
 | Casas Decimais               | 18                |
-| Quantidade em Circulação     | (Não especificado)   |
-| Pool de Liquidez         | ASPPBR-WBNB (pancakeswap): 424 tokens |
+| Quantidade em Circulação     | 4.665 tokens   |
+| Pool de Liquidez  V2     | ASPPBR-WBNB (Pancakeswap): 1.129 tokens |
+| Pool de Liquidez  V2     | ASPPBR-USDT (Pancakeswap): 1.604 tokens |
+| Pool de Liquidez  V2     | ASPPBR-CTK (Biswap): 1.240 tokens |
+| Pool de Liquidez  V2     | ASPPBR-TWT (Pancakeswap): 692 tokens |
 | Permissão para criar novos tokens   | Não                |
-| Quantidade Total           | 21.000.000        |
-| Explorador BSC           | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
+| Quantidade (Supply)            | 21.000.000        |
+| Quantidade Total (Max Supply)  | 21.000.000        |
+| Explorador Binance Smart Chain | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
+
+
+
+## Distribuição de Tokens:
+
+| Distribuição de Tokens |                 |
+|------------------------|-----------------|
+| Quantidade Total           | 21.000.000      |
+| Alocado para Distribuição | 60% (12.600.000 tokens) |
+
+## Distribuição em Fases:
+
+| Fase                   | Tokens          | Cronograma            |
+|------------------------|-----------------|---------------------|
+| Fase de pré-sementes (1º trimestre de 2024) | 2.100.000   | Primeiro Trimestre de 2024  |
+| Fase de sementes (4º trimestre de 2024) | 2.100.000      | Quarto Trimestre de 2024 |
+| Fase da Série A (2º trimestre de 2025) | 4.200.000    | Segundo Trimestre de 2025 |
+| Fase da Série B (4º trimestre de 2026) | 4.200.000    | Quarto Trimestre de 2026 |
 
 
 ## Distribuição dos Tokens:
