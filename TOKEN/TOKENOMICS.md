@@ -109,10 +109,9 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 # <h2 align="center">Divisão de Recompensas:</h2>
 
-| Divisão de Recompensas  |                                 |
-|--------------------------|---------------------------------|
+| Divisão de Recompensas  |                                                                                        |
 |                                      |                                                                           |
-| Receita do Projeto       | Não fixa, mas sustentável.       |
+| Receita do Projeto       | Não fixa, mas sustentável.                                                            |
 |                                      |                                                                           |
 | Percentual de Taxas      | 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas. |
 |                                      |                                                                           |
@@ -123,6 +122,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 | Fundo Perpétuo           | 30% serão mantidos como um fundo perpétuo.                                            |
 |                                      |                                                                           |
 | Equipe de Desenvolvimento | Os 20% restantes serão destinados à equipe de desenvolvimento e ao setor de Recursos Humanos. |
+|                                      |                                                                           |
 
 # <h2 align="center">Pools de Liquidez:</h2>
 
@@ -136,6 +136,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 |                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                             |
 |                                      |                                                                           |
 | Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                       |
+|                                      |                                                                           |
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
