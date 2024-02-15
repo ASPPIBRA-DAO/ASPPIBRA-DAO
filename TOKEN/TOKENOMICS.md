@@ -72,10 +72,10 @@ Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero 
 
 # <h2 align="center">Distribuição dos Tokens:</h2>
 
-| Distribuição de Tokens             | Oferta Total: 21.000.000 de tokens                                                                                                             |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Distribuição                        | Destinamos 60% para distribuição, totalizando 12.600.000 de tokens.                                                                      |
-|                                    |                                                                                                                                             |
+| Distribuição de Tokens              | Oferta Total: 21.000.000 de tokens                                         |
+|-------------------------------------|----------------------------------------------------------------------------|
+| Distribuição                        | Destinamos 60% para distribuição, totalizando 12.600.000 de tokens.        |
+|                                     |                                                                            |
 | **Fases de Distribuição:**          | A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:                                                            |
 | 1. 1º trimestre de 2024            | - 2.100.000 tokens: durante a primeira fase, distribuiremos 2.100.000 tokens para os primeiros apoiadores e parceiros estratégicos. Esta fase visa gerar interesse inicial e estabelecer uma base sólida para o token ASPPBR.   |
 |                                    |                                                                                                                                             |
