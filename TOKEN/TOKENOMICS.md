@@ -110,6 +110,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 | Divisão de Recompensas    |                                                                                      |
 |---------------------------|--------------------------------------------------------------------------------------|
+|                                      |                                                                           |
 | **Receita do Projeto**    | Não fixa, mas sustentável.                                                           |
 |                                      |                                                                           |
 | **Percentual de Taxas**   | 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas.                                  |
