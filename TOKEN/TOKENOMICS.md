@@ -20,6 +20,8 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 # <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
+| Objetivo            | Este documento não deve ser interpretado como um prospecto ou uma oferta de valores mobiliários, nem como a promoção de qualquer produto de investimento. O Tokenomics aqui apresentado regula a utilização do Token, suas funções, utilidades e os serviços prestados pela ASPPIBRA-DAO. É importante destacar que os tokens digitais ASPPBR não possuem natureza de títulos, conforme definido pelo artigo 2º da Lei nº 6.385 de 07 de Dezembro de 1976, que dispõe sobre o mercado de valores mobiliários. Além disso, ressalta-se que esses tokens não estão registrados como valores mobiliários em qualquer agência governamental, e não devem ser tratados como tal. |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Detalhes do Token                    |                                                                           |
 |--------------------------------------|---------------------------------------------------------------------------|
 |                                      |                                                                           |
@@ -50,11 +52,6 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 | Quantidade Total (Max Supply)        | 21.000.000                                                                |
 |                                      |                                                                           |
 | Explorador Binance Smart Chain       | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
-
-
-| Objetivo            | Este documento não deve ser interpretado como um prospecto ou uma oferta de valores mobiliários, nem como a promoção de qualquer produto de investimento. O Tokenomics aqui apresentado regula a utilização do Token, suas funções, utilidades e os serviços prestados pela ASPPIBRA-DAO. É importante destacar que os tokens digitais ASPPBR não possuem natureza de títulos, conforme definido pelo artigo 2º da Lei nº 6.385 de 07 de Dezembro de 1976, que dispõe sobre o mercado de valores mobiliários. Além disso, ressalta-se que esses tokens não estão registrados como valores mobiliários em qualquer agência governamental, e não devem ser tratados como tal. |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tokens Alocados     | 6.300.000 tokens permanentemente alocados para liquidez.                                                                                                                                                                                                                                                                                    |
 
 
 <div align="center">
