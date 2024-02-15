@@ -55,25 +55,26 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
 
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px; margin: 0 auto;">
-        <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
-            <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
-        </a>
-        <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
-            <img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg">
-        </a>
-        <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732">
-            <img alt="CTK" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/CTK-sbg.svg">
-        </a>
-        <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
-            <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
-        </a>
-        <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F">
-            <img alt="BSCSCAN" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Bscscan.svg">
-        </a>
-        <a href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
-            <img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg">
-        </a>
-    </div>
+    <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
+        <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
+    </a>
+    <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
+        <img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg">
+    </a>
+    <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732">
+        <img alt="CTK" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/CTK-sbg.svg">
+    </a>
+    <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
+        <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
+    </a>
+    <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F">
+        <img alt="BSCSCAN" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Bscscan.svg">
+    </a>
+    <a href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
+        <img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg">
+    </a>
+</div>
+
 
 # <h2 align="center">Distribuição dos Tokens:</h2>
 
