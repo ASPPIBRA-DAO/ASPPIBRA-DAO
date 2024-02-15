@@ -137,7 +137,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 |                       | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                           |
 |                       |                                                                           |
 | **Bloqueio na Pool**  | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Digital.                                      |
-                                                                                                 |
+                                                                                                 
 
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
