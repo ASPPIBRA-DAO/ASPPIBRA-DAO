@@ -13,6 +13,10 @@ Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os 
 
 O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.
 
+## Observação
+Este documento não é um prospecto ou uma oferta de valores mobiliários ou qualquer outro produto de investimento. O Tokenomics regem a utilização do Token e das suas funções e utilidades e serviços prestados pela ASPPIBRA-DAO.
+Os tokens digitais ASPPBR não são títulos no sentido do art. 2da Lei nº 6.385 de 07 de Dezembro de 1976, que Dispõe sobre o mercado de valores mobiliários e não estão registados como valores mobiliários em qualquer agência governamental e não devem ser considerados como tal.
+
 # <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
 | Detalhes do Token                    |                                                       |
@@ -106,11 +110,6 @@ Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero 
 | Inclui              | - 20% dos tokens do fundo perpétuo.                                                                                                                                                                                                                                                                                                          |
 |                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                                                                                                                                                                                                                                                                                |
 | Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                                                                                                                                                       |
-
-## Observação
-
-Os tokens digitais ASPPBR não são títulos no sentido do art. 2 Lei nº 6.385 de 07 de Dezembro de 1976, que Dispõe sobre o mercado de valores mobiliários e não estão registados como valores mobiliários em qualquer agência governamental e não devem ser considerados como tal.
-
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
