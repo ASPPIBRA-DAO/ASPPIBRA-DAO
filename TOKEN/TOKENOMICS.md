@@ -58,6 +58,36 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
     </a>
 </div>
 
+
+# Explorando Métricas e Gráficos
+
+| Detalhes do Token                    |                                                       |
+|--------------------------------------|-------------------------------------------------------|
+| Padrão do Token                      | BEP-20                                                |
+| Tags                                 | DAPP, DAO, DEFI, NFT                                  |
+| Nome do Token                        | ASPPIBRA                                              |
+| Símbolo                              | ASPPBR                                                |
+| Casas Decimais                       | 18                                                    |
+| Quantidade em Circulação             | 4.665 tokens                                          |
+| Pool de Liquidez V2                  | ASPPBR-WBNB (Pancakeswap): 1.129 tokens               |
+| Pool de Liquidez V2                  | ASPPBR-USDT (Pancakeswap): 1.604 tokens               |
+| Pool de Liquidez V2                  | ASPPBR-CTK (Biswap): 1.240 tokens                     |
+| Pool de Liquidez V2                  | ASPPBR-TWT (Pancakeswap): 692 tokens                  |
+| Permissão para criar novos tokens    | Não                                                   |
+| Quantidade (Supply)                  | 21.000.000                                            |
+| Quantidade Total (Max Supply)        | 21.000.000                                            |
+| Explorador Binance Smart Chain       | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
+
+<div align="center">
+    <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c"><img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg"></a>
+    <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100"><img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg"></a>
+    <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732"><img alt="CTK" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/CTK-sbg.svg"></a>
+    <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C"><img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg"></a>
+    <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F"><img alt="BSCSCAN" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Bscscan.svg"></a>
+    <a href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b"><img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg"></a>
+</div>
+
+
 # <h2 align="center">Distribuição dos Tokens:</h2>
 
 | Distribuição de Tokens                       |                                                                                                                                                                                                                      |
