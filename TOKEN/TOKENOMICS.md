@@ -88,9 +88,9 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 | Alocação de Fundos                                      |                                                        |
 |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                      |                                                                           |
-| Distribuição Primária                                   | 100% dos recursos gerados serão destinados ao fundo Mundo Digital.                                                                                                      |
+| Distribuição Primária                | 100% dos recursos gerados serão destinados ao fundo Mundo Digital.        |
 |                                      |                                                                           |
-| Objetivo do Fundo Mundo Verde                            | Financiar as despesas de execução do projeto.         |
+| Objetivo do Fundo                    | Financiar as despesas e custos de manutenção para a implementação do projeto.                             |
 |                                      |                                                                           |
 | Reabastecimento do Fundo                                | - Mensalidades dos membros.                            |
 |                                      |                                                                           |
@@ -102,7 +102,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 |                                      |                                                                           |
 |                                                          | - Parcerias com o setor privado.                      |
 |                                      |                                                                           |
-| Distribuição de Royalties (A cada 7 anos)                | Uma grande distribuição de royalties será realizada a cada 7 anos, no valor de 70% do fundo Mundo Verde. Esta abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos nas atividades votadas pela comunidade. |
+| Distribuição de Royalties            | Uma grande distribuição de royalties será realizada a cada 7 anos, no valor de 70% do fundo Mundo Verde. Esta abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos nas atividades votadas pela comunidade. |
 |                                      |                                                                           |
 | 30% Restantes para Liquidez                              | Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.                                                                |
 
