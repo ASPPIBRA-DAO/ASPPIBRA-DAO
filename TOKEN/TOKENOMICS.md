@@ -102,7 +102,6 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 |                                      |                                                                           |
 |                                                          | - Parcerias com o setor privado.                      |
 |                                      |                                                                           |
-|                                      |                                                                           |
 | Distribuição de Royalties (A cada 5 anos)                | Uma grande distribuição de royalties será realizada a cada 5 anos, no valor de 70% do fundo Mundo Verde. Esta abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos nas atividades votadas pela comunidade. |
 |                                      |                                                                           |
 | 30% Restantes para Liquidez                              | Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.                                                                |
