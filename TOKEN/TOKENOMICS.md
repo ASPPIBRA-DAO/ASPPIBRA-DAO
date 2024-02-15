@@ -86,14 +86,23 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 | Alocação de Fundos                                      |                                                                                                                                                                            |
 |----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Distribuição Primária                                   | 100% dos recursos gerados serão destinados ao fundo Mundo Verde.                                                                                                           |
-| Objetivo do Fundo Mundo Verde                            | Financiar as despesas de execução do projeto.                                                                                                                               |
-| Reabastecimento do Fundo                                | - Mensalidades dos membros.                                                                                                                                               |
-|                                                          | - Vendas de créditos de carbono.                                                                                                                                         |
-|                                                          | - Vendas de NFTs.                                                                                                                                                        |
-|                                                          | - Taxas cobradas por meio do aplicativo.                                                                                                                                |
-|                                                          | - Parcerias com o setor privado.                                                                                                                                        |
+| Distribuição Primária                                   | 100% dos recursos gerados serão destinados ao fundo Mundo Verde.                                                                                                       |
+|                                      |                                                                           |
+| Objetivo do Fundo Mundo Verde                            | Financiar as despesas de execução do projeto.         |
+|                                      |                                                                           |
+| Reabastecimento do Fundo                                | - Mensalidades dos membros.                            |
+|                                      |                                                                           |
+|                                                          | - Vendas de créditos de carbono.                      |
+|                                      |                                                                           |
+|                                                          | - Vendas de NFTs.                                     |
+|                                      |                                                                           |
+|                                                          | - Taxas cobradas por meio do aplicativo.              |
+|                                      |                                                                           |
+|                                                          | - Parcerias com o setor privado.                      |
+|                                      |                                                                           |
+|                                      |                                                                           |
 | Distribuição de Royalties (A cada 5 anos)                | Uma grande distribuição de royalties será realizada a cada 5 anos, no valor de 70% do fundo Mundo Verde. Esta abordagem visa incentivar e fortalecer a comunidade e os profissionais envolvidos nas atividades votadas pela comunidade. |
+|                                      |                                                                           |
 | 30% Restantes para Liquidez                              | Os 30% restantes do fundo serão mantidos como liquidez para garantir a sustentabilidade dos ciclos futuros.                                                                |
 
 # <h2 align="center">Divisão de Recompensas:</h2>
@@ -101,20 +110,28 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 | Divisão de Recompensas  |                                 |
 |--------------------------|---------------------------------|
 | Receita do Projeto       | Não fixa, mas sustentável.       |
+|                                      |                                                                           |
 | Percentual de Taxas      | 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas. |
-| Royalties                | Serão repartidos entre associados e profissionais em dia com suas obrigações. |
-| Detentores de Tokens     | 50% das taxas irão para os detentores de tokens. |
-| Fundo Perpétuo           | 30% serão mantidos como um fundo perpétuo. |
+|                                      |                                                                           |
+| Royalties                | Serão repartidos entre associados e profissionais em dia com suas obrigações.         |
+|                                      |                                                                           |
+| Detentores de Tokens     | 50% das taxas irão para os detentores de tokens.                                      |
+|                                      |                                                                           |
+| Fundo Perpétuo           | 30% serão mantidos como um fundo perpétuo.                                            |
+|                                      |                                                                           |
 | Equipe de Desenvolvimento | Os 20% restantes serão destinados à equipe de desenvolvimento e ao setor de Recursos Humanos. |
 
 # <h2 align="center">Pools de Liquidez:</h2>
 
 | Objetivo            | Proporcionar um ambiente estável e seguro para usuários, associados e profissionais conectarem-se com aqueles que buscam parcerias, serviços e produtos. O projeto desenvolve serviços descentralizados para oferecer segurança, transparência e precisão. A Pool de Liquidez descentralizada estará acessível a todos os participantes, respaldada por 6.300.000 tokens permanentemente alocados para garantir liquidez infinita. Esta alocação inclui: |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tokens Alocados     | 6.300.000 tokens permanentemente alocados para liquidez.                                                                                                                                                                                                                                                                                    |
-| Inclui              | - 20% dos tokens do fundo perpétuo.                                                                                                                                                                                                                                                                                                          |
-|                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                                                                                                                                                                                                                                                                                |
-| Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                                                                                                                                                       |
+| Tokens Alocados     | 6.300.000 tokens permanentemente alocados para liquidez.                                   |
+|                                      |                                                                           |
+| Inclui              | - 20% dos tokens do fundo perpétuo.                                                        |
+|                                      |                                                                           |
+|                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                             |
+|                                      |                                                                           |
+| Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                       |
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
