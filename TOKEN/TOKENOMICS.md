@@ -107,6 +107,10 @@ Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero 
 |                     | - 10% dos tokens destinados ao setor de Recursos Humanos (RH).                                                                                                                                                                                                                                                                                |
 | Bloqueio na Pool    | Os tokens serão bloqueados na Pool de Liquidez, garantindo taxas de rendimento para o Fundo Mundo Verde.                                                                                                                                                                                                                                       |
 
+## Observação
+
+Os tokens digitais ASPPBR não são títulos no sentido do art. 2 Lei nº 6.385 de 07 de Dezembro de 1976, que Dispõe sobre o mercado de valores mobiliários e não estão registados como valores mobiliários em qualquer agência governamental e não devem ser considerados como tal.
+
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
