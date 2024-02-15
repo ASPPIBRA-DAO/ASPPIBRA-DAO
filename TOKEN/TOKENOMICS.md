@@ -115,7 +115,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 |                                      |                                                                           |
 | **Percentual de Taxas**   | 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas.                                  |
 |                                      |                                                                           |
-| **Royalties**             | Serão repartidos entre associados e profissionais em dia com suas obrigações.        |
+| **Royalties**             | Os Royalties serão distribuídos entre os associados e os profissionais que estejam em dia com suas obrigações.        |
 |                                      |                                                                           |
 | **Detentores de Tokens**  | 50% das taxas irão para os detentores de tokens.                                     |
 |                                      |                                                                           |
