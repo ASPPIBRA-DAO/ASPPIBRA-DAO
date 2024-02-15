@@ -125,8 +125,10 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 # <h2 align="center">Pools de Liquidez:</h2>
 
-| Objetivo              | Proporcionar um ambiente estável e seguro para usuários, associados e profissionais conectarem-se com aqueles que buscam parcerias, serviços e produtos. O projeto desenvolve serviços descentralizados para oferecer segurança, transparência e precisão. A Pool de Liquidez descentralizada estará acessível a todos os participantes, respaldada por 6.300.000 tokens permanentemente alocados para garantir liquidez infinita. Esta alocação inclui: |                                                                                         
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## Objetivo    
+
+Proporcionar um ambiente estável e seguro para usuários, associados e profissionais conectarem-se com aqueles que buscam parcerias, serviços e produtos. O projeto desenvolve serviços descentralizados para oferecer segurança, transparência e precisão. A Pool de Liquidez descentralizada estará acessível a todos os participantes, respaldada por 6.300.000 tokens permanentemente alocados para garantir liquidez infinita. Esta alocação inclui:                                                                                          
+
 |                                      |                                                                           |
 | **Tokens Alocados**   | 6.300.000 tokens permanentemente alocados para liquidez.                                 |
 |                                      |                                                                           |
