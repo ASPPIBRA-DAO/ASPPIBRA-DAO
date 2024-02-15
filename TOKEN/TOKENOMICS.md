@@ -14,9 +14,11 @@ Além disso, o token ASPPBR foi concebido com a finalidade de atuar como um meca
 O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.
 
 ### Observação
-Este documento não deve ser interpretado como um prospecto ou uma oferta de valores mobiliários, nem como a promoção de qualquer produto de investimento. O Tokenomics aqui apresentado regula a utilização do Token, suas funções, utilidades e os serviços prestados pela ASPPIBRA-DAO.
 
-É importante destacar que os tokens digitais ASPPBR não possuem natureza de títulos, conforme definido pelo artigo 2º da Lei nº 6.385 de 07 de Dezembro de 1976, que dispõe sobre o mercado de valores mobiliários. Além disso, ressalta-se que esses tokens não estão registrados como valores mobiliários em qualquer agência governamental, e não devem ser tratados como tal.
+Este documento não deve ser interpretado como um prospecto ou uma oferta de valores mobiliários, tampouco como a promoção de qualquer produto de investimento. A Tokenomics aqui apresentada tem como finalidade ser um instrumento didático para facilitar a compreensão do Token, suas funções e finalidade no ecossistema em construção para suas utilidades. O token ASPPBR não tem como objetivo ser considerado dinheiro digital, commodities ou um mecanismo de investimento, conforme expresso na Lei Nº 14.478, de 21 de Dezembro de 2022. Sua finalidade está claramente definida para facilitar a interação dos associados e usuários com a associação ASPPIBRA-DAO.
+
+É importante ressaltar que os tokens digitais ASPPBR não possuem natureza de títulos, conforme definido pelo artigo 2º da Lei nº 6.385 de 07 de Dezembro de 1976, que dispõe sobre o mercado de valores mobiliários. Adicionalmente, destaca-se que esses tokens não estão registrados como valores mobiliários em qualquer agência governamental e não devem ser tratados como tal.
+
 
 # <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
