@@ -53,6 +53,24 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
     </a>
 </div>
 
+<style>
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+    }
+</style>
+
+<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
+    <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
+        <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
+    </a>
+    <!-- ... (outros links e imagens) ... -->
+</div>
+
+
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px; margin: 0 auto;">
     <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
