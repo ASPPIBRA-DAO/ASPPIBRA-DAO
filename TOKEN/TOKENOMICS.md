@@ -120,6 +120,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 |                                      |                                                                           |
 | **Fundo Perpétuo**        | 30% serão mantidos como um fundo perpétuo.                                           |
 | **Equipe de Desenvolvimento** | Os 20% restantes serão destinados à equipe de desenvolvimento e ao setor de Recursos Humanos.                                      |
+|                                      |                                                                           |
 
 # <h2 align="center">Pools de Liquidez:</h2>
 
