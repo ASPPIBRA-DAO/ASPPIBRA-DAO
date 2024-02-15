@@ -13,9 +13,10 @@ Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os 
 
 O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.
 
-## Observação
-Este documento não é um prospecto ou uma oferta de valores mobiliários ou qualquer outro produto de investimento. O Tokenomics regem a utilização do Token e das suas funções e utilidades e serviços prestados pela ASPPIBRA-DAO.
-Os tokens digitais ASPPBR não são títulos no sentido do art. 2da Lei nº 6.385 de 07 de Dezembro de 1976, que Dispõe sobre o mercado de valores mobiliários e não estão registados como valores mobiliários em qualquer agência governamental e não devem ser considerados como tal.
+### Observação
+Este documento não deve ser interpretado como um prospecto ou uma oferta de valores mobiliários, nem como a promoção de qualquer produto de investimento. O Tokenomics aqui apresentado regula a utilização do Token, suas funções, utilidades e os serviços prestados pela ASPPIBRA-DAO.
+
+É importante destacar que os tokens digitais ASPPBR não possuem natureza de títulos, conforme definido pelo artigo 2º da Lei nº 6.385 de 07 de Dezembro de 1976, que dispõe sobre o mercado de valores mobiliários. Além disso, ressalta-se que esses tokens não estão registrados como valores mobiliários em qualquer agência governamental, e não devem ser tratados como tal.
 
 # <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
