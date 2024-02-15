@@ -60,27 +60,6 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
     <a href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b"><img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg"></a>
 </div>
 
-# <h2 align="center">Explorando Métricas e Gráficos:</h2>
-
-| Detalhes do Token                    |                                                                           |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Padrão do Token**                  | BEP-20                                                                    |
-| **Tags**                             | DAPP, DAO, DEFI, NFT                                                      |
-| **Nome do Token**                    | ASPPIBRA                                                                  |
-| **Símbolo**                          | ASPPBR                                                                    |
-| **Casas Decimais**                   | 18                                                                        |
-| **Quantidade em Circulação**         | 4.665 tokens                                                              |
-| **Pool de Liquidez V2**              | ASPPBR-WBNB (Pancakeswap): 1.129 tokens                                   |
-| **Pool de Liquidez V2**              | ASPPBR-USDT (Pancakeswap): 1.604 tokens                                   |
-| **Pool de Liquidez V2**              | ASPPBR-CTK (Biswap): 1.240 tokens                                         |
-| **Pool de Liquidez V2**              | ASPPBR-TWT (Pancakeswap): 692 tokens                                      |
-| **Permissão para criar novos tokens**| Não                                                                       |
-| **Quantidade (Supply)**              | 21.000.000                                                                |
-| **Quantidade Total (Max Supply)**    | 21.000.000                                                                |
-| **Explorador Binance Smart Chain**   | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
-
-
-
 # <h2 align="center">Distribuição dos Tokens:</h2>
 
 | Distribuição de Tokens              | Oferta Total: 21.000.000 de tokens                                         |
