@@ -81,11 +81,13 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 | **Observação:**                    | Observe que as datas específicas para cada fase de distribuição serão anunciadas com bastante antecedência, garantindo transparência e permitindo que os participantes interessados ​​se planejem adequadamente. Estamos empenhados em conduzir o processo de venda de tokens com justiça e integridade, proporcionando igualdade de oportunidades para todos os participantes. |
 |                                     |                                                                            |
 | **Objetivo:**                       | Nosso objetivo principal é estabelecer um ecossistema sustentável e próspero em torno do token ASPPBR, permitindo que indivíduos e organizações se envolvam ativamente no projeto Mundo Digital e contribuam para seu sucesso a longo prazo. |
+|                                      |                                                                           |
 
 # <h2 align="center">Alocação de Fundos:</h2>
 
-| Alocação de Fundos                                      |                                                                                                                                                                            |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alocação de Fundos                                      |                                                        |
+|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                      |                                                                           |
 | Distribuição Primária                                   | 100% dos recursos gerados serão destinados ao fundo Mundo Verde.                                                                                                       |
 |                                      |                                                                           |
 | Objetivo do Fundo Mundo Verde                            | Financiar as despesas de execução do projeto.         |
@@ -109,6 +111,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 | Divisão de Recompensas  |                                 |
 |--------------------------|---------------------------------|
+|                                      |                                                                           |
 | Receita do Projeto       | Não fixa, mas sustentável.       |
 |                                      |                                                                           |
 | Percentual de Taxas      | 70% de todas as taxas cobradas por serviços e consultas por meio do aplicativo serão distribuídas. |
@@ -124,6 +127,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 # <h2 align="center">Pools de Liquidez:</h2>
 
 | Objetivo            | Proporcionar um ambiente estável e seguro para usuários, associados e profissionais conectarem-se com aqueles que buscam parcerias, serviços e produtos. O projeto desenvolve serviços descentralizados para oferecer segurança, transparência e precisão. A Pool de Liquidez descentralizada estará acessível a todos os participantes, respaldada por 6.300.000 tokens permanentemente alocados para garantir liquidez infinita. Esta alocação inclui: |
+|                                      |                                                                           |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tokens Alocados     | 6.300.000 tokens permanentemente alocados para liquidez.                                   |
 |                                      |                                                                           |
