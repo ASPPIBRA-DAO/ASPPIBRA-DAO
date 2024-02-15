@@ -20,7 +20,14 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 # <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
-| Detalhes do Token                    |                                                                           |
+| Detalhes do Token                    | Bem-vindo à introdução do token ASPPBR. Este token serve como uma ferramenta segura e criptografada para governança e trocas descentralizadas. 
+O Token foi construído na rede Binance SmartChain ( BSC ) e possui um suprimento total de 21 milhões de tokens.
+
+O token ASPPBR tem uma variedade de usos práticos dentro do ecossistema blockchain. Ele pode ser usado em sistemas de votação digital para garantir justiça e transparência. Isso significa que os detentores de tokens têm voz nos processos de tomada de decisão e podem contribuir para o desenvolvimento do ecossistema.
+
+Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os usuários acessem liquidez, produtos e serviços. Por meio da ASPPIBRA-DAO.
+
+O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.                                             |
 |--------------------------------------|---------------------------------------------------------------------------|
 |                                      |                                                                           |
 | Padrão do Token                      | BEP-20                                                                    |
