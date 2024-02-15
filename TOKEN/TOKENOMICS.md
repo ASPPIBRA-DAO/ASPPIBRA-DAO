@@ -50,6 +50,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 | Distribuição de Tokens              | Oferta Total: 21.000.000 de tokens                                         |
 |-------------------------------------|----------------------------------------------------------------------------|
+|                                     |                                                                            |
 | Distribuição                        | Destinamos 60% para distribuição, totalizando 12.600.000 de tokens.        |
 |                                     |                                                                            |
 | **Fases de Distribuição:**          | A distribuição dos tokens ocorrerá em quatro fases, conforme descrito abaixo:                               |
