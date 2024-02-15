@@ -20,15 +20,7 @@ Este documento não deve ser interpretado como um prospecto ou uma oferta de val
 
 # <h2 align="center">Explorando Métricas e Gráficos:</h2>
 
-| Detalhes do Token                    | Bem-vindo à introdução do token ASPPBR. Este token serve como uma ferramenta segura e criptografada para governança e trocas descentralizadas. 
-O Token foi construído na rede Binance SmartChain ( BSC ) e possui um suprimento total de 21 milhões de tokens.
-
-O token ASPPBR tem uma variedade de usos práticos dentro do ecossistema blockchain. Ele pode ser usado em sistemas de votação digital para garantir justiça e transparência. Isso significa que os detentores de tokens têm voz nos processos de tomada de decisão e podem contribuir para o desenvolvimento do ecossistema.
-
-Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os usuários acessem liquidez, produtos e serviços. Por meio da ASPPIBRA-DAO.
-
-O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.                                             |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Detalhes do Token                    |                                                                           |
 |--------------------------------------|---------------------------------------------------------------------------|
 |                                      |                                                                           |
 | Padrão do Token                      | BEP-20                                                                    |
@@ -67,6 +59,34 @@ O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina seg
     <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F"><img alt="BSCSCAN" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Bscscan.svg"></a>
     <a href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b"><img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg"></a>
 </div>
+
+# <h2 align="center">Explorando Métricas e Gráficos:</h2>
+
+| Detalhes do Token                    | Bem-vindo à introdução do token ASPPBR. Este token serve como uma ferramenta segura e criptografada para governança e trocas descentralizadas. 
+O Token foi construído na rede Binance SmartChain ( BSC ) e possui um suprimento total de 21 milhões de tokens.
+
+O token ASPPBR tem uma variedade de usos práticos dentro do ecossistema blockchain. Ele pode ser usado em sistemas de votação digital para garantir justiça e transparência. Isso significa que os detentores de tokens têm voz nos processos de tomada de decisão e podem contribuir para o desenvolvimento do ecossistema.
+
+Além disso, o token ASPPBR permite trocas fáceis e seguras, permitindo que os usuários acessem liquidez, produtos e serviços. Por meio da ASPPIBRA-DAO.
+
+O token ASPPBR marca um marco significativo no mundo blockchain. Ele combina segurança, descentralização e praticidade para capacitar os usuários e revolucionar a forma como a governança e a troca de valor ocorrem dentro do ecossistema. Nas seções a seguir, exploraremos os recursos interessantes e o potencial do ASPPBR, revelando as possibilidades transformadoras que ele traz para o cenário blockchain.                                             |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Padrão do Token**                  | BEP-20                                                                    |
+| **Tags**                             | DAPP, DAO, DEFI, NFT                                                      |
+| **Nome do Token**                    | ASPPIBRA                                                                  |
+| **Símbolo**                          | ASPPBR                                                                    |
+| **Casas Decimais**                   | 18                                                                        |
+| **Quantidade em Circulação**         | 4.665 tokens                                                              |
+| **Pool de Liquidez V2**              | ASPPBR-WBNB (Pancakeswap): 1.129 tokens                                   |
+| **Pool de Liquidez V2**              | ASPPBR-USDT (Pancakeswap): 1.604 tokens                                   |
+| **Pool de Liquidez V2**              | ASPPBR-CTK (Biswap): 1.240 tokens                                         |
+| **Pool de Liquidez V2**              | ASPPBR-TWT (Pancakeswap): 692 tokens                                      |
+| **Permissão para criar novos tokens**| Não                                                                       |
+| **Quantidade (Supply)**              | 21.000.000                                                                |
+| **Quantidade Total (Max Supply)**    | 21.000.000                                                                |
+| **Explorador Binance Smart Chain**   | [Token ASPPBR no BSC](https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c) |
+
+
 
 # <h2 align="center">Distribuição dos Tokens:</h2>
 
