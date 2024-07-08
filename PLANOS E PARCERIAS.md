@@ -1,6 +1,6 @@
 # [Plans and Partnerships](https://www.asppibra.com.br/)
 
-![Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/c7540411-23ec-466d-bc25-f5ca047107e4)
+![Parcerias](https://github.com/ASPPIBRA-DAO/Imagens/blob/ab58cdf4e9a689073575bc367b110bf0580f4182/Svg/PLANOS%20E%20PARCERIAS.svg)
 
 ## Introduction:
 
