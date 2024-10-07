@@ -36,6 +36,8 @@ Este repositório implementa uma DAO (Decentralized Autonomous Organization) uti
 
 A classe `DAO` é um ator compartilhado (shared actor) que gerencia contas de usuários, propostas e parâmetros do sistema. Utiliza estruturas de dados eficientes, como Tries e Iteradores, para armazenar e manipular informações.
 
+## Estrutura do Main.mo
+
 ### Variáveis `stable`
 
 - **`accounts`**: Armazena o estado das contas dos usuários usando uma estrutura Trie.
@@ -114,10 +116,98 @@ Os parâmetros controlam taxas, limites de votação e depósitos necessários p
 
 ---
 
-Este projeto demonstra uma implementação sólida de uma DAO no Internet Computer, aplicando princípios de governança descentralizada e gerenciamento de propostas.
 
 
+## Estrutura do Types.mo
 
+A implementação é organizada em torno de definições de tipos e funções que facilitam o gerenciamento de contas, propostas e parâmetros do sistema DAO. Abaixo estão os principais componentes do código:
+
+### Tipos Principais
+
+1. **`Account`**:
+   - Representa uma conta no DAO, contendo o proprietário (um `Principal`) e a quantidade de tokens.
+
+2. **`Proposal`**:
+   - Define uma proposta no DAO, contendo seu estado, votos a favor e contra, proponente e detalhes da proposta.
+
+3. **`ProposalPayload`**:
+   - Contém os detalhes da proposta a ser executada, como o método a ser chamado, o `canister_id` e a mensagem associada.
+
+4. **`ProposalState`**:
+   - Enumera os diferentes estados de uma proposta:
+     - `#failed`: Proposta falhou na execução.
+     - `#open`: Proposta aberta para votação.
+     - `#executing`: Proposta em execução.
+     - `#rejected`: Proposta rejeitada por votos contrários.
+     - `#succeeded`: Proposta executada com sucesso.
+     - `#accepted`: Proposta aceita, aguardando execução.
+
+5. **`Tokens`**:
+   - Representa a quantidade de tokens em formato `Nat`, armazenado como `amount_e8s`.
+
+6. **`SystemParams`**:
+   - Define os parâmetros de governança, incluindo:
+     - `transfer_fee`: Taxa de transferência.
+     - `proposal_vote_threshold`: Limite de votos para aceitar/rejeitar uma proposta.
+     - `proposal_submission_deposit`: Depósito necessário para submissão de uma proposta.
+
+7. **`BasicDaoStableStorage`**:
+   - Armazena o estado estável do DAO, incluindo as contas, propostas e os parâmetros do sistema.
+
+### Funções Principais
+
+1. **`proposal_key(t: Nat)`**:
+   - Gera uma chave para armazenar uma proposta no Trie com base no ID (`Nat`).
+
+2. **`account_key(t: Principal)`**:
+   - Gera uma chave para armazenar uma conta no Trie usando o identificador `Principal`.
+
+3. **`accounts_fromArray(arr: [Account])`**:
+   - Converte uma lista de contas em uma Trie de contas, onde a chave é o identificador `Principal` e o valor é o saldo de tokens.
+
+4. **`proposals_fromArray(arr: [Proposal])`**:
+   - Converte uma lista de propostas em uma Trie de propostas, onde a chave é o ID da proposta.
+
+5. **`oneToken` e `zeroToken`**:
+   - Constantes usadas para definir valores padrão de tokens:
+     - `oneToken`: Um token com valor de 10 milhões de unidades.
+     - `zeroToken`: Valor zero de tokens.
+
+## Lógica e Estruturas Utilizadas
+
+### Trie (Árvore de Prefixo)
+
+A estrutura `Trie` é usada para armazenar contas e propostas de forma eficiente. Ela permite uma busca rápida por chaves específicas, facilitando a organização e manipulação de grandes conjuntos de dados. Cada conta é associada ao `Principal` de um usuário, e cada proposta é associada ao seu ID (`Nat`).
+
+### Contas (`accounts`)
+
+As contas são armazenadas em uma Trie onde a chave é o `Principal` e o valor é a quantidade de tokens. A função `accounts_fromArray` converte um array de contas em uma Trie para facilitar futuras consultas e atualizações de saldos.
+
+### Propostas (`proposals`)
+
+As propostas também são armazenadas em uma Trie, onde cada proposta tem um ID numérico como chave e o valor contém os detalhes da proposta, como votos, proponente e estado. A função `proposals_fromArray` converte um array de propostas em uma Trie para fácil manipulação.
+
+### Tokens e Parâmetros do Sistema
+
+Os tokens são representados pelo tipo `Tokens`, que armazena a quantidade como um valor `Nat`. Os parâmetros do sistema, como a taxa de transferência e o depósito para submissão de propostas, são armazenados no tipo `SystemParams`, permitindo flexibilidade na governança.
+
+## Melhorias Futuras
+
+1. **Validação de Dados**:
+   - Implementar mais validações de dados para garantir que as entradas sejam corretas ao adicionar ou atualizar informações nas Tries.
+
+2. **Tratamento de Erros**:
+   - Expandir o uso de `Result` para capturar e tratar possíveis erros durante a execução de operações, especialmente ao lidar com tokens e propostas.
+
+3. **Documentação**:
+   - Adicionar mais comentários explicativos para melhorar a compreensão do código, especialmente em funções mais complexas.
+
+4. **Escalabilidade**:
+   - A `Trie` oferece uma estrutura eficiente para busca e inserção, mas será necessário explorar otimizações para suportar um número crescente de usuários e propostas no sistema.
+
+---
+
+Este projeto oferece uma base sólida para uma DAO no Internet Computer, utilizando estruturas de dados eficientes e boas práticas de modularização. Ele está preparado para suportar futuras expansões e melhorias.
 
 
 ## <h2 align="center">🎁 Doe Crypto:</h2>
