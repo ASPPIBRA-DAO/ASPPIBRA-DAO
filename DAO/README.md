@@ -201,23 +201,62 @@ dfx start --background
 ### Etapa 2: Crie identidades de teste com os comandos
 
 ```bash
-dfx identity new Alice --disable-encryption; dfx identity use Alice; export ALICE=$(dfx identity get-principal);
-dfx identity new Bob --disable-encryption; dfx identity use Bob; export BOB=$(dfx identity get-principal);
+dfx identity new Alice --storage-mode=plaintext; 
+dfx identity use Alice; 
+export ALICE=$(dfx identity get-principal);
+
+dfx identity new Bob --storage-mode=plaintext
+dfx identity use Bob
+export BOB=$(dfx identity get-principal);
 ```
 
-### Etapa 3: Implantar `basic_dao` com contas de teste iniciais
+### Etapa 3: Implantar `ASPPIBRA-DAO` com contas de teste iniciais
 
 ```bash
-dfx deploy --argument "(record {
- accounts = vec { record { owner = principal \"$ALICE\"; tokens = record { amount_e8s = 100_000_000 }; };
-                  record { owner = principal \"$BOB\"; tokens = record { amount_e8s = 100_000_000 };}; };
- proposals = vec {};
- system_params = record {
-     transfer_fee = record { amount_e8s = 10_000 };
-     proposal_vote_threshold = record { amount_e8s = 10_000_000 };
-     proposal_submission_deposit = record { amount_e8s = 10_000 };
- };
+
+dfx deploy ASPPIBRA-DAO --argument "(record {
+    accounts = vec {
+        record { owner = principal \"$ALICE\"; tokens = record { amount_e8s = 100_000_000 }; };
+        record { owner = principal \"$BOB\"; tokens = record { amount_e8s = 100_000_000 }; };
+    };
+    proposals = vec {};
+    system_params = record {
+        transfer_fee = record { amount_e8s = 10_000 };
+        proposal_vote_threshold = record { amount_e8s = 10_000_000 };
+        proposal_submission_deposit = record { amount_e8s = 10_000 };
+    };
 })"
+
+```
+
+### Testar Funcionalidades do DAO: Agora que o DAO está rodando, aqui estão algumas funcionalidades importantes que você pode testar
+
+- Verificar o saldo de uma conta (account_balance): Use a interface Candid ou execute um comando diretamente para verificar o saldo de Alice ou Bob:
+
+```bash
+dfx canister call ASPPIBRA-DAO account_balance "(principal \"$ALICE\")"
+```
+
+- Transferir tokens entre contas (transfer): Teste uma transferência de tokens de Alice para Bob:
+
+```bash
+dfx identity use Alice
+dfx canister call ASPPIBRA-DAO transfer "(record { to = principal \"$BOB\"; amount = record { amount_e8s = 10_000_000 } })"
+
+```
+
+- Submeter uma proposta (submit_proposal): Alice pode submeter uma proposta, como por exemplo, uma atualização no sistema:
+
+```bash
+dfx canister call ASPPIBRA-DAO submit_proposal "(record { method = \"upgrade\"; canister_id = principal \"$BOB\"; message = vec {} })"
+
+```
+
+- Votar em uma proposta (vote): Após a submissão da proposta, tanto Alice quanto Bob podem votar. Para Alice votar:
+
+```bash
+dfx canister call ASPPIBRA-DAO vote "(record { proposal_id = 1; vote = #yes })"
+
 ```
 
 ### Etapa 4: execute os scripts de teste ic-repl
