@@ -196,6 +196,9 @@ cd DAO/motoko
 dfx start --background
 ```
 
+- Canniter Publico:
+ixi6n-eiaaa-aaaad-qayoq-cai
+
 ### Etapa 2: Crie identidades de teste com os comandos
 
 ```bash
