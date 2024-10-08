@@ -1,5 +1,11 @@
 {
   "canisters": {
+    "frontend": {
+      "source": [
+        "frontend"
+      ],
+      "type": "assets"
+    },
     "ASPPIBRA-DAO": {
       "type": "motoko",
       "main": "src/Main.mo",
@@ -29,6 +35,11 @@
           "amount_e8s": 50000
         }
       }
+    }
+  },
+  "defaults": {
+    "build": {
+      "output": "build"
     }
   }
 }
