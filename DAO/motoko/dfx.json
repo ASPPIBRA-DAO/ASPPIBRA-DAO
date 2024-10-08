@@ -1,7 +1,34 @@
 {
   "canisters": {
-    "basic_dao": {
-      "main": "src/Main.mo"
+    "ASPPIBRA-DAO": {
+      "type": "motoko",
+      "main": "src/Main.mo",
+      "accounts": [
+        {
+          "owner": "ixi6n-eiaaa-aaaad-qayoq-cai",
+          "tokens": {
+            "amount_e8s": 100000000
+          }
+        },
+        {
+          "owner": "ixy6n-eiaaa-aaaad-qayoq-cai",
+          "tokens": {
+            "amount_e8s": 50000000
+          }
+        }
+      ],
+      "proposals": [],
+      "system_params": {
+        "transfer_fee": {
+          "amount_e8s": 100000
+        },
+        "proposal_vote_threshold": {
+          "amount_e8s": 1000000
+        },
+        "proposal_submission_deposit": {
+          "amount_e8s": 50000
+        }
+      }
     }
   }
 }

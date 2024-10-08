@@ -1,0 +1,59 @@
+type Account = record { owner : principal; tokens : Tokens };
+type BasicDaoStableStorage = record {
+  system_params : SystemParams;
+  accounts : vec Account;
+  proposals : vec Proposal;
+};
+type DAO = service {
+  account_balance : () -> (Tokens) query;
+  get_proposal : (nat) -> (opt Proposal) query;
+  get_system_params : () -> (SystemParams) query;
+  list_accounts : () -> (vec Account) query;
+  list_proposals : () -> (vec Proposal) query;
+  submit_proposal : (ProposalPayload) -> (Result_2);
+  transfer : (TransferArgs) -> (Result_1);
+  update_system_params : (UpdateSystemParamsPayload) -> ();
+  vote : (VoteArgs) -> (Result);
+};
+type List = opt record { principal; List };
+type Proposal = record {
+  id : nat;
+  votes_no : Tokens;
+  voters : List;
+  state : ProposalState;
+  timestamp : int;
+  proposer : principal;
+  votes_yes : Tokens;
+  payload : ProposalPayload;
+};
+type ProposalPayload = record {
+  method : text;
+  canister_id : principal;
+  message : blob;
+};
+type ProposalState = variant {
+  open;
+  rejected;
+  executing;
+  accepted;
+  failed : text;
+  succeeded;
+};
+type Result = variant { ok : ProposalState; err : text };
+type Result_1 = variant { ok; err : text };
+type Result_2 = variant { ok : nat; err : text };
+type SystemParams = record {
+  transfer_fee : Tokens;
+  proposal_vote_threshold : Tokens;
+  proposal_submission_deposit : Tokens;
+};
+type Tokens = record { amount_e8s : nat };
+type TransferArgs = record { to : principal; amount : Tokens };
+type UpdateSystemParamsPayload = record {
+  transfer_fee : opt Tokens;
+  proposal_vote_threshold : opt Tokens;
+  proposal_submission_deposit : opt Tokens;
+};
+type Vote = variant { no; yes };
+type VoteArgs = record { vote : Vote; proposal_id : nat };
+service : DAO

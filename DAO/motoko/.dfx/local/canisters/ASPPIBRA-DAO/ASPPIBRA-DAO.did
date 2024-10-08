@@ -1,0 +1,112 @@
+type VoteArgs = 
+ record {
+   proposal_id: nat;
+   vote: Vote;
+ };
+type Vote = 
+ variant {
+   no;
+   yes;
+ };
+type UpdateSystemParamsPayload = 
+ record {
+   proposal_submission_deposit: opt Tokens;
+   proposal_vote_threshold: opt Tokens;
+   transfer_fee: opt Tokens;
+ };
+type TransferArgs = 
+ record {
+   amount: Tokens;
+   to: principal;
+ };
+type Tokens = record {amount_e8s: nat;};
+type SystemParams = 
+ record {
+   proposal_submission_deposit: Tokens;
+   proposal_vote_threshold: Tokens;
+   transfer_fee: Tokens;
+ };
+type Result_2 = 
+ variant {
+   err: text;
+   ok: nat;
+ };
+type Result_1 = 
+ variant {
+   err: text;
+   ok;
+ };
+type Result = 
+ variant {
+   err: text;
+   ok: ProposalState;
+ };
+type ProposalState = 
+ variant {
+   accepted;
+   executing;
+   failed: text;
+   open;
+   rejected;
+   succeeded;
+ };
+type ProposalPayload = 
+ record {
+   canister_id: principal;
+   message: blob;
+   method: text;
+ };
+type Proposal = 
+ record {
+   id: nat;
+   payload: ProposalPayload;
+   proposer: principal;
+   state: ProposalState;
+   timestamp: int;
+   voters: List;
+   votes_no: Tokens;
+   votes_yes: Tokens;
+ };
+type List = 
+ opt record {
+       principal;
+       List;
+     };
+type DAO = 
+ service {
+   /// Return the account balance of the caller
+   account_balance: () -> (Tokens) query;
+   /// Return the proposal with the given ID, if one exists
+   get_proposal: (nat) -> (opt Proposal) query;
+   /// Get the current system params
+   get_system_params: () -> (SystemParams) query;
+   /// Lists all accounts
+   list_accounts: () -> (vec Account) query;
+   /// Return the list of all proposals
+   list_proposals: () -> (vec Proposal) query;
+   /// Submit a proposal
+   /// 
+   /// A proposal contains a canister ID, method name and method args. If enough users
+   /// vote "yes" on the proposal, the given method will be called with the given method
+   /// args on the given canister.
+   submit_proposal: (ProposalPayload) -> (Result_2);
+   /// Transfer tokens from the caller's account to another account
+   transfer: (TransferArgs) -> (Result_1);
+   /// Update system params
+   /// 
+   /// Only callable via proposal execution
+   update_system_params: (UpdateSystemParamsPayload) -> ();
+   vote: (VoteArgs) -> (Result);
+ };
+type BasicDaoStableStorage = 
+ record {
+   accounts: vec Account;
+   proposals: vec Proposal;
+   system_params: SystemParams;
+ };
+type Account = 
+ record {
+   owner: principal;
+   tokens: Tokens;
+ };
+service : (BasicDaoStableStorage) -> DAO

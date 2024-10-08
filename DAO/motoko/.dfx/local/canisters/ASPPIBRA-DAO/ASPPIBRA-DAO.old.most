@@ -1,0 +1,42 @@
+// Version: 1.0.0
+type AssocList<K, V> = List<(K, V)>;
+type AssocList__1<K, V> = AssocList<K, V>;
+type Branch<K, V> = {left : Trie<K, V>; right : Trie<K, V>; size : Nat};
+type Hash = Nat32;
+type Key<K> = {hash : Hash; key : K};
+type Leaf<K, V> = {keyvals : AssocList__1<Key<K>, V>; size : Nat};
+type List<T> = ?(T, List<T>);
+type Proposal =
+  {
+    id : Nat;
+    payload : ProposalPayload;
+    proposer : Principal;
+    state : ProposalState;
+    timestamp : Int;
+    voters : List<Principal>;
+    votes_no : Tokens;
+    votes_yes : Tokens
+  };
+type ProposalPayload =
+  {canister_id : Principal; message : Blob; method : Text};
+type ProposalState =
+  {#accepted; #executing; #failed : Text; #open; #rejected; #succeeded};
+type Tokens = {amount_e8s : Nat};
+type Trie<K, V> = {#branch : Branch<K, V>; #empty; #leaf : Leaf<K, V>};
+actor {
+  stable var accounts :
+    {
+      #branch : Branch<Principal, Tokens>;
+      #empty;
+      #leaf : Leaf<Principal, Tokens>
+    };
+  stable var next_proposal_id : Nat;
+  stable var proposals :
+    {#branch : Branch<Nat, Proposal>; #empty; #leaf : Leaf<Nat, Proposal>};
+  stable var system_params :
+    {
+      proposal_submission_deposit : Tokens;
+      proposal_vote_threshold : Tokens;
+      transfer_fee : Tokens
+    }
+};
