@@ -1,0 +1,133 @@
+/* styles.css */
+
+/* Add your CSS styles here */
+
+/* General styles */
+body {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    grid-column: 1 / 4;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    grid-column: 2;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    padding: 20px;
+}
+
+/* Sidebar styles */
+.sidebar {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.sidebar-right {
+    grid-column: 3;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+/* Footer styles */
+footer {
+    grid-column: 1 / 4;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Card styles */
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 20px;
+}
+
+.card {
+    position: relative;
+    width: 250px;
+    height: 350px;
+    margin: 20px;
+    perspective: 1000px;
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+    transform: translateZ(0);
+}
+
+.card-front,
+.card-back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2),
+        0 12px 32px rgba(0, 0, 0, 0.2),
+        0 16px 64px rgba(0, 0, 0, 0.2);
+}
+
+.card-front {
+    transform: rotateY(0deg);
+    z-index: 2;
+    transition: transform 0.5s, box-shadow 0.5s;
+}
+
+.card-back {
+    transform: rotateY(180deg);
+    z-index: 1;
+    transition: transform 0.5s, box-shadow 0.5s;
+}
+
+.card:hover .card-front {
+    transform: rotateY(0deg) translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2),
+        0 24px 48px rgba(0, 0, 0, 0.2),
+        0 36px 72px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover .card-back {
+    transform: rotateY(180deg) translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2),
+        0 24px 48px rgba(0, 0, 0, 0.2),
+        0 36px 72px rgba(0, 0, 0, 0.2);
+}
+
+.card.clicked .card-inner {
+    transform: rotateY(180deg);
+}
+
+.card.clicked .card-back {
+    z-index: 2;
+}

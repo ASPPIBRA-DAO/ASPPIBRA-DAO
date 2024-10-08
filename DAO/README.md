@@ -2,7 +2,6 @@
 
 keywords: [advanced, motoko, dao, decentralized organization, decentralized org]
 
-
 [View this sample's code on GitHub](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO)
 
 Este repositório implementa uma DAO [organização autônoma descentralizada](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) utilizando a linguagem Motoko implantada no [Internet Computer](https://github.com/dfinity/ic) (IC). A DAO permite transferências de tokens, submissão e votação de propostas, além de executar ações automaticamente via heartbeat, O código de amostra DAO básico está disponível em [Motoko](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/listing/asppibra-dao-10329).
@@ -198,6 +197,17 @@ dfx start --background
 
 - Canniter Publico:
 ixi6n-eiaaa-aaaad-qayoq-cai
+
+```bash
+dfx canister status ASPPIBRA-DAO
+dfx canister id ASPPIBRA-DAO
+```
+
+```bash
+dfx canister start ASPPIBRA-DAO
+dfx deploy ASPPIBRA-DAO
+dfx canister stop bkyz2-fmaaa-aaaaa-qaaaq-cai
+```
 
 ### Etapa 2: Crie identidades de teste com os comandos
 

@@ -1,0 +1,23 @@
+.
+├── estrutura_atual.txt
+├── frontend
+│   └── assets
+│       ├── css
+│       │   └── styles.css
+│       ├── img
+│       ├── index.html
+│       ├── js
+│       │   └── scripts.js
+│       └── template.html
+├── motoko
+│   ├── dfx.json
+│   ├── src
+│   │   ├── Main.mo
+│   │   └── Types.mo
+│   └── tests
+│       ├── account.test.sh
+│       ├── prelude.sh
+│       └── proposal.test.sh
+└── README.md
+
+8 directories, 12 files
