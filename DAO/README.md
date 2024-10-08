@@ -1,9 +1,7 @@
 # DAO (Decentralized Autonomous Organization)
 
----
-
 keywords: [advanced, motoko, dao, decentralized organization, decentralized org]
----
+
 
 [View this sample's code on GitHub](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO)
 
