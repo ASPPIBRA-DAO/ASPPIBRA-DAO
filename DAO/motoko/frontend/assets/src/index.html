@@ -4,13 +4,13 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>ASPPIBRA-DAO Interface</title>
-        <link rel="stylesheet" href="assets/css/styles.css">
+        <title>ASPPIBRA-DAO</title>
+        <link type="text/css" rel="stylesheet" href="main.css" />
     </head>
 
     <body>
         <header>
-            <h1>ASPPIBRA-DAO Canister Interface</h1>
+            <h1>Canister Interface</h1>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
@@ -24,7 +24,7 @@
         <div class="sidebar">
             <!-- Sidebar content on the left -->
             <h2>Sidebar Left</h2>
-            <p>Content for the left sidebar...</p>
+            
         </div>
 
         <main>
@@ -36,20 +36,30 @@
 
             <!-- Main content -->
             <h2>Main Content</h2>
-            <p>This is the main content of your page.</p>
-            <div id="app">
-                <h1>Bem-vindo ao Meu DAO</h1>
-                <div id="balance"></div>
-                <form id="proposalForm">
-                    <input type="text" id="proposalInput" placeholder="Digite sua proposta">
-                    <button type="submit">Submeter Proposta</button>
-                </form>
-            </div>
-
+            
+            
             <div class="sidebar-right">
                 <!-- Sidebar content on the right -->
-                <h2>Sidebar Right</h2>
-                <p>Content for the right sidebar...</p>
+                <div id="app">
+                    <h1>Envie Sua Proposta</h1>                    
+                    <p>Estamos abertos às suas sugestões. Envie uma proposta e ajude a moldar o futuro do nosso DAO através da inovação colaborativa.</p>
+                
+                    <div id="balance">
+                        <!-- O saldo será exibido aqui -->
+                    </div>
+                
+                    <form id="proposalForm">
+                        <label for="proposalTitle">Título da Proposta:</label>
+                        <input type="text" id="proposalInput" placeholder="Digite sua proposta detalhada">
+                
+                        <label for="proposalDescription">Proposta Detalhada:</label>
+                        <textarea id="proposalDescription" name="proposalDescription" placeholder="Descreva a sua proposta" rows="4" required></textarea>
+                        
+                        <button type="submit">Submeter Proposta</button>
+                    </form>
+                </div>
+                
+                
             </div>
 
             <footer>
@@ -97,17 +107,16 @@
 
         <div class="sidebar">
             <!-- Sidebar content on the right -->
-            <h2>Sidebar Right</h2>
-            <p>Content for the right sidebar...</p>
+            <h2>Sidebar Right</h2>            
         </div>
 
         <footer>
-            <p>&copy; 2023 Your Website / \ All Rights Reserved.</p>
+            <p>&copy; 2024/25 ASPPIBRA-DAO All Rights Reserved.</p>
         </footer>
 
         <script src="https://unpkg.com/@dfinity/agent@latest"></script>
         <script src="https://unpkg.com/@dfinity/principal@latest"></script>
-        <script src="assets/js/scripts.js"></script>
+        <script src="scripts.js"></script>
     </body>
 
 </html>
