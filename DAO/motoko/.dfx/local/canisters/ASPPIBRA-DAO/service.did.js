@@ -36,9 +36,9 @@ export const idlFactory = ({ IDL }) => {
     'accounts' : IDL.Vec(Account),
     'proposals' : IDL.Vec(Proposal),
   });
+  const Result_1 = IDL.Variant({ 'ok' : IDL.Null, 'err' : IDL.Text });
   const Result_2 = IDL.Variant({ 'ok' : IDL.Nat, 'err' : IDL.Text });
   const TransferArgs = IDL.Record({ 'to' : IDL.Principal, 'amount' : Tokens });
-  const Result_1 = IDL.Variant({ 'ok' : IDL.Null, 'err' : IDL.Text });
   const UpdateSystemParamsPayload = IDL.Record({
     'transfer_fee' : IDL.Opt(Tokens),
     'proposal_vote_threshold' : IDL.Opt(Tokens),
@@ -49,6 +49,7 @@ export const idlFactory = ({ IDL }) => {
   const Result = IDL.Variant({ 'ok' : ProposalState, 'err' : IDL.Text });
   const DAO = IDL.Service({
     'account_balance' : IDL.Func([], [Tokens], ['query']),
+    'create_account' : IDL.Func([IDL.Opt(Tokens)], [Result_1], []),
     'get_proposal' : IDL.Func([IDL.Nat], [IDL.Opt(Proposal)], ['query']),
     'get_system_params' : IDL.Func([], [SystemParams], ['query']),
     'list_accounts' : IDL.Func([], [IDL.Vec(Account)], ['query']),

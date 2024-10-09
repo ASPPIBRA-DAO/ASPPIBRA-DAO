@@ -29,8 +29,22 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
         proposals := Trie.put(proposals, Types.proposal_key(id), Nat.equal, proposal).0;
     };
 
+    /// Função para criar uma nova conta para o `caller` com saldo inicial opcional
+    public shared({caller}) func create_account(initial_balance: ?Types.Tokens) : async Types.Result<(), Text> {
+        switch (account_get(caller)) {
+            case null {
+                // Cria a conta com saldo inicial ou saldo zero se não for fornecido
+                let balance = Option.get(initial_balance, Types.zeroToken);
+                account_put(caller, balance);
+                #ok;
+            };
+            case (?_) { 
+                #err("A conta já existe para este usuário.");
+            };
+        };
+    };
 
-    /// Transfer tokens from the caller's account to another account
+    /// Transferir tokens da conta do `caller` para outra conta
     public shared({caller}) func transfer(transfer: Types.TransferArgs) : async Types.Result<(), Text> {
         switch (account_get caller) {
         case null { #err "Caller needs an account to transfer funds" };
@@ -50,23 +64,19 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
       };
     };
 
-    /// Return the account balance of the caller
+    /// Retornar o saldo da conta do `caller`
     public query({caller}) func account_balance() : async Types.Tokens {
         Option.get(account_get(caller), Types.zeroToken)
     };
 
-    /// Lists all accounts
+    /// Listar todas as contas
     public query func list_accounts() : async [Types.Account] {
         Iter.toArray(
           Iter.map(Trie.iter(accounts),
                    func ((owner : Principal, tokens : Types.Tokens)) : Types.Account = { owner; tokens }))
     };
 
-    /// Submit a proposal
-    ///
-    /// A proposal contains a canister ID, method name and method args. If enough users
-    /// vote "yes" on the proposal, the given method will be called with the given method
-    /// args on the given canister.
+    /// Submeter uma proposta
     public shared({caller}) func submit_proposal(payload: Types.ProposalPayload) : async Types.Result<Nat, Text> {
         Result.chain(deduct_proposal_submission_deposit(caller), func (()) : Types.Result<Nat, Text> {
             let proposal_id = next_proposal_id;
@@ -87,17 +97,17 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
         })
     };
 
-    /// Return the proposal with the given ID, if one exists
+    /// Retornar a proposta com o ID fornecido, se existir
     public query func get_proposal(proposal_id: Nat) : async ?Types.Proposal {
         proposal_get(proposal_id)
     };
 
-    /// Return the list of all proposals
+    /// Retornar a lista de todas as propostas
     public query func list_proposals() : async [Types.Proposal] {
         Iter.toArray(Iter.map(Trie.iter(proposals), func (kv : (Nat, Types.Proposal)) : Types.Proposal = kv.1))
     };
 
-    // Vote on an open proposal
+    // Votar em uma proposta aberta
     public shared({caller}) func vote(args: Types.VoteArgs) : async Types.Result<Types.ProposalState, Text> {
         switch (proposal_get(args.proposal_id)) {
         case null { #err("No proposal with ID " # debug_show(args.proposal_id) # " exists") };
@@ -122,7 +132,7 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
                           let voters = List.push(caller, proposal.voters);
 
                           if (votes_yes >= system_params.proposal_vote_threshold.amount_e8s) {
-                              // Refund the proposal deposit when the proposal is accepted
+                              // Reembolsa o depósito de proposta quando ela for aceita
                               ignore do ? {
                                   let account = account_get(proposal.proposer)!;
                                   let refunded = account.amount_e8s + system_params.proposal_submission_deposit.amount_e8s;
@@ -153,12 +163,10 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
         };
     };
 
-    /// Get the current system params
+    /// Retorna os parâmetros atuais do sistema
     public query func get_system_params() : async Types.SystemParams { system_params };
 
-    /// Update system params
-    ///
-    /// Only callable via proposal execution
+    /// Atualizar parâmetros do sistema
     public shared({caller}) func update_system_params(payload: Types.UpdateSystemParamsPayload) : async () {
         if (caller != Principal.fromActor(Self)) {
             return;
@@ -170,7 +178,7 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
         };
     };
 
-    /// Deduct the proposal submission deposit from the caller's account
+    /// Deduzir o depósito de submissão de proposta da conta do `caller`
     func deduct_proposal_submission_deposit(caller : Principal) : Types.Result<(), Text> {
         switch (account_get(caller)) {
         case null { #err "Caller needs an account to submit a proposal" };
@@ -187,10 +195,10 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
         };
     };
 
-    /// Execute all accepted proposals
+    /// Executar todas as propostas aceitas
     func execute_accepted_proposals() : async () {
         let accepted_proposals = Trie.filter(proposals, func (_ : Nat, proposal : Types.Proposal) : Bool = proposal.state == #accepted);
-        // Update proposal state, so that it won't be picked up by the next heartbeat
+        // Atualiza o estado da proposta para que não seja escolhida no próximo heartbeat
         for ((id, proposal) in Trie.iter(accepted_proposals)) {
             update_proposal_state(proposal, #executing);
         };
@@ -203,7 +211,7 @@ shared actor class DAO(init : Types.BasicDaoStableStorage) = Self {
         };
     };
 
-    /// Execute the given proposal
+    /// Executa a proposta dada
     func execute_proposal(proposal: Types.Proposal) : async Types.Result<(), Text> {
         try {
             let payload = proposal.payload;

@@ -10,6 +10,7 @@ export interface BasicDaoStableStorage {
 }
 export interface DAO {
   'account_balance' : ActorMethod<[], Tokens>,
+  'create_account' : ActorMethod<[[] | [Tokens]], Result_1>,
   'get_proposal' : ActorMethod<[bigint], [] | [Proposal]>,
   'get_system_params' : ActorMethod<[], SystemParams>,
   'list_accounts' : ActorMethod<[], Array<Account>>,

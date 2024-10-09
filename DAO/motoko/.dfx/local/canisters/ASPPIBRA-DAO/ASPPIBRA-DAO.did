@@ -74,27 +74,23 @@ type List =
      };
 type DAO = 
  service {
-   /// Return the account balance of the caller
+   /// Retornar o saldo da conta do `caller`
    account_balance: () -> (Tokens) query;
-   /// Return the proposal with the given ID, if one exists
+   /// Função para criar uma nova conta para o `caller` com saldo inicial opcional
+   create_account: (opt Tokens) -> (Result_1);
+   /// Retornar a proposta com o ID fornecido, se existir
    get_proposal: (nat) -> (opt Proposal) query;
-   /// Get the current system params
+   /// Retorna os parâmetros atuais do sistema
    get_system_params: () -> (SystemParams) query;
-   /// Lists all accounts
+   /// Listar todas as contas
    list_accounts: () -> (vec Account) query;
-   /// Return the list of all proposals
+   /// Retornar a lista de todas as propostas
    list_proposals: () -> (vec Proposal) query;
-   /// Submit a proposal
-   /// 
-   /// A proposal contains a canister ID, method name and method args. If enough users
-   /// vote "yes" on the proposal, the given method will be called with the given method
-   /// args on the given canister.
+   /// Submeter uma proposta
    submit_proposal: (ProposalPayload) -> (Result_2);
-   /// Transfer tokens from the caller's account to another account
+   /// Transferir tokens da conta do `caller` para outra conta
    transfer: (TransferArgs) -> (Result_1);
-   /// Update system params
-   /// 
-   /// Only callable via proposal execution
+   /// Atualizar parâmetros do sistema
    update_system_params: (UpdateSystemParamsPayload) -> ();
    vote: (VoteArgs) -> (Result);
  };
