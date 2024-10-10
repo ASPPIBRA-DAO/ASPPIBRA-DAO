@@ -85,6 +85,7 @@ type Account =
  };
 service : {
   account_balance: () -> (Tokens) query;
+  create_account: (opt Tokens) -> (Result_1);
   get_proposal: (nat) -> (opt Proposal) query;
   get_system_params: () -> (SystemParams) query;
   list_accounts: () -> (vec Account) query;

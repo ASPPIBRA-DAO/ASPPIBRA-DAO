@@ -43,12 +43,48 @@ main {
 }
 
 
-/* Sidebar Form Styles */
+/* Sidebar Styles */
 .sidebar-right {
     grid-column: 3;
     padding: 20px;
     background-color: #f2f2f2;
 }
+
+.user-list {
+    list-style-type: none;
+    /* Remove bullets */
+    padding: 0;
+    /* Remove padding */
+    margin: 0;
+    /* Remove margin */
+}
+
+.user-item {
+    display: flex;
+    /* Alinha o logo e o nome na horizontal */
+    align-items: center;
+    /* Centraliza verticalmente */
+    margin-bottom: 15px;
+    /* Espaço entre os itens da lista */
+}
+
+.user-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    /* Torna o logo redondo */
+    margin-right: 10px;
+    /* Espaço entre o logo e o nome */
+}
+
+.user-name {
+    flex-grow: 1;
+    text-align: right;
+    /* Alinha o nome à direita */
+    font-size: 16px;
+    font-weight: bold;
+}
+
 
 #app {
     background-color: #fff;
@@ -138,7 +174,7 @@ footer {
     padding: 10px 0;
 }
 
-/* Card styles */
+/* Card container styles */
 .card-container {
     display: flex;
     justify-content: center;
@@ -147,12 +183,14 @@ footer {
     margin-top: 20px;
 }
 
+/* Individual card styles */
 .card {
     position: relative;
     width: 250px;
     height: 350px;
     margin: 20px;
     perspective: 1000px;
+    /* Enables 3D space for the flip effect */
 }
 
 .card-inner {
@@ -161,9 +199,10 @@ footer {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 0.5s;
-    transform: translateZ(0);
+    /* Smooth transition for the flip */
 }
 
+/* Front and back card faces */
 .card-front,
 .card-back {
     position: absolute;
@@ -177,22 +216,31 @@ footer {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2),
         0 12px 32px rgba(0, 0, 0, 0.2),
         0 16px 64px rgba(0, 0, 0, 0.2);
+    backface-visibility: hidden;
+    /* Prevents the back face from showing when rotated */
 }
 
+/* Front face default state */
 .card-front {
     transform: rotateY(0deg);
     z-index: 2;
+    /* Ensures the front face is shown initially */
     transition: transform 0.5s, box-shadow 0.5s;
 }
 
+/* Back face default state */
 .card-back {
     transform: rotateY(180deg);
+    /* Initially hidden by rotation */
     z-index: 1;
+    /* Behind the front face */
     transition: transform 0.5s, box-shadow 0.5s;
 }
 
+/* Hover effects */
 .card:hover .card-front {
     transform: rotateY(0deg) translateY(-10px);
+    /* Lifts the front face slightly */
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2),
         0 24px 48px rgba(0, 0, 0, 0.2),
         0 36px 72px rgba(0, 0, 0, 0.2);
@@ -200,156 +248,29 @@ footer {
 
 .card:hover .card-back {
     transform: rotateY(180deg) translateY(-10px);
+    /* Lifts the back face slightly */
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2),
         0 24px 48px rgba(0, 0, 0, 0.2),
         0 36px 72px rgba(0, 0, 0, 0.2);
 }
 
+/* Flip the card when clicked */
 .card.clicked .card-inner {
     transform: rotateY(180deg);
+    /* Flips the card 180 degrees */
 }
 
 .card.clicked .card-back {
     z-index: 2;
+    /* Brings the back face to the front */
 }
 
-
-
-
-
-
-
-
-/* styles.css */
-
-/* Add your CSS styles here */
-
-/* General styles */
-body {
-    display: grid;
-    grid-template-columns: 1fr 4fr 1fr;
-    grid-template-rows: auto 1fr auto;
-    min-height: 100vh;
-    margin: 0;
-}
-
-header {
-    grid-column: 1 / 4;
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-main {
-    grid-column: 2;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    padding: 20px;
-}
-
-/* Sidebar styles */
-.sidebar {
-    padding: 20px;
-    background-color: #f2f2f2;
-}
-
-.sidebar-right {
-    grid-column: 3;
-    padding: 20px;
-    background-color: #f2f2f2;
-}
-
-/* Footer styles */
-footer {
-    grid-column: 1 / 4;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-}
-
-/* Card styles */
-.card-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+/* Styles for the image inside the card */
+.card-image {
+    width: 100%;
+    /* Makes the image fill the width of the card */
     height: auto;
-    margin-top: 20px;
-}
-
-.card {
-    position: relative;
-    width: 250px;
-    height: 350px;
-    margin: 20px;
-    perspective: 1000px;
-}
-
-.card-inner {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    transform-style: preserve-3d;
-    transition: transform 0.5s;
-    transform: translateZ(0);
-}
-
-.card-front,
-.card-back {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 10px;
-    backdrop-filter: blur(10px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2),
-        0 12px 32px rgba(0, 0, 0, 0.2),
-        0 16px 64px rgba(0, 0, 0, 0.2);
-}
-
-.card-front {
-    transform: rotateY(0deg);
-    z-index: 2;
-    transition: transform 0.5s, box-shadow 0.5s;
-}
-
-.card-back {
-    transform: rotateY(180deg);
-    z-index: 1;
-    transition: transform 0.5s, box-shadow 0.5s;
-}
-
-.card:hover .card-front {
-    transform: rotateY(0deg) translateY(-10px);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2),
-        0 24px 48px rgba(0, 0, 0, 0.2),
-        0 36px 72px rgba(0, 0, 0, 0.2);
-}
-
-.card:hover .card-back {
-    transform: rotateY(180deg) translateY(-10px);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2),
-        0 24px 48px rgba(0, 0, 0, 0.2),
-        0 36px 72px rgba(0, 0, 0, 0.2);
-}
-
-.card.clicked .card-inner {
-    transform: rotateY(180deg);
-}
-
-.card.clicked .card-back {
-    z-index: 2;
+    /* Keeps the aspect ratio intact */
+    border-radius: 10px 10px 0 0;
+    /* Optional: Add rounded corners to the image */
 }
