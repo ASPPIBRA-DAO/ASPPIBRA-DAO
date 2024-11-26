@@ -2,19 +2,19 @@
 
 ![Estatuto](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/0c3c60b8-e3c4-4508-82f3-894a0b33e93e)
 
-Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará informações detalhadas sobre as Leis as Regras e regulamentação que regi nossa organização.
+Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará informações detalhadas sobre as leis, regras e regulamentações que regem nossa organização.
 
-Nosso **Estatuto** ésta alinhado  com todas as Leis constitucionais da Replublica Federativa do Brasil. Trabalhamos de maneira eficiente e responsavel para entregar a melhor qualidade em serviços e produtos, contribuindo para o desenvolvimento sustentável e tecnológico da cosiedade moderna.
+Nosso **Estatuto** está alinhado com todas as leis constitucionais da República Federativa do Brasil. Trabalhamos de maneira eficiente e responsável para oferecer serviços e produtos de alta qualidade, contribuindo para o desenvolvimento sustentável e tecnológico da sociedade moderna.
 
 ## <h2 align="center">🚀 Documentação Completa:</h2>
 
-Acesse a documentação oficial, incluindo o **Estatuto Atualizado** com todas as atividades em andamento e planejadas, bem como informações sobre nossos processos, metas e soluções tecnológicas.
+Acesse a documentação oficial, incluindo o **Estatuto Atualizado**, que contém informações sobre nossas atividades em andamento e planejadas, além de detalhes sobre nossos processos, metas e soluções tecnológicas.
 
 🔗 **[Estatuto Atualizado](https://www.asppibra.com.br/quem-somos/estatuto)**
 
 ## <h2 align="center">🛠️ Sobre a ASPPIBRA-DAO:</h2>
 
-A **ASPPIBRA-DAO** é uma organização pioneira no uso de tecnologias emergentes como blockchain e DeFi, com o objetivo de promover:  
+A **ASPPIBRA-DAO** é uma organização pioneira no uso de tecnologias emergentes, como blockchain e DeFi, com o objetivo de promover:  
 - Inclusão digital;  
 - Regularização imobiliária;  
 - Desenvolvimento sustentável.  
@@ -30,16 +30,15 @@ Nosso compromisso é oferecer soluções inovadoras que impactem positivamente o
 
 Para mais detalhes, acesse o **[Estatuto Oficial](https://www.asppibra.com.br/quem-somos/estatuto)**.
 
-
 ## <h2 align="center">📧 Contato:</h2>
 
 Caso tenha dúvidas ou sugestões, entre em contato conosco:  
 📬 **Email**: [suporte@asppibra.com.br](mailto:suporte@asppibra.com.br)  
-🌐 **Site Oficial**: [www.asppibra.com.br](https://www.asppibra.com.br)  
+🌐 **Site Oficial**: [www.asppibra.com.br](https://www.asppibra.com.br)
 
 ## <h2 align="center">🎁 Apoie Nossa Missão:</h2>
 
-Aceitamos doações em criptomoedas para impulsionar nossos projetos e impactar ainda mais pessoas.  
+Aceitamos doações em criptomoedas para impulsionar nossos projetos e ampliar nosso impacto.  
 
 **Criptomoedas Suportadas:**
 
@@ -47,6 +46,7 @@ Aceitamos doações em criptomoedas para impulsionar nossos projetos e impactar 
 <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
 <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
 <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+</div>
 
 ## <h2 align="center"> <img src="https://img.icons8.com/nolan/25/computer.png"/> Conecte-se Conosco:</h2>
 
