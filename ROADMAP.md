@@ -36,9 +36,9 @@ Caso tenha dúvidas ou sugestões, entre em contato conosco:
 📬 **Email**: [suporte@asppibra.com.br](mailto:suporte@asppibra.com.br)  
 🌐 **Site Oficial**: [www.asppibra.com.br](https://www.asppibra.com.br)  
 
-## <h2 align="center">🎁 Apoie Nossa Missão com Doações em Criptomoedas:</h2>
+## <h2 align="center">🎁 Apoie Nossa Missão:</h2>
 
-Aceitamos doações para impulsionar nossos projetos e impactar ainda mais pessoas.  
+Aceitamos doações em criptomoedas para impulsionar nossos projetos e impactar ainda mais pessoas.  
 
 **Criptomoedas Suportadas:**
 
