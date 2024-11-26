@@ -6,11 +6,11 @@ Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará in
 
 Nosso **roadmap** é estruturado como uma lista de tarefas organizadas em uma ordem específica, com prazos claramente definidos. Trabalhamos de maneira eficiente para entregar a melhor qualidade em serviços e produtos, contribuindo para o desenvolvimento sustentável e tecnológico.
 
-## <h2 align="center">🚀 Acesse a Documentação Completa:</h2>
+## <h2 align="center">🚀 Documentação Completa:</h2>
 
 Acesse a documentação oficial, incluindo o **Roadmap Atualizado** com todas as atividades em andamento e planejadas, bem como informações sobre nossos processos, metas e soluções tecnológicas.
 
-🔗 **[Documentação Oficial e Roadmap Atualizado](https://www.asppibra.com.br/roadmap)**
+🔗 **[Roadmap Atualizado](https://www.asppibra.com.br/roadmap)**
 
 ## <h2 align="center">🛠️ Sobre a ASPPIBRA-DAO:</h2>
 
@@ -36,11 +36,11 @@ Caso tenha dúvidas ou sugestões, entre em contato conosco:
 📬 **Email**: [suporte@asppibra.com.br](mailto:suporte@asppibra.com.br)  
 🌐 **Site Oficial**: [www.asppibra.com.br](https://www.asppibra.com.br)  
 
-## 🎁 Apoie Nossa Missão com Doações em Criptomoedas
+## <h2 align="center">🎁 Apoie Nossa Missão com Doações em Criptomoedas:</h2>
 
 Aceitamos doações para impulsionar nossos projetos e impactar ainda mais pessoas.  
 
-### Criptomoedas Suportadas:
+**Criptomoedas Suportadas:**
 
 <div style="display: inline_block"><br>
 <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
