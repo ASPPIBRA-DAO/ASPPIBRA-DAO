@@ -4,7 +4,7 @@
 
 Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará informações detalhadas sobre os projetos, objetivos e progresso da organização.
 
-Nosso **roadmap** é estruturado como uma lista de tarefas organizadas em uma ordem específica, com prazos claramente definidos. Trabalhamos de maneira eficiente para entregar a melhor qualidade em serviços e produtos, contribuindo para o desenvolvimento sustentável e tecnológico.
+Nosso **roadmap** é estruturado como uma lista de tarefas organizadas em uma ordem específica, com prazos claramente definidos. Trabalhamos de maneira eficiente para entregar a melhor qualidade em serviços e produtos, contribuindo para o desenvolvimento sustentável e tecnológico da sociedade moderna.
 
 ## <h2 align="center">🚀 Documentação Completa:</h2>
 
