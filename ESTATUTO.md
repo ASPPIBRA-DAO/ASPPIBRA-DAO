@@ -31,12 +31,10 @@ Aceitamos doações em criptomoedas para impulsionar nossos projetos e ampliar n
      dae18bcf7748.svg">
   </a>
   <a href="https://" target="_blank">
-    <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da- 
-     dae18bcf7748.svg">
+    <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
   </a>
   <a href="https://" target="_blank">
-    <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da- 
-     dae18bcf7748.svg">
+    <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
   </a>
 <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
 <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
@@ -46,6 +44,10 @@ Aceitamos doações em criptomoedas para impulsionar nossos projetos e ampliar n
 <a href="https://" target="_blank">
   <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
 </a>
+<a href="https://" target="_blank">
+    <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da- 
+     dae18bcf7748.svg">
+  </a>
 
 
 ## <h2 align="center"> <img src="https://img.icons8.com/nolan/25/computer.png"/> Conecte-se Conosco:</h2>
