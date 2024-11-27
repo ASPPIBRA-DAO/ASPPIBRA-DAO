@@ -32,7 +32,7 @@ Nosso compromisso é oferecer soluções inovadoras que impactem positivamente o
 - **Inauguração do Centro Tecnológico de Desenvolvimento Urbano e Rural**: Em progresso!  
 - **Produção de Documentários sobre Agroflorestas**: Explorando temas como parques nacionais, agronegócio e mineração no Brasil.  
 
-Para mais detalhes, acesse o **[Roadmap Oficial](https://www.asppibra.com.br/quem-somos/diretoria)**.
+Para mais detalhes, acesse o **[Conselho Executivo Oficial](https://www.asppibra.com.br/quem-somos/diretoria)**.
 
 ## <h2 align="center">📧 Contato:</h2>
 
