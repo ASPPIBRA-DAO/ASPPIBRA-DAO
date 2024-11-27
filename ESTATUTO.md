@@ -2,33 +2,17 @@
 
 ![Estatuto](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/0c3c60b8-e3c4-4508-82f3-894a0b33e93e)
 
-Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará informações detalhadas sobre as leis, regras e regulamentações que regem nossa organização.
+Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará informações detalhadas sobre as leis, regras e regulamentações que regem nossa organização.  
 
-Nosso **Estatuto** está alinhado com todas as leis constitucionais da República Federativa do Brasil. Trabalhamos de maneira eficiente e responsável para oferecer serviços e produtos de alta qualidade, contribuindo para o desenvolvimento sustentável e tecnológico da sociedade moderna.
+Nosso **Estatuto** está alinhado com todas as leis constitucionais da República Federativa do Brasil. Trabalhamos de maneira eficiente e responsável para oferecer serviços e produtos de alta qualidade, contribuindo para o desenvolvimento sustentável e tecnológico da sociedade moderna.  
 
-## <h2 align="center">🚀 Documentação Completa:</h2>
+## <h2 align="center">🚀 Documentação Oficial</h2>  
 
-Acesse a documentação oficial, incluindo o **Estatuto Atualizado**, que contém informações sobre nossas atividades em andamento e planejadas, além de detalhes sobre nossos processos, metas e soluções tecnológicas.
+Acesse a documentação oficial, incluindo:  
+- **Estatuto Atualizado**: Informações detalhadas sobre as atividades em andamento e planejadas.  
+- **Processos, Metas e Soluções**: Transparência e eficiência em todas as nossas iniciativas.  
 
-🔗 **[Estatuto Atualizado](https://www.asppibra.com.br/quem-somos/estatuto)**
-
-## <h2 align="center">🛠️ Sobre a ASPPIBRA-DAO:</h2>
-
-A **ASPPIBRA-DAO** é uma organização pioneira no uso de tecnologias emergentes, como blockchain e DeFi, com o objetivo de promover:  
-- Inclusão digital;  
-- Regularização imobiliária;  
-- Desenvolvimento sustentável.  
-
-Nosso compromisso é oferecer soluções inovadoras que impactem positivamente os setores imobiliário e agronegócio no Brasil.
-
-## <h2 align="center">📌 Principais Destaques do Roadmap:</h2>
-
-- **Eleição da Nova Diretoria para o Ano Letivo 2025/2026**: Em andamento!  
-- **Implementação do Sistema DAO**: Em progresso!  
-- **Inauguração do Centro Tecnológico de Desenvolvimento Urbano e Rural**: Em progresso!  
-- **Produção de Documentários sobre Agroflorestas**: Explorando temas como parques nacionais, agronegócio e mineração no Brasil.  
-
-Para mais detalhes, acesse o **[Estatuto Oficial](https://www.asppibra.com.br/quem-somos/estatuto)**.
+🔗 **[Estatuto Atualizado](https://www.asppibra.com.br/quem-somos/estatuto)**  
 
 ## <h2 align="center">📧 Contato:</h2>
 
