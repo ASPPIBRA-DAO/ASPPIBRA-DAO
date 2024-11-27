@@ -2,9 +2,13 @@
 
 ![Diretoria](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/559090e5-a962-465d-aa02-3a7c547a899e)
 
-Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**. Aqui você encontrará informações detalhadas sobre os projetos, objetivos e progresso da organização.
+Bem-vindo ao repositório oficial da **ASPPIBRA-DAO** Aqui, você encontrará informações detalhadas sobre nossos projetos, objetivos e progresso.
+Nossa estrutura organizacional é composta por um **Conselho Executivo**, cujos membros possuem dupla nomenclatura: 
+- **Estrutura formal**: para a associação.
+- **Representação no mercado tecnológico**: voltada para inovação e modernização.
 
-Nosso **Conselho Executivo** é estruturado como uma lista de nomes organizadas por cargos e responsabilidades em uma ordem específica, sabendo que dentro  da estrutura de uma associação os cargos tem uma nomeclatura diferente mas cada menbro recebe duas nomeclaturas uma para a estrutura organizacional de cnpj e outra para representação perante o mercado de tecnologia, assim Trabalhamos de maneira eficiente para entregar a melhor qualidade em serviços e produtos, contribuindo para o desenvolvimento sustentável e tecnológico da sociedade moderna.
+Essa abordagem visa otimizar nossa eficiência na entrega de serviços e produtos de alta qualidade, contribuindo para o **desenvolvimento sustentável** e **tecnológico** da sociedade moderna.
+
 
 ## <h2 align="center">🚀 Documentação Completa:</h2>
 
