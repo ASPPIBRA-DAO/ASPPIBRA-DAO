@@ -8,9 +8,34 @@ Os Termos e Condições Gerais (**TCGs**) descritos a seguir regem a relação e
 
 Explore os **Termos e Condições Gerais (TCGs)** que regem a relação entre a **ASPPIBRA-DAO** e seus associados ou usuários, garantindo transparência e conformidade com as normas estabelecidas.  
 
-A documentação inclui:  
-- **Direitos e Deveres dos Associados**: Informações detalhadas sobre as obrigações e benefícios dos participantes.  
-- **Condições do Contrato de Distribuição de Tokens ASPPBR**: Regras, notificações e validade das disposições contratuais.  
+### **A documentação inclui:**  
+- **Sobre a aquisição dos Tokens digitais ASPPBR**  
+- **Distribuição de Tokens**  
+- **Tributação**  
+- **Recusa de Pedidos / Reembolsos de Compra**  
+- **A assinatura digital do usuário**  
+- **Processo de Registro e Venda**  
+- **Limitação de responsabilidade**  
+- **Isenções de responsabilidade**  
+- **Mudanças nos Termos e Condições**  
+- **Licença e uso de marca registrada**  
+- **Representações e garantias**  
+- **Direito de suspensão**  
+
+### **Fatores de Riscos e Desafios**  
+- **Risco de perda total**  
+- **Regulamento**  
+- **Risco de hacking e vulnerabilidades de segurança**  
+- **Risco de Tecnologia**  
+- **Risco de Marketing**  
+- **Concorrência**  
+- **Risco de Insolvência**  
+- **Sem garantia de comercialização**  
+
+### **Outros Tópicos Importantes**  
+- **Termo de Rescisão do Contrato de Distribuição Pública “ASPPBR”**  
+- **Solução de Controvérsias: Arbitragem**  
+- **Outro**  
 
 🔗 **[Termos e Condições Gerais](https://www.asppibra.com.br/quem-somos/termos-e-condicoes-gerais-tcgs)**  
 
