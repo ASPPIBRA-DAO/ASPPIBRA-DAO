@@ -1,4 +1,4 @@
-# [Termos e Condições Gerais TCGs](https://www.asppibra.com.br/)
+# [Termos e Condições Gerais TCGs](https://www.asppibra.com.br/quem-somos/termos-e-condicoes-gerais-tcgs)
 
 ![Termos e Condições Gerais](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/5f752284-918a-43d1-8e96-5ddfab12f09c)
 
