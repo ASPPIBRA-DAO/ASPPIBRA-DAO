@@ -1,5 +1,7 @@
 # [DIRETORIA](https://www.asppibra.com.br/quem-somos/diretoria)
 
+# <a href="https://www.asppibra.com.br/quem-somos/diretoria" target="_blank">DIRETORIA</a>
+
 ![Diretoria](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/559090e5-a962-465d-aa02-3a7c547a899e)
 
 Bem-vindo ao repositório oficial da **ASPPIBRA-DAO** Aqui, você encontrará informações detalhadas sobre nossos projetos, objetivos e progresso.
