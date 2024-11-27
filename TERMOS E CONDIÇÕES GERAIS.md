@@ -3,6 +3,17 @@
 ![Termos e Condições Gerais](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/5f752284-918a-43d1-8e96-5ddfab12f09c)
 
 Os Termos e Condições Gerais (**TCGs**) descritos a seguir regem a relação entre a **Associação dos Proprietários e Possuidores de Imóveis no Brasil**, doravante denominada **ASPPIBRA-DAO**, e qualquer pessoa física ou jurídica que atenda aos critérios estabelecidos no **Estatuto e Regimento Interno** e aceite as condições aqui contidas, referindo-se como associado ou usuário.  
+
+## <h2 align="center">📄 Termos e Condições Gerais</h2>  
+
+Explore os **Termos e Condições Gerais (TCGs)** que regem a relação entre a **ASPPIBRA-DAO** e seus associados ou usuários, garantindo transparência e conformidade com as normas estabelecidas.  
+
+A documentação inclui:  
+- **Direitos e Deveres dos Associados**: Informações detalhadas sobre as obrigações e benefícios dos participantes.  
+- **Condições do Contrato de Distribuição de Tokens ASPPBR**: Regras, notificações e validade das disposições contratuais.  
+
+🔗 **[Termos e Condições Gerais](https://www.asppibra.com.br/quem-somos/termos-e-condicoes-gerais-tcgs)**  
+
   
 ## <h2 align="center">📧 Contato:</h2>
 
