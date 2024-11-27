@@ -1,38 +1,23 @@
 # [DIRETORIA](https://www.asppibra.com.br/quem-somos/diretoria)
 
 ![Diretoria](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/559090e5-a962-465d-aa02-3a7c547a899e)
+  
+Bem-vindo ao repositório oficial da **ASPPIBRA-DAO**, uma iniciativa dedicada à inovação tecnológica e à modernização do setor imobiliário e agronegócio no Brasil. Aqui, você encontrará informações completas sobre nossos projetos, metas e avanços, bem como detalhes sobre nossa estrutura organizacional e as soluções que desenvolvemos para promover inclusão digital, sustentabilidade e desenvolvimento econômico.  
 
-Bem-vindo ao repositório oficial da **ASPPIBRA-DAO** Aqui, você encontrará informações detalhadas sobre nossos projetos, objetivos e progresso.
-Nossa estrutura organizacional é composta por um **Conselho Executivo**, cujos membros possuem dupla nomenclatura: 
-- **Estrutura formal**: para a associação.
-- **Representação no mercado tecnológico**: voltada para inovação e modernização.
+### **Nossa Estrutura Organizacional**  
 
-Essa abordagem visa otimizar nossa eficiência na entrega de serviços e produtos de alta qualidade, contribuindo para o **desenvolvimento sustentável** e **tecnológico** da sociedade moderna.
+A **ASPPIBRA-DAO** adota uma estrutura organizacional inovadora composta por um **Conselho Executivo** que desempenha dois papéis complementares:  
+- **Estrutura Formal**: Representa a associação em conformidade com as normas institucionais e legais.  
+- **Representação Tecnológica**: Focada na atuação no mercado de tecnologia, inovação e modernização.  
 
+Essa dualidade permite alinhar nossas iniciativas às demandas institucionais e tecnológicas, garantindo maior eficiência na entrega de serviços e produtos de alta qualidade, com impactos positivos no desenvolvimento sustentável e tecnológico da sociedade contemporânea.  
 
-## <h2 align="center">🚀 Documentação Completa:</h2>
+## <h2 align="center">🚀 Documentação Oficial</h2>  
 
-Acesse a documentação oficial, incluindo o **A Relação do Conselho Executivo Atualizado** com todas as atividades em andamento e planejadas, bem como informações sobre nossos processos, metas e soluções tecnológicas.
+Explore nossa documentação completa, que inclui:  
+- **Composição Atual do Conselho Executivo**: Perfis detalhados dos membros e suas funções.
 
-🔗 **[Conselho Executivo Atualizado](https://www.asppibra.com.br/quem-somos/diretoria)**
-
-## <h2 align="center">🛠️ Sobre a ASPPIBRA-DAO:</h2>
-
-A **ASPPIBRA-DAO** é uma organização pioneira no uso de tecnologias emergentes como blockchain e DeFi, com o objetivo de promover:  
-- Inclusão digital;  
-- Regularização imobiliária;  
-- Desenvolvimento sustentável.  
-
-Nosso compromisso é oferecer soluções inovadoras que impactem positivamente os setores imobiliário e agronegócio no Brasil.
-
-## <h2 align="center">📌 Principais Destaques do Roadmap:</h2>
-
-- **Eleição da Nova Diretoria para o Ano Letivo 2025/2026**: Em andamento!  
-- **Implementação do Sistema DAO**: Em progresso!  
-- **Inauguração do Centro Tecnológico de Desenvolvimento Urbano e Rural**: Em progresso!  
-- **Produção de Documentários sobre Agroflorestas**: Explorando temas como parques nacionais, agronegócio e mineração no Brasil.  
-
-Para mais detalhes, acesse o **[Conselho Executivo Oficial](https://www.asppibra.com.br/quem-somos/diretoria)**.
+🔗 **[Conselho Executivo Atualizado](https://www.asppibra.com.br/quem-somos/diretoria)**  
 
 ## <h2 align="center">📧 Contato:</h2>
 
