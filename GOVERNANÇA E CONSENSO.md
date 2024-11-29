@@ -2,6 +2,23 @@
 
 ![Governança Mundo Digital](https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Bitcoin/Governan%C3%A7a%20Mundo%20Digital.svg)
 
+A **ASPPIBRA-DAO** é uma iniciativa pioneira dedicada à inovação tecnológica e à modernização dos setores imobiliário e do agronegócio no Brasil. Nosso objetivo é impulsionar a inclusão digital, a sustentabilidade e o desenvolvimento econômico por meio de soluções tecnológicas avançadas e governança descentralizada.  
+
+### **Nossa Estrutura Organizacional**  
+
+A **ASPPIBRA-DAO** utiliza uma estrutura organizacional inovadora, composta por membros de diferentes nações, adotando um modelo de governança descentralizada baseado em **DAOs (Organizações Autônomas Descentralizadas)**.  
+
+Essa abordagem permite:  
+- Alinhamento eficiente entre demandas institucionais e tecnológicas.  
+- Maior transparência na apresentação de propostas e tomada de decisões.  
+- Entrega de serviços e produtos com impactos positivos e sustentáveis.  
+
+## <h2 align="center">🚀 Documentação Oficial</h2>  
+
+Explore nossa documentação completa, que inclui:  
+- **GOVERNANÇA E CONSENSO**: Informações detalhadas sobre nossos processos de tomada de decisão, perfis dos membros e funções dentro da organização.  
+
+🔗 **[GOVERNANÇA E CONSENSO](https://www.asppibra.com.br/quem-somos/governanca-e-consenso)**  
 
 ## <h2 align="center">📧 Contato:</h2>
 
